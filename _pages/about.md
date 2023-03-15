@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a postdoctoral researcher in the [Papathanaiou Lab Group](www.papathanlab.com) at the Sargent Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London. I am currently working on supply chain optimisation for [personalised healthcare manufacturing (CAR-T cells)](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub), and the application of computer-aided tools for design, control and optimisation for a wide range of processes. 
+I completed my PhD in Earth Science and Engineering at Imperial College in November 2022, for which I received the Messel Award from the Society of Chemical Industry, and the Young Person’s Award from Minerals Engineering International for my outstanding contribution to the mineral engineering field. I presented my PhD research at 15 conferences and seminars, including the British Parliament as part of the STEM for Britain event.
+![image](https://user-images.githubusercontent.com/79862171/225401845-04a19fe2-5d80-4eea-885e-c0c0e2c5e4d8.png)
 
 A data-driven personal website
 ======
