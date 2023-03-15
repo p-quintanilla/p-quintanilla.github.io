@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Dr Paulina Quintanilla"
+title                    : "Paulina Quintanilla"
 title_separator          : "-"
 name                     : &name "Dr Paulina Quintanilla"
 description              : &description "Sargent Centre for Process Systems Engineering"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Paulina Quintanilla"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at Imperial College London"
-  location         : "United Kingdom"
+  bio              : "Postdoctoral Researcher at Imperial College"
+  location         : "Imperial College London"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en"
