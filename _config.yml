@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paulina Quintanilla"
+  name             : "Dr Paulina Quintanilla"
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher at Imperial College"
   location         : "Imperial College London"
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _phd_research
   - scope:
       path: ""
       type: portfolio
