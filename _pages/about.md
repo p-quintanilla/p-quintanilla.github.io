@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Papathanaiou Lab Group](www.papathanlab.com) at the Sargent Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London. I am currently working on supply chain optimisation for [personalised healthcare manufacturing (CAR-T cells)](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub), and the application of computer-aided tools for design, control and optimisation for a wide range of processes. 
-I completed my PhD in Earth Science and Engineering at Imperial College in November 2022, for which I received the Messel Award from the Society of Chemical Industry, and the Young Person’s Award from Minerals Engineering International for my outstanding contribution to the mineral engineering field. I presented my PhD research at 15 conferences and seminars, including the British Parliament as part of the STEM for Britain event.
-![image](https://user-images.githubusercontent.com/79862171/225401845-04a19fe2-5d80-4eea-885e-c0c0e2c5e4d8.png)
+I am a postdoctoral researcher in the [Papathanaiou Lab Group](https://www.papathanlab.com/) at the Sargent Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London. I am currently working on supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub
+](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub), and the application of computer-aided tools for design, control and optimisation for a wide range of processes. 
 
-A data-driven personal website
+I completed my PhD in Earth Science and Engineering at Imperial College in November 2022, for which I received two awards: the [Messel Scholarship](https://www.soci.org/news/awards/scholars/2020-paulina-quintanilla) from the Society of Chemical Industry, and the [Young Person’s Award](https://min-eng.blogspot.com/2022/03/mei-young-persons-award-2021-to-paulina.html) from Minerals Engineering International for my outstanding contribution to the mineral engineering field. I presented my PhD research at 15 conferences and seminars, including the British Parliament as part of the STEM for Britain event.
+
+
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
