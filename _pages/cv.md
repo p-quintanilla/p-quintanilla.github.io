@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2018-2022: PhD in Earth Science and Engineering, Imperial College London, United Kingdom
+* 2017: BEng and MSc in Chemical Engineering, Universidad T\'ecnica Federico Santa Mar\'ia, Chile
 
 Work experience
 ======
