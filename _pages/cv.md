@@ -9,46 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Qualifications
 ======
 * 2018-2022: PhD in Earth Science and Engineering, Imperial College London, United Kingdom
-* 2017: BEng and MSc in Chemical Engineering, Universidad Técnica Federico Santa María, Chile
-
-
-
-::: center
-[Paulina Quintanilla]{.smallcaps}\
-[ [p.quintanilla@imperial.ac.uk]{style="color: blue"}](mailto:p.quintanilla@imperial.ac.uk)
-   
-[ [PWP]{style="color: blue"}](https://imperial.ac.uk/people/p.quintanilla)
-   
-[ [/in/paulinaquintanilla]{style="color: blue"}](https://linkedin.com/in/paulinaquintanilla/)
- 
-:::
-
-# Qualifications
-
--   ------------------------------------------ --------------------------
-      **PhD in Earth Science and Engineering**                 **Nov 2022**
-      [Imperial College London]{.smallcaps}        *London, United Kingdom*
-      ------------------------------------------ --------------------------
-
 -    Thesis: *Dynamic physics-based flotation models for effective
     predictive control*
-
--   -------------------------------------------------------- ---------------------
-      **MSc and BEng in Chemical Engineering**                          **Jan 2017**
-      [Universidad Técnica Federico Santa María]{.smallcaps}     *Valparaíso, Chile*
-      -------------------------------------------------------- ---------------------
-
+* 2017: BEng and MSc in Chemical Engineering, Universidad Técnica Federico Santa María, Chile
 -    Thesis: *Analysis of the effect of pressure and porosity on
     diffusion-controlled leaching*
 
-# Relevant experience
-
-::: itemize
-  ------------------------------------------------------------ --------------------------
-  **Postdoctoral Researcher in Process Systems Engineering**           **Dec 2022 - now**
+Work experience
+======
+* Dec 2022-now: Postdoctoral Researcher in Process Systems Engineering*
   [Imperial College London]{.smallcaps}                          *London, United Kingdom*
   ------------------------------------------------------------ --------------------------
 
