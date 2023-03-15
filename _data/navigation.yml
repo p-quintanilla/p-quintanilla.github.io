@@ -2,15 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "PhD Research"
+    url: /phd-research/
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
