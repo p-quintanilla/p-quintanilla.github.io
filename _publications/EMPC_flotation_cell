@@ -7,3 +7,10 @@ venue: 'Minerals Engineering'
 link: 'https://www.sciencedirect.com/science/article/pii/S089268752300064X'
 citation: 'Quintanilla, P., Navia, D., Neethling, S. J., & Brito-Parada, P. R. (2023). Economic model predictive control for a rougher froth flotation cell using physics-based models. Minerals Engineering, 196, 108050. https://doi.org/10.1016/j.mineng.2023.108050'
 ---
+*Highlights:*
+
+- Novel EMPC strategy using dynamic physics-based froth models is presented.
+- Sensitivity analyses support the construction of a robust objective function.
+- Objective function includes dynamic air recovery, grade, and steady-state recovery.
+- Inclusion of dynamic air recovery dynamic improves flotation performance.
+- Simulation results show improvements of 8–22% in metallurgical recovery.
