@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Papathanaiou Lab Group](https://www.papathanlab.com/) at the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/), [Department of Chemical Engineering](https://www.imperial.ac.uk/chemical-engineering/), Imperial College London. I am currently working on supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub
+I am a postdoctoral researcher in the [Papathanasiou Lab Group](https://www.papathanlab.com/) at the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/), [Department of Chemical Engineering](https://www.imperial.ac.uk/chemical-engineering/), Imperial College London. I am currently working on supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub
 ](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub), and the application of computer-aided tools for design, control and optimisation for a wide range of processes. 
 
 I completed my PhD in Earth Science and Engineering at Imperial College in November 2022, for which I received two awards: the [Messel Scholarship](https://www.soci.org/news/awards/scholars/2020-paulina-quintanilla) from the Society of Chemical Industry, and the [Young Person’s Award](https://min-eng.blogspot.com/2022/03/mei-young-persons-award-2021-to-paulina.html) from Minerals Engineering International for my outstanding contribution to the mineral engineering field. I presented my PhD research at 15 conferences and seminars, including the British Parliament as part of the STEM for Britain event.
