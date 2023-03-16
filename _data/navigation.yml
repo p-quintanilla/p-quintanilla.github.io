@@ -1,22 +1,19 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+    
   - title: "Publications"
     url: /publications/
-    
-  - title: "PhD Research"
-    url: /phd-research/
 
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    
+- title: "Software"
+    url: /software/ 
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
