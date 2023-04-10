@@ -12,11 +12,11 @@ Welcome! I am a postdoctoral researcher applying computer-aided tools for modell
 
 I earned my PhD in Earth Science and Engineering from Imperial College London and my BEng and MSc in Chemical Engineering from Universidad Técnica Federico Santa María (Valparaíso, Chile). I am currently working on supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub), and the application of computer-aided tools for optimisation of a wide range of processes, ranging from bioprocesses to energy systems and minerals processing.
 
-![](Inicio.pdf)
+![](/_pages/Inicio.pdf)
 
 On this website:
-1. [Research](#research.md)
-2. [Publications](#publications.md)
+1. [Research](/research)
+2. [Publications](/publications)
 
 ## Awards
 
