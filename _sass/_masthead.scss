@@ -11,13 +11,14 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  width: 50%;
+  width: 100%;
   background: #fff;
-  height: 0px;
+  height: 50px;
   
   &__inner-wrap {
     @include container;
     @include clearfix;
+    padding-top: 50px;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
@@ -39,7 +40,7 @@
 
   ul {
     margin: 0;
-    padding: 0;
+    padding: 85px 0 0;
     clear: both;
     list-style-type: none;
   }
