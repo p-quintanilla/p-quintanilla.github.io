@@ -13,7 +13,7 @@
   z-index: 20;
   width: 100%;
   background: #fff;
-  height: 10px;
+  
   
   &__inner-wrap {
     @include container;
@@ -39,7 +39,7 @@
 
   ul {
     margin: 0;
-    padding: 85px 0 0;
+    padding: 0;
     clear: both;
     list-style-type: none;
   }
