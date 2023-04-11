@@ -8,7 +8,7 @@ redirect_from:
 ---
 ![](/_pages/1.png)
 
-I am a **Postdoctoral Researcher** at the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/) in the [Department of Chemical Engineering](https://www.imperial.ac.uk/chemical-engineering/) at [Imperial College London](https://www.imperial.ac.uk). 
+I am a **Postdoctoral Researcher** in the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/) in the [Department of Chemical Engineering](https://www.imperial.ac.uk/chemical-engineering/) at Imperial College London.
 
 I received my **PhD** from the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/ese) at Imperial College London, and my BEng and MSc in **Chemical Engineering** from [Universidad Técnica Federico Santa María](https://www.usm.cl) in Valparaíso, Chile. I am currently working in the [Papathanasiou Lab Group](https://www.papathanlab.com/) on supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub). 
 
