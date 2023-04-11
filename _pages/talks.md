@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Conferences and seminars"
+title: "Presentations in conferences & seminars"
 ---
 
 
