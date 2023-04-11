@@ -14,7 +14,7 @@ I am a postdoctoral researcher applying computer-aided tools for modelling, proc
 
 I am currently working on supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub), and the application of computer-aided tools for optimisation of a wide range of processes, ranging from bioprocesses to energy systems and minerals processing.
 
-![](/_pages/Inicio.pdf)
+![](/_pages/inicio2.png)
 
 ## Very brief academic bio
 
