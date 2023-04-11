@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoctoral researcher at Imperial College, applying computer-aided tools for modelling, process design, optimisation and control. 
 ![](/_pages/inicio3.png)
 
-## On this website you'll find about:
+## On this website you'll find:
 1. [Research](/research)
 2. [Publications](/publications)
 3. [Awards & external funding](/awards)
