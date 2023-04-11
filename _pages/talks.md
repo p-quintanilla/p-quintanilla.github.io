@@ -33,4 +33,7 @@ title: "Conferences and seminars"
 ## Poster presentations:
 
 * **Society of Chemical Industry - Annual General Meeting** (invited), London, United Kingdom, July 2022. _Optimising mineral process systems -- The transition to green energy will need bubbles!_ Received 1st place for **Best Poster Award**. 
+
+* **STEM for Britain competition**, London, United Kingdom, March 2022. _Optimising mineral process systems -- The transition to green energy will need bubbles!_ 
+
 * **ESE PhD conference**, Earth Science and Engineering Department, Imperial Colelge London, United Kingdom, June 2019. _Dynamic physics-based flotation model for effective predictive control_ Received 2nd place for **Best Poster Award**. 
