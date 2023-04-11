@@ -34,6 +34,6 @@ title: "Conferences and seminars"
 
 * **Society of Chemical Industry - Annual General Meeting** (invited), London, United Kingdom, July 2022. _Optimising mineral process systems -- The transition to green energy will need bubbles!_ Received 1st place for **Best Poster Award**. 
 
-* **STEM for Britain competition**, London, United Kingdom, March 2022. _Optimising mineral process systems -- The transition to green energy will need bubbles!_ 
+* **STEM for Britain competition**, London, United Kingdom, March 2022. _Optimising mineral process systems -- The transition to green energy will need bubbles!_ [LinkedIn post](https://www.linkedin.com/posts/paulinaquintanilla_outreach-activity-6907767055844831232-nrKf?utm_source=share&utm_medium=member_desktop)
 
 * **ESE PhD conference**, Earth Science and Engineering Department, Imperial Colelge London, United Kingdom, June 2019. _Dynamic physics-based flotation model for effective predictive control_ Received 2nd place for **Best Poster Award**. 
