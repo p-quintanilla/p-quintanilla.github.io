@@ -14,7 +14,7 @@ I received my **PhD** from the [Department of Earth Science and Engineering](htt
 
 My research interests include the application of computer-aided tools for **modelling, control and optimisation** of a wide range of processes, ranging from bioprocesses to energy systems and minerals processing:
 
-![](/_pages/inicio3.png)
+![](/_pages/inicio4.png)
 
 ## What's on this website:
 
