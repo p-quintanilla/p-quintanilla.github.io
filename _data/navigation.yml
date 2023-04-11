@@ -15,7 +15,10 @@ main:
     
   - title: "Teaching"
     url: /teaching/
-
+    
+  - title: "Outreach"
+    url: /outreach/
+    
   - title: "Software"
     url: /software/
     
