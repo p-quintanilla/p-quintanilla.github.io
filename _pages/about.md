@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+![](/_pages/header-welcome.png)
 
 I am a **Postdoctoral Researcher** at the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/) in the [Department of Chemical Engineering](https://www.imperial.ac.uk/chemical-engineering/) at [Imperial College London](https://www.imperial.ac.uk). 
 
