@@ -18,7 +18,7 @@ My research interests include the application of computer-aided tools for **mode
 
 ## What's on this website:
 
-This website is dedicated to sharing my research findings and interests. Here, you can find information about my past and current research projects, publications, and collaborations. Please feel free to explore the website, and don't hesitate to [contact me](emailto:p.quintanilla@imperial.ac.uk) if you have any questions or are interested in collaborating on research projects. 
+This website is dedicated to sharing my research findings and interests. Here, you can find information about my past and current research projects, publications, and collaborations. Please feel free to explore the website, and don't hesitate to contact me if you have any questions or are interested in collaborating on research projects. 
 
 1. [Research](/research)
 2. [Publications](/publications)
