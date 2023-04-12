@@ -1,8 +1,8 @@
 ---
 permalink: /talks/
-title: "Presentations in conferences & seminars"
 ---
 
+![](/_pages/5.png)
 
 ## Oral presentations:
 
