@@ -22,7 +22,7 @@ This website is dedicated to sharing my research findings and interests. Here, y
 
 1. [Research](/research)
 2. [Publications](/publications)
-3. [Awards & external funding](/awards)
+3. [Awards and external funding](/awards)
 4. [Talks in conferences and seminars](/talks.html)
 5. [Teaching](/teaching.html)
 6. [Outreach, volunteering and extra activities](/outreach)
