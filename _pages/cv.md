@@ -29,7 +29,7 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 
 * **Nov 2022** 	Research Assistant, Department of Earth Science and Engineering, Imperial College London.
 
-* **Jun - Sept 2022** Co-supervisor of an MSc in Applied Computational Science student, Earth Science and Engineering, Imperial College London. Project: “Bubble Analyser - Identification and characterisation of bubbles using Machine Learning”.
+* **Jun - Sept 2022** Co-supervisor of an MSc in Applied Computational Science student, Earth Science and Engineering, Imperial College London. Project: “_Bubble Analyser - Identification and characterisation of bubbles using Machine Learning_”.
 
 * **2017-2018** Guest lecturer, Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile.:
   * Modules:
@@ -38,8 +38,8 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 
 * **2017-2018**	Co-supervisor of two final-year engineering projects, Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile.
   * Projects:
-    * 1. _Incorporation of disturbance estimation in real-time optimisation systems for process supervision._
-    * 2. _Implementation of nested modifier adaptation for real-time optimisation under disturbances._
+    * 1. _"Incorporation of disturbance estimation in real-time optimisation systems for process supervision"._
+    * 2. _"Implementation of nested modifier adaptation for real-time optimisation under disturbances"._
 
 * **2017-2018** Research Assistant, Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile. Project: Including stochastic information in Real-Time Optimization for process supervision
   
@@ -52,14 +52,3 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-# Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
