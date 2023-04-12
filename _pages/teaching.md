@@ -5,13 +5,13 @@ permalink: /teaching/
 
 ## Guest Lecturer:
 
-### At Department of Earth Science and Engineering, Imperial College London. 
+### Department of Earth Science and Engineering, Imperial College London, London, United Kingdom. 
 
 Module: 
 
 * **Mining Geology & Engineering**: The module provides students with an understanding of key aspects of how geological and engineering knowledge is applied to the discovery of ore deposits, and development of mines, devising efficient mining and mineral processing methodologies and sustainable legacies. I specifically taught a session on mineral processing and flowsheet design, covering topics of mineral processing routes, unit operations, mass balances and calculations.
 
-### At Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile.
+### Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile.
 
 Modules:
 
