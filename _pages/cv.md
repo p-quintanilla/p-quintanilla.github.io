@@ -53,5 +53,7 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
   {% endfor %}</ul>
   
   
+  ## You can download a copy of my CV from the PDF below (_last updated: April 2023_): 
+  
   <iframe src="/files/PQ_CV_March2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
   
