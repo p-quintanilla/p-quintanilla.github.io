@@ -14,7 +14,7 @@ Some of my public engagement and volunteer experiences are:
 
 * March 2023 - Chaired a session in the **Towards Net Zero Seminar**, held in the Chemical Engineering Department at Imperial College London. 
 
-* Feb 2023: I was one of the four speakers for a **talk on Careers** given at a **London-based school**. This initiative was organised by IChemE.
+* Feb 2023: I was one of the four speakers for a **talk on [Inspiring Chemical Engineering – How to stand out](https://www.icheme.org/membership/communities/member-groups/london-and-south-east-coast-young-members/events/28-02-23-inspiring-chemical-engineering-how-to-stand-out/)** given at a **London-based school**. This initiative was organised by IChemE.
 
 * November 2022 - Chaired a session at the **Process Mineralogy conference** in Sitges, Spain. The event was organised by Minerals Engineering International. 
 
