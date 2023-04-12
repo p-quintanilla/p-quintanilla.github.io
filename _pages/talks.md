@@ -30,6 +30,8 @@ permalink: /talks/
 
 * **International Federation of Automatic Control Conference - Mining, Mineral and Metal Processing**, Stellenbosch, South Africa, August 2019. _Dynamic physics-based flotation models for effective predictive control: State-of-the-art._
 
+![](/_pages/photos_conf2.png)
+
 ## Poster presentations:
 
 * **Society of Chemical Industry - Annual General Meeting** (invited), London, United Kingdom, July 2022. _Optimising mineral process systems -- The transition to green energy will need bubbles!_ Received 1st place for **Best Poster Award**. 
@@ -38,4 +40,3 @@ permalink: /talks/
 
 * **ESE PhD conference**, Earth Science and Engineering Department, Imperial Colelge London, United Kingdom, June 2019. _Dynamic physics-based flotation model for effective predictive control_ Received 2nd place for **Best Poster Award**. 
 
-![](/_pages/photos_conf.png)
