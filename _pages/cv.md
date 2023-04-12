@@ -43,7 +43,7 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 
 * **2017-2018** Research Assistant, Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile. Project: Including stochastic information in Real-Time Optimization for process supervision
   
-## INTERNSHIPS IN PROCESS ENGINEERING: 
+**Interships in Process Engineering:**
 * **Jan/Feb 2014** - Jan/Feb 2016 INACAL S.A, Cementos Bío-Bío (Cement and Lime Industry), Copiapó, Chile.
 * **Aug/Sept 2016** Empresa Nacional del Petróleo (Petrochemical Industry), Concón, Chile.
 
