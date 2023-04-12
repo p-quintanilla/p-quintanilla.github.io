@@ -4,7 +4,6 @@ permalink: /awards/
 
 ![](/_pages/2.png)
 
-
 ## Awards
 
 - **IChemE Global Awards 2022 - Young researcher finalist**, Institution of Chemical Engineers, 2022. [LinkedIn post](https://www.linkedin.com/posts/paulinaquintanilla_what-a-great-night-i-had-at-the-institution-activity-6999700569758048256-RB2l?utm_source=share&utm_medium=member_desktop)
@@ -14,6 +13,8 @@ permalink: /awards/
 - **Best Graduated Chemical Engineer 2017**, Colegio de Ingenieros de Chile A.G (National Engineering College), Chile, April 2018.
 - **Best Graduated Chemical Engineer 2017**, Universidad Técnica Federico Santa María, Chile, December 2017. 
 - **Student's Top List ("Lista de honor")** from 2011 to 2016 -  Universidad Técnica Federico Santa María, Chile.
+
+![](/_pages/awards.png)
 
 ## External funding
 - **SCI Scholarship 2020**: Scholarship of £5,000 over two years to support my studies at Imperial College London. 
