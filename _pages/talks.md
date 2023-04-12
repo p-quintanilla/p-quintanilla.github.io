@@ -6,6 +6,8 @@ permalink: /talks/
 
 ## Oral presentations:
 
+* **Seminario de Ingeniería Química** (invited), Universidad Técnica Federico Santa María, Santiago, Chile, December 2022. 
+
 * **Society of Chemical Industry - College of Scholars Day** (invited), London, United Kingdom, November 2022. _Optimising mineral process systems_. 
 
 * **Towards Net Zero Seminars** (invited), Department of Chemical Engineering, Imperial College London, London, United Kingdom, November 2022. _Optimising mineral process systems -- The transition to green energy will need bubbles!_
@@ -30,7 +32,7 @@ permalink: /talks/
 
 * **International Federation of Automatic Control Conference - Mining, Mineral and Metal Processing**, Stellenbosch, South Africa, August 2019. _Dynamic physics-based flotation models for effective predictive control: State-of-the-art._
 
-![](/_pages/photos_conf2.png)
+![](/_pages/photos_conf4.png)
 
 ## Poster presentations:
 
