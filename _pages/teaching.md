@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /teaching/
-author_profile: true
 ---
+![](/_pages/7.png)
