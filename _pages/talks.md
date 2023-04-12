@@ -4,6 +4,8 @@ permalink: /talks/
 
 ![](/_pages/5.png)
 
+![](/_pages/photos_conf4.png)
+
 ## Oral presentations:
 
 * **Seminario de Ingeniería Química** (invited), Universidad Técnica Federico Santa María, Santiago, Chile, December 2022. 
@@ -32,7 +34,7 @@ permalink: /talks/
 
 * **International Federation of Automatic Control Conference - Mining, Mineral and Metal Processing**, Stellenbosch, South Africa, August 2019. _Dynamic physics-based flotation models for effective predictive control: State-of-the-art._
 
-![](/_pages/photos_conf4.png)
+
 
 ## Poster presentations:
 
