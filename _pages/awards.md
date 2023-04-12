@@ -5,7 +5,7 @@ permalink: /awards/
 ![](/_pages/2.png)
 
 
-## Prizes
+## Awards
 
 - IChemE Global Awards 2022 - Young researcher finalist, Institution of Chemical Engineers, 2022. 
 - Best Poster Award, Society of Chemical Industry, London, United Kingdom, June 2022.
