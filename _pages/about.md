@@ -25,7 +25,7 @@ This website is dedicated to sharing my research findings and interests. Here, y
 3. [Awards & external funding](/awards)
 4. [Talks in conferences and seminars](/talks.html)
 5. [Teaching](/teaching.html)
-6. [Extra activities](/outreach)
+6. [Outreach, volunteering and extra activities](/outreach)
 7. [Software: BubbleAnalyser](/software)
 8. [My CV](/cv)
 
