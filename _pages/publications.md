@@ -6,7 +6,7 @@ author_profile: true
 
 ![](/_pages/4.png)
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en).
+I am the corresponding author of 7 out of 8 of my papers:
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
@@ -17,3 +17,5 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+_You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en)._
