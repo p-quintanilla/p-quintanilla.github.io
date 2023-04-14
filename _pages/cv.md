@@ -55,7 +55,5 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
   
 ### You can download a copy of my CV from the PDF below (_last updated: April 2023_): 
 
-<embed src="{{ site.baseurl }}/files/Quintanilla_CV_April2023.pdf" width=100% height="700" type='application/pdf'> 
-
 <iframe src="/files/Quintanilla_CV_April2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
   
