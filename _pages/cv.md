@@ -33,13 +33,13 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 
 * 2017-2018: **Guest lecturer**, Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile.:
   * Modules:
-    *   1. **Process Control Seminar:** I taught basic theory on feedback control. The main part of this course was for students to set up an experimental rig from         the calibration of instruments to its connection to PLCs, control logic, and create an HMI (human-machine interface) using Intouch Wonderware software.
-    *   2. **Statistical Design and Analysis of Industrial Experiments**: Applied Statistics and probability for engineers, including continuous random variables and probability distributions, joint probability distributions, statistic intervals, test of hypotheses,  statistical inference for two samples, linear regression, and design of experiments with several factors.
+     1. **Process Control Seminar:** I taught basic theory on feedback control. The main part of this course was for students to set up an experimental rig from         the calibration of instruments to its connection to PLCs, control logic, and create an HMI (human-machine interface) using Intouch Wonderware software.
+     2. **Statistical Design and Analysis of Industrial Experiments**: Applied Statistics and probability for engineers, including continuous random variables and probability distributions, joint probability distributions, statistic intervals, test of hypotheses,  statistical inference for two samples, linear regression, and design of experiments with several factors.
 
 * 2017-2018: **Co-supervisor** of **two final-year engineering projects**, Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile.
   * Projects:
-    * 1. _"Incorporation of disturbance estimation in real-time optimisation systems for process supervision"._
-    * 2. _"Implementation of nested modifier adaptation for real-time optimisation under disturbances"._
+     1. _"Incorporation of disturbance estimation in real-time optimisation systems for process supervision"._
+     2. _"Implementation of nested modifier adaptation for real-time optimisation under disturbances"._
 
 * 2017-2018: **Research Assistant**, Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile. Project: Including stochastic information in Real-Time Optimization for process supervision
   
@@ -53,7 +53,7 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
   {% endfor %}</ul>
   
   
-  ## You can download a copy of my CV from the PDF below (_last updated: April 2023_): 
+## You can download a copy of my CV from the PDF below (_last updated: April 2023_): 
   
-  <iframe src="/files/PQ_CV_March2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Quintanilla_CV_April2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
   
