@@ -21,7 +21,7 @@ But...
 
 ### Why do we care about optimising mineral processes?
 
-Building clean technologies for the transition to 100\% green energy is creating a massive demand for a range of minerals. For example, copper mines would have to ramp up production considerably to satisfy the extra 7\% predicted demand. Meeting that demand, however, is becoming more and more challenging as ores are becoming lower grade, deeper, and more complex. This implies that there is an urgent need to optimise current processes to extract the necessary minerals and metals in a more sustainable and efficient way. The largest tonnage separation process used to separate valuables minerals from the waste rock is called froth flotation.
+Building clean technologies for the transition to 100% green energy is creating a massive demand for a range of minerals. For example, copper mines would have to ramp up production considerably to satisfy the extra 7% predicted demand. Meeting that demand, however, is becoming more and more challenging as ores are becoming lower grade, deeper, and more complex. This implies that there is an urgent need to optimise current processes to extract the necessary minerals and metals in a more sustainable and efficient way. The largest tonnage separation process used to separate valuables minerals from the waste rock is called froth flotation.
 
 ### What is froth flotation?
 
