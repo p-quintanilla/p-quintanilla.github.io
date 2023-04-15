@@ -24,7 +24,7 @@ Some of my public engagement and volunteer experiences are:
 
 * June 2019 - Volunteer at **Exhibition Road Festival** organised by Imperial College London. 
 
-* 2013 - 2016: I participated in a small organization called CCU, with which we collected money to buy food for homeless people from Valparaiso (Chile), as well as to programme activities for orphaned children from the National Service for Children (in Spanish: SENAME) and some activities in nursing homes. My responsibilities included promoting the organization in order to catch more people, collecting money and donations, buying food and/or clothes when necessary, and distributing donations to people in need.
+* 2013 - 2016: I participated in an organisation with which we collected money to buy food for homeless people from Valparaiso (Chile), as well as to programme activities for orphaned children from the National Service for Children (in Spanish: SENAME) and some activities in nursing homes. My responsibilities included promoting the organisation, collecting money and donations, buying food and/or clothes when necessary, and distributing donations to people in need.
 
-* 2011 - 2016: I participated in a voluntary organization called "AccionEduca", which aims to provide academic support to students in a low-financial income school in Valparaiso. My responsibilities were to provide academic support in a public school in Valparaiso, Chile, for which I taught Maths and Spanish every Friday and Saturday, to children between 8 and 14 years.
+* 2011 - 2016: I participated in a voluntary organization called "AccionEduca", which aims to provide academic support to students in a low-financial income school in Valparaiso, Chile. My responsibilities were to provide academic support in a public school and teach Maths and Spanish (grammar) every Friday and Saturday, to children between 8 and 14 years.
 
