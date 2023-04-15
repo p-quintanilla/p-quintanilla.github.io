@@ -12,7 +12,8 @@ My expertise lies in **dynamic modelling** for **model-based control** strategie
 
 Currently, one of my key interests is integrating **machine learning tools** for combining **data-driven models** with **physics-based models**. This approach combines the strengths of both types of models, allowing for more accurate and efficient predictions of process performance. By leveraging machine learning algorithms, we can extract meaningful insights from large amounts of data, identifying patterns that may not be obvious with traditional modelling techniques. Then, **digital twins** (i.e. virtual replicas of real-world systems) can be developed and used to simulate the behaviour of the physical system in real-time, allowing for **improved control and optimisation** of the process. By combining data-driven models with physics-based models, we can create more accurate representations of complex systems, enabling us to make **better-informed decisions** and optimise systems more effectively.
 
-## PhD Research (2018-2022): _"Dynamic physics-based flotation models for effective predictive control"_
+## PhD Research (2018-2022):
+## _"Dynamic physics-based flotation models for effective predictive control"_
 
 My PhD research was about developing and implementing dynamic flotation models for model-based control.
 
@@ -58,8 +59,12 @@ The implementation of E-MPC in the laboratory-scale flotation rig also improved 
 
 
 
-## Other collaborations: 
+## Ongoing collaborations: 
 
-* “[Bubble Analyser](/software) – An open-source software for bubble size analysis”, which has resulted in a published paper. This software was collaboratively developed by Dr Diego Mesa, Dr Francisco Reyes, and me. We are now working together with two Imperial MSc students from the Applied Computational Science and Engineering program on a 2.0 version to implement several different algorithms, including computer vision and machine learning techniques. I am co-supervising the MSc project entitled: “Bubble Analyser - Identification and characterisation of bubbles using Machine Learning”.
+* “_**[Bubble Analyser](/software) – An open-source software for bubble size analysis**_”, which has resulted in a published paper. This software was collaboratively developed by Dr Diego Mesa, Dr Francisco Reyes, and me. We are now working together with two Imperial MSc students from the Applied Computational Science and Engineering program on a 2.0 version to implement several different algorithms, including computer vision and machine learning techniques. I am co-supervising the MSc project entitled: “Bubble Analyser - Identification and characterisation of bubbles using Machine Learning”.
 
-* “Optimal control strategies for hydrogen-vanadium hybrid redox flow batteries using physics-based models”. The aim of this collaboration is (a) to implement a model predictive control strategy in a laboratory-scale battery cell using physics-based models, and (b) to scale up the model predictive control strategy for a stack (many batteries connected in series) system.
+* “**_Optimal control strategies for hydrogen-vanadium hybrid redox flow batteries using physics-based models_**”. This collaboration with Dr Catalina Pino from the Department of Earth Science and Engineering at Imperial College London aims (1) to implement a model predictive control strategy in a laboratory-scale battery cell using physics-based models, and (2) to scale up the model predictive control strategy for a stack (many batteries connected in series) system.
+
+* _**A design space analysis for quantifying process flexibility under disturbances: An application to froth flotation**_. This collaboration with Steven Sachio (PhD candidate) aims to implement a design space analysis technique that identifies acceptable operating regions, quantifies operational flexibility, and evaluates various operating points that can be used to enhance model-based control practices for froth flotation.
+
+
