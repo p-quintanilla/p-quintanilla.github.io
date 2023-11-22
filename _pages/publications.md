@@ -6,7 +6,8 @@ author_profile: true
 
 ![](/_pages/4.png)
 
-I am the corresponding author of 7 out of 9 of my papers:
+I am the corresponding author of 8 out of 10 of my papers:
+_You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en)._
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
@@ -18,4 +19,3 @@ I am the corresponding author of 7 out of 9 of my papers:
   {% include archive-single.html %}
 {% endfor %}
 
-_You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en)._
