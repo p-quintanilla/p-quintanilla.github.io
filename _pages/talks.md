@@ -8,7 +8,7 @@ permalink: /talks/
 
 ## Oral presentations:
 
-1. **American Institution of Chemical Engineers**, Orlando, USA, November 2023. (1)_Design space quantification for processes under disturbance: An application to froth flotation_. and  (2)_Advances in dynamic modelling for model predictive control for froth flotation_.
+1. **American Institution of Chemical Engineers - Annual Meeting 2023**, Orlando, USA, November 2023. (1)_Design space quantification for processes under disturbance: An application to froth flotation_. and  (2)_Advances in dynamic modelling for model predictive control for froth flotation_.
 
 1. **International Federation of Automatic Control - World Congress 2023**, Yokohama, Japan, July 2023. _Evaluation of Changes in Feed Particle Size within an Economic Model Predictive Control Strategy for Froth Flotation_.
     
