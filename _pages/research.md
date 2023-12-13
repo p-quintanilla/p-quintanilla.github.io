@@ -12,7 +12,7 @@ My expertise lies in **dynamic modelling** for **model-based control** strategie
 
 Currently, one of my key interests is integrating **machine learning tools** for combining **data-driven models** with **physics-based models**. This approach combines the strengths of both types of models, allowing for more accurate and efficient predictions of process performance. By leveraging machine learning algorithms, we can extract meaningful insights from large amounts of data, identifying patterns that may not be obvious with traditional modelling techniques. Then, **digital twins** (i.e. virtual replicas of real-world systems) can be developed and used to simulate the behaviour of the physical system in real-time, allowing for **improved control and optimisation** of the process. By combining data-driven models with physics-based models, we can create more accurate representations of complex systems, enabling us to make **better-informed decisions** and optimise systems more effectively.
 
-## PhD Research (2018-2022):
+## PhD Research:
 ## _"Dynamic physics-based flotation models for effective predictive control"_
 
 My PhD research was about developing and implementing dynamic flotation models for model-based control.
