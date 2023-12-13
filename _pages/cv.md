@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Qualifications
-* 2018-2022: **PhD in Earth Science and Engineering**, Imperial College London, United Kingdom
+* 2022: **PhD in Earth Science and Engineering**, Imperial College London, United Kingdom
  
  Thesis: *Dynamic physics-based flotation models for effective predictive control*
  
@@ -51,9 +51,4 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
-### You can download a copy of my CV from the PDF below (_last updated: May 2023_): 
-
-<iframe src="/files/Quintanilla_CV_May2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
   
