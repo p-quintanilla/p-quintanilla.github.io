@@ -3,6 +3,12 @@ permalink: /teaching/
 ---
 ![](/_pages/7.png)
 
+## Module leader:
+### Department of Chemical Engineering, Brunel University London, London, United Kingdom
+
+Module:
+* **Process Systems Engineering**: This MEng Chemical Engineering module covers key topics such as dynamic system analysis, numerical methods for steady state and dynamic models, and process optimization techniques. It is designed to provide both theoretical understanding and practical skills using MATLAB for practical exersies.
+
 ## Guest Lecturer:
 
 ### Department of Earth Science and Engineering, Imperial College London, London, United Kingdom. 
