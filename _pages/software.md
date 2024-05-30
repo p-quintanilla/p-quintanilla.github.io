@@ -3,7 +3,6 @@ layout: archive
 permalink: /software/
 author_profile: true
 ---
-![](/_pages/6.png)
 
 _Bubble Analyser_ is a comprehensive **open-source app processes images of bubbles**, enabling users to quantify bubble size distribution. What's more, Bubble Analyser is **free to use** and modify under the GNU General Public License, making it accessible to everyone. Designed with expandability in mind, it features an easy-to-use interface and is readily available as an **executable version**. 
 
