@@ -21,9 +21,11 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 
 # Work experience
 
-* 2022 -  now: **Research Associate in Process Systems Engineering**, Sargent Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London.
+* Jan 2024 - now:	**Lecturer in Chemical Engineering**, Department of Chemical Engineering, Brunel University London. I am the module leader of Process Systems Engineering (MEng) and Fluid Mechanics (BEng). 
 
-* 2021 - now:	**Co-founder and developer of BubbleAnalyser** - the first open-source software for bubble size analysis. 
+* 2021 - now:	**Co-founder and developer of BubbleAnalyser** - the first open-source software for bubble size analysis.
+  
+* Dec 2022 -  Dec 2023: **Research Associate in Process Systems Engineering**, Sargent Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London.
 
 * Dec 2022: **Guest lecturer**, Department of Earth Science and Engineering, Imperial College London. Module: Mining Geology & Engineering. 
 
