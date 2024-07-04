@@ -19,6 +19,7 @@ permalink: /awards/
 
 
 ## External funding
+1. **BRIEF Award (‘Brunel Research Initiative and Enterprise Fund’) 2024/25**: The BRIEF Awards are competitive initial funding for new academic staff members below the level of Senior Lecturer. 
 1. **Grants to Support Knowledge Exchange - IOM3**: Travel grant to participate in the IFAC World Congress 2023, Yokohama, Japan. 
 1. **SCI Scholarship 2020**: Scholarship of £5,000 over two years to support my studies at Imperial College London. 
 1. **IOM3 Scholarship 2020**: Funding for a 3-month visit to Universidad Técnica Federico Santa María, Santiago, Chile, to carry out experiments to expand the applications of my PhD research.
