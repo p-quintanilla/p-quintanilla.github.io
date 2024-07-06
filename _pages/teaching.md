@@ -7,7 +7,8 @@ permalink: /teaching/
 ### Department of Chemical Engineering, Brunel University London, London, United Kingdom
 
 Module:
-* **Process Systems Engineering**: This MEng Chemical Engineering module covers key topics such as dynamic system analysis, numerical methods for steady state and dynamic models, and process optimization techniques. It is designed to provide both theoretical understanding and practical skills using MATLAB for practical exersies.
+* **Process Systems Engineering**: This MEng Chemical Engineering module covers key topics such as dynamic system analysis, numerical methods for steady state and dynamic models, and process optimization techniques. It is designed to provide both theoretical understanding and practical skills using MATLAB for practical exercises.
+* **Fluid Mechanics**: This is for second-year chemical engineering students. The module covers all principles of fluid mechanics with experimental activities. 
 
 ## Guest Lecturer:
 
@@ -15,7 +16,7 @@ Module:
 
 Module: 
 
-* **Mining Geology & Engineering**: The module provides students with an understanding of key aspects of how geological and engineering knowledge is applied to the discovery of ore deposits, and development of mines, devising efficient mining and mineral processing methodologies and sustainable legacies. I specifically taught a session on mineral processing and flowsheet design, covering topics of mineral processing routes, unit operations, mass balances and calculations.
+* **Mining Geology & Engineering**: The module provides students with an understanding of key aspects of how geological and engineering knowledge is applied to the discovery of ore deposits and the development of mines, devising efficient mining and mineral processing methodologies and sustainable legacies. I specifically taught a session on mineral processing and flowsheet design, covering topics of mineral processing routes, unit operations, mass balances and calculations.
 
 ### Department of Chemical Engineering,  Universidad Técnica Federico Santa María, Santiago, Chile.
 
