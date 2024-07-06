@@ -4,13 +4,13 @@ author_profile: true
 ---
 ![](/_pages/3.png) 
 
-Over the past +10 years, I've had the privilege of participating in a variety of outreach activities that have allowed me to connect with and positively impact diverse communities. These experiences have taught me the value of communication, collaboration, and community engagement, and I'm eager to continue exploring new opportunities to give back and create meaningful change. 
+Over the past +10 years, I've participated in a variety of outreach activities that have allowed me to connect with and positively impact diverse communities. These experiences have taught me the value of communication, collaboration, and community engagement, and I'm eager to continue exploring new opportunities to give back and create meaningful change. 
 
 Some of my public engagement and volunteer experiences are:
 
-* 2023 - now: I am part of the **Postdoc Committee at the Chemical Engineering Department** at Imperial College London. I am specifically helping with social media, organising events, and I am also the newsletter editor. 
+* 2023: I am part of the **Postdoc Committee at the Chemical Engineering Department** at Imperial College London. I am specifically helping with social media, organising events, and I am also the newsletter editor. 
 
-* 2021  -now: I am part of the **London and South East Coast Group Member, Institution of Chemical Engineers (IChemE)**, United Kingdom. I contribute as a meeting coordinator and newsletter editor. 
+* 2021 - 2023: I am part of the **London and South East Coast Group Member, Institution of Chemical Engineers (IChemE)**, United Kingdom. I contribute as a meeting coordinator and newsletter editor. 
 
 * March 2023 - Chaired a session in the **Towards Net Zero Seminar**, held in the Chemical Engineering Department at Imperial College London. 
 
