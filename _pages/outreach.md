@@ -8,9 +8,9 @@ Over the past 10+ years, I've participated in a variety of outreach activities t
 
 Some of my public engagement and volunteer experiences are:
 
-* 2023: I am part of the **Postdoc Committee at the Chemical Engineering Department** at Imperial College London. I am specifically helping with social media, organising events, and I am also the newsletter editor. 
+* 2023: I was part of the **Postdoc Committee at the Chemical Engineering Department** at Imperial College London. I specifically helped with social media, organising events, and being a newsletter editor. 
 
-* 2021 - 2023: I am part of the **London and South East Coast Group Member, Institution of Chemical Engineers (IChemE)**, United Kingdom. I contribute as a meeting coordinator and newsletter editor. 
+* 2021 - 2023: I was part of the **London and South East Coast Group Member, Institution of Chemical Engineers (IChemE)**, United Kingdom. I contributed as a meeting coordinator and newsletter editor. 
 
 * March 2023 - Chaired a session in the **Towards Net Zero Seminar**, held in the Chemical Engineering Department at Imperial College London. 
 
