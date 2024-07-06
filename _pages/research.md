@@ -21,9 +21,9 @@ Currently, one of my key interests is integrating **machine learning tools** for
 
 * “**Grey-box recursive parameter identification of a nonlinear dynamic model for mineral flotation**” with Dr Rodrigo A. Gonzalez from the Department of Mechanical Engineering, Eindhoven University of Technology, The Netherlands.
 
-*"**Laboratory-scale system to control moisture content in column leaching**", with Dr Daniel Navia, Universidad Tecnica Federico Santa Maria, Chile. 
+* "**Laboratory-scale system to control moisture content in column leaching**", with Dr Daniel Navia, Universidad Tecnica Federico Santa Maria, Chile. 
 
-*   “**[Bubble Analyser](/software) – An open-source software for bubble size analysis**”, which has resulted in a published paper. This software was collaboratively developed by Dr Diego Mesa, Dr Francisco Reyes, and me. We are now working together with two Imperial MSc students from the Applied Computational Science and Engineering program on a 2.0 version to implement several different algorithms, including computer vision and machine learning techniques. I am co-supervising the MSc project entitled: “Bubble Analyser - Identification and characterisation of bubbles using Machine Learning”.
+* “**[Bubble Analyser](/software) – An open-source software for bubble size analysis**”, which has resulted in a published paper. This software was collaboratively developed by Dr Diego Mesa, Dr Francisco Reyes, and me. We are now working together with two Imperial MSc students from the Applied Computational Science and Engineering program on a 2.0 version to implement several different algorithms, including computer vision and machine learning techniques. I am co-supervising the MSc project entitled: “Bubble Analyser - Identification and characterisation of bubbles using Machine Learning”.
  
 
 ## PhD Research:
