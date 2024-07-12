@@ -12,7 +12,7 @@ My expertise lies in **dynamic modelling** for **model-based control** strategie
 
 Currently, one of my key interests is integrating **machine learning tools** for combining **data-driven models** with **physics-based models**. This approach combines the strengths of both types of models, allowing for more accurate and efficient predictions of process performance. By leveraging machine learning algorithms, we can extract meaningful insights from large amounts of data, identifying patterns that may not be obvious with traditional modelling techniques. Then, **digital twins** (i.e. virtual replicas of real-world systems) can be developed and used to simulate the behaviour of the physical system in real-time, allowing for **improved control and optimisation** of the process. By combining data-driven models with physics-based models, we can create more accurate representations of complex systems, enabling us to make **better-informed decisions** and optimise systems more effectively.
 
-If you are interested in joining or working with our group, please email me at paulina.quintanilla@brunel.ac.uk. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them), and a personalized message that shows your genuine interest in our group and hasn't been sent to 10 other research groups.
+If you are interested in joining or working with our group, please email me at paulina.quintanilla@brunel.ac.uk. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them), and a personalised message that shows your genuine interest and hasn't been sent to 10 other research groups.
 
 ## Ongoing research and collaborations: 
 
