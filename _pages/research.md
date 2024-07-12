@@ -12,16 +12,17 @@ My expertise lies in **dynamic modelling** for **model-based control** strategie
 
 Currently, one of my key interests is integrating **machine learning tools** for combining **data-driven models** with **physics-based models**. This approach combines the strengths of both types of models, allowing for more accurate and efficient predictions of process performance. By leveraging machine learning algorithms, we can extract meaningful insights from large amounts of data, identifying patterns that may not be obvious with traditional modelling techniques. Then, **digital twins** (i.e. virtual replicas of real-world systems) can be developed and used to simulate the behaviour of the physical system in real-time, allowing for **improved control and optimisation** of the process. By combining data-driven models with physics-based models, we can create more accurate representations of complex systems, enabling us to make **better-informed decisions** and optimise systems more effectively.
 
+If you are interested in joining or working with our group, please email me at paulina.quintanilla@brunel.ac.uk. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them), and a personalized message that shows your genuine interest in our group and hasn't been sent to 10 other research groups.
 
 ## Ongoing research and collaborations: 
 
 * "**Experimentally-validated dynamic modelling for optimal scheduling of pressure swing adsorption in direct air CO2 capture**" at Brunel University London as part of the Brunel Research Initiative & Enterprise Fund (BRIEF) 2024/25 (competitive grant).
   
-* "**Gaussian process regression for model predictive control**" with Dr Antonio del Rio, Imperial College London.
+* "**Gaussian process regression for model predictive control**", Imperial College London.
 
-* “**Grey-box recursive parameter identification of a nonlinear dynamic model for mineral flotation**” with Dr Rodrigo A. Gonzalez from the Department of Mechanical Engineering, Eindhoven University of Technology, The Netherlands.
+* “**Grey-box recursive parameter identification of a nonlinear dynamic model for mineral flotation**”, Eindhoven University of Technology, The Netherlands.
 
-* "**Laboratory-scale system to control moisture content in column leaching**", with Dr Daniel Navia, Universidad Tecnica Federico Santa Maria, Chile. 
+* "**Laboratory-scale system to control moisture content in column leaching**", Universidad Tecnica Federico Santa Maria, Chile. 
 
 * “**[Bubble Analyser](/software) – An open-source software for bubble size analysis**”, which has resulted in a published paper. This software was collaboratively developed by Dr Diego Mesa, Dr Francisco Reyes, and me. We are now working together with two Imperial MSc students from the Applied Computational Science and Engineering program on a 2.0 version to implement several different algorithms, including computer vision and machine learning techniques. I am co-supervising the MSc project entitled: “Bubble Analyser - Identification and characterisation of bubbles using Machine Learning”.
  
