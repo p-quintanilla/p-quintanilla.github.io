@@ -13,8 +13,7 @@ I am a **Lecturer in Chemical Engineering** in the Department of Chemical Engine
 I obtained MEng and MSc degrees in **Chemical Engineering** from [Universidad Técnica Federico Santa María](https://www.usm.cl) in Valparaíso, Chile. I completed my **PhD in Earth Science and Engineering** in the [Advanced Minerals Processing Research Group](https://www.imperial.ac.uk/earth-science/research/research-groups/amprg/) at Imperial College London in 2022. I worked as a Postdoctoral Researcher in supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub) in the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/) at Imperial College London in 2023.
 
 My research interests include the application of computer-aided tools for **modelling, control and optimisation** of a wide range of processes with a sustainable focus:
-
-[diagram_1.pdf](https://github.com/user-attachments/files/16494352/diagram_1.pdf)
+![research interests 2](https://github.com/user-attachments/assets/d4cfb9e5-fd5c-4b3a-80f0-c80500ac7cfb)
 
 ## What's on this website:
 
