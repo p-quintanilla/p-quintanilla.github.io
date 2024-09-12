@@ -8,7 +8,7 @@ permalink: /awards/
 
 
 * 2024 - **Brunel Research Initiative and Enterprise Fund Award 2024/25 - Brunel University London**
-* 2024 - **Imperial College Research Fellowship** (Declined)
+* 2024 - **Imperial College Research Fellowship** _(Declined to accept a lectureship in Chemical Engineering at Brunel University London)_
 * 2023 - **Grants to Support Knowledge Exchange - Institute of Materials, Minerals and Mining**
 * 2022 - **Best Poster Award - Society of Chemical Industry**
 * 2022 - **Global Awards: Young researcher finalist - Institution of Chemical Engineers**
