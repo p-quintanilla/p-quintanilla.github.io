@@ -12,8 +12,8 @@ permalink: /awards/
 * 2023 - **Grants to Support Knowledge Exchange from Institute of Materials, Minerals and Mining**
 * 2022 - **Best Poster Award from Society of Chemical Industry**
 * 2022 - **Global Awards: Young researcher finalist from Institution of Chemical Engineers**
-* 2021 - [**Young Person's Award from Minerals Engineering International**](https://min-eng.blogspot.com/2022/03/mei-young-persons-award-2021-to-paulina.html)
-* 2020 - [**Messel Scholarship from Society of Chemical Industry**](https://www.soci.org/en/news/awards/scholars/2020-paulina-quintanilla)
+* 2021 - **[Young Person's Award](https://min-eng.blogspot.com/2022/03/mei-young-persons-award-2021-to-paulina.html) from Minerals Engineering International**
+* 2020 - **[Messel Scholarship](https://www.soci.org/en/news/awards/scholars/2020-paulina-quintanilla) from Society of Chemical Industry**
 * 2020 - **Travel grant from Institute of Materials, Minerals and Mining**
 * 2019 - **Travel grant from Imperial College Trust bursary**
 * 2019 - **Travel grant from Institute of Materials, Minerals and Mining**
