@@ -15,6 +15,8 @@ I obtained MEng and MSc degrees in Chemical Engineering from [Universidad Técni
 My research interests include the application of computer-aided tools for **modelling, control and optimisation** of a wide range of processes with a sustainable focus:
 ![research interests 2](https://github.com/user-attachments/assets/d4cfb9e5-fd5c-4b3a-80f0-c80500ac7cfb)
 
+If you are interested in joining or working with our group, please email me at paulina.quintanilla@brunel.ac.uk. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).
+
 ## What's on this website:
 
 This website is dedicated to sharing my research findings and interests. Here, you can find information about my past and current research projects, publications, and collaborations. Please feel free to explore the website, and don't hesitate to contact me if you have any questions or are interested in collaborating on research projects. 
