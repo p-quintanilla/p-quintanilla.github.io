@@ -14,7 +14,7 @@ Currently, one of my key interests is integrating **machine learning tools** for
 
 ## Ongoing research and collaborations: 
 
-* "**Experimentally-validated dynamic modelling for optimal scheduling of pressure swing adsorption in direct air CO2 capture**" at Brunel University London as part of the Brunel Research Initiative & Enterprise Fund (BRIEF) 2024/25 (competitive grant).
+* "**Experimentally-validated dynamic modelling for optimal scheduling of pressure swing adsorption in CO<sub>2</sub> capture**" at Brunel University London as part of the Brunel Research Initiative & Enterprise Fund (BRIEF) 2024/25 (competitive grant).
   
 * "**Gaussian process regression for model predictive control**", Imperial College London.
 
