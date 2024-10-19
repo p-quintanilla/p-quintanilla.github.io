@@ -3,7 +3,8 @@ title: "Grey-box Recursive Parameter Identification of a Nonlinear Dynamic Model
 collection: publications
 permalink: /publication/GreyBoxIdent
 date: 2024-05-07
-venue: 'arxiv'
-link: 'https://doi.org/10.48550/arXiv.2405.04275'
-citation: 'González, R. A., & Quintanilla, P. (2024). Grey-box Recursive Parameter Identification of a Nonlinear Dynamic Model for Mineral Flotation. ArXiv. /abs/2405.04275'
+venue: 'IEEE'
+link: 'https://ieeexplore.ieee.org/document/10708161'
+citation: 'González, R. A., & Quintanilla, P. (2024). Grey-box Recursive Parameter Identification of a Nonlinear Dynamic Model for Mineral Flotation. IEEE, 10th International Conference on Control, Decision and Information Technologies (CoDIT), pp. 2967-2972, doi: 10.1109/CoDIT62066.2024.10708161'
 ---
+
