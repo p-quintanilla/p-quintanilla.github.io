@@ -8,9 +8,9 @@ redirect_from:
 ---
 ![](/_pages/1.png)
 
-I am a [Lecturer (Assistant Professor) in Process Systems Engineering Engineering](https://www.brunel.ac.uk/people/paulina-quintanillaperez) in the Department of Chemical Engineering at Brunel University of London.
+I am a **Lecturer (Assistant Professor) in Process Systems Engineering Engineering** in the Department of Chemical Engineering at Brunel University of London.
 
-I completed my PhD in Earth Science and Engineering at Imperial College London in 2023 with the [Advanced Minerals Processing Research Group](https://www.imperial.ac.uk/earth-science/research/research-groups/amprg/). I obtained MEng and MSc degrees in Chemical Engineering from [Universidad Técnica Federico Santa María](https://www.usm.cl) in Valparaíso, Chile. I worked as a Postdoctoral Researcher in supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub) in the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/), Department of Chemical Engineering at Imperial College London in 2023.
+I completed my PhD in Earth Science and Engineering at Imperial College London in 2023 with the [Advanced Minerals Processing Research Group](https://www.imperial.ac.uk/earth-science/research/research-groups/amprg/). I obtained MEng and MSc degrees in Chemical Engineering from [Universidad Técnica Federico Santa María](https://www.usm.cl) in Valparaíso, Chile. I worked as a Postdoctoral Researcher in supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub) in the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/), Department of Chemical Engineering at Imperial College London.
 
 My research interests include the application of computer-aided tools for **modelling, control and optimisation** of a wide range of processes with a sustainable focus:
 ![research interests 2](https://github.com/user-attachments/assets/d4cfb9e5-fd5c-4b3a-80f0-c80500ac7cfb)
