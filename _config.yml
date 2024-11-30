@@ -87,12 +87,12 @@ author:
   avatar           : "IMG_8354_8.png"
   bio              : "Lecturer in Chemical Engineering"
   location         : "United Kingdom"
-  employer         : "https://www.brunel.ac.uk/people/paulina-quintanillaperez"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en"
   email            : "paulina.quintanilla@brunel.ac.uk"
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.brunel.ac.uk/people/paulina-quintanillaperez"
   bitbucket        :
   codepen          :
   dribbble         :
