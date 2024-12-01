@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](/_pages/1.png)
+![](/_pages/WELCOME.png)
 
 I am a **Lecturer (Assistant Professor) in Process Systems Engineering Engineering** in the Department of Chemical Engineering at [Brunel University of London](https://www.brunel.ac.uk/people/paulina-quintanillaperez).
 
