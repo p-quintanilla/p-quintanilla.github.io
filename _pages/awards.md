@@ -6,7 +6,7 @@ permalink: /awards/
 
 ![](/_pages/awards2.png)
 
-
+* 2024 - **Modalidad de Estadías Cortas de Investigación USM** _(2-month research visit fellowship in Chile)_
 * 2024 - **Brunel Research Initiative and Enterprise Fund Award 2024/25 from Brunel University London**
 * 2024 - **Imperial College Research Fellowship** _(Declined to accept a lectureship in Chemical Engineering at Brunel University London)_
 * 2023 - **Grants to Support Knowledge Exchange from Institute of Materials, Minerals and Mining**
