@@ -8,7 +8,7 @@ redirect_from:
 ---
 ![](/_pages/1.png)
 
-I am a **Lecturer (Assistant Professor) in Process Systems Engineering Engineering** in the Department of Chemical Engineering at [Brunel University of London](https://www.brunel.ac.uk/people/paulina-quintanillaperez). I am also an **Early Career Advisory Board** member in the [Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice), a journal of the International Federation of Automatic Control (IFAC), Elsevier. 
+I am a **Lecturer (Assistant Professor) of Process Systems Engineering Engineering** in the Department of Chemical Engineering at [Brunel University of London](https://www.brunel.ac.uk/people/paulina-quintanillaperez). I am also an **Early Career Advisory Board** member in the [Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice), a journal of the International Federation of Automatic Control (IFAC), Elsevier. 
 
 I completed my PhD in Earth Science and Engineering at Imperial College London in 2023 with the [Advanced Minerals Processing Research Group](https://www.imperial.ac.uk/earth-science/research/research-groups/amprg/). I obtained MEng and MSc degrees in Chemical Engineering from [Universidad Técnica Federico Santa María](https://www.usm.cl) in Valparaíso, Chile. I worked as a Postdoctoral Researcher in supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub) in the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/), Department of Chemical Engineering at Imperial College London.
 
