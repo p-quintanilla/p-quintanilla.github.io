@@ -5,8 +5,8 @@ permalink: /awards/
 ![](/_pages/2.png)
 
 ![](/_pages/awards2.png)
-
-* 2024 - **Modalidad de Estadías Cortas de Investigación USM** _(2-month research visit fellowship in Chile)_
+* 2025 - **Young European Research Universities (YERUN) Research Mobility Awards** in partnership with the University of Southern Denmark.
+* 2024 - **Modalidad de Estadías Cortas de Investigación USM** _(2-month research visit fellowship in Chile)_ in partnership with Universidad Técnica Federico Santa María
 * 2024 - **Brunel Research Initiative and Enterprise Fund Award 2024/25 from Brunel University London**
 * 2024 - **Imperial College Research Fellowship** _(Declined to accept a lectureship in Chemical Engineering at Brunel University London)_
 * 2023 - **Grants to Support Knowledge Exchange from Institute of Materials, Minerals and Mining**
