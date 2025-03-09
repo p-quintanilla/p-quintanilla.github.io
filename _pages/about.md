@@ -29,7 +29,7 @@ This website is dedicated to sharing my research findings and interests. Here, y
 5. [Teaching](/teaching.html)
 6. [Outreach, volunteering and extra activities](/outreach)
 7. [Software: BubbleAnalyser](/software)
-8. [My CV](/cv)
+
 
 **_Thank you for visiting!_**
 
