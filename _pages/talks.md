@@ -7,7 +7,7 @@ permalink: /talks/
 ![](/_pages/photos_conf4.png)
 
 ## Speaker:
-
+1. **Avances en modelado dinámico y control predictivo para la optimización de procesos** (invited), Santiago, Chile, January 2025. _Pontificia Universidad Católica de Chile_
 1. **European Symposium of Computer-Aided Process Engineering 2024**, Florence, Italy, July 2024. _Experimental Implementation of an Economic Model Predictive Control for Froth Flotation_.
    
 1. **American Institution of Chemical Engineers - Annual Meeting 2023**, Orlando, USA, November 2023. (1)_Design space quantification for processes under disturbance: An application to froth flotation_. and  (2)_Advances in dynamic modelling for model predictive control for froth flotation_.
