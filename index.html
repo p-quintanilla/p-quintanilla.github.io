@@ -3,73 +3,93 @@
 <head>
   <meta charset="UTF-8">
   <title>Paulina Quintanilla</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Parallax.js library -->
+  <script src="https://cdn.jsdelivr.net/npm/parallax-js@3.1.0/dist/parallax.min.js"></script>
+
   <style>
-    html {
-      scroll-behavior: smooth;
-    }
-    body {
+    html, body {
       margin: 0;
-      font-family: Arial, sans-serif;
+      padding: 0;
+      height: 100%;
+      font-family: sans-serif;
+      scroll-behavior: smooth;
+      overflow-x: hidden;
     }
+
+    .section {
+      height: 100vh;
+      text-align: center;
+      padding-top: 40vh;
+      font-size: 2em;
+      position: relative;
+    }
+
     nav {
       position: fixed;
       top: 0;
       width: 100%;
-      background-color: white;
-      border-bottom: 1px solid #ccc;
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 10px;
       z-index: 1000;
     }
+
     nav ul {
-      margin: 0;
-      padding: 10px 20px;
-      display: flex;
-      gap: 20px;
       list-style: none;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 0;
+      margin: 0;
     }
-    nav ul li a {
+
+    nav a {
       text-decoration: none;
       color: #333;
     }
-    section {
-      height: 100vh;
-      padding: 80px 20px 20px;
+
+    #scene {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      z-index: -1;
     }
-    #home { background: #f7f7f7; }
-    #about { background: #e0f7fa; }
-    #projects { background: #fce4ec; }
-    #contact { background: #ede7f6; }
+
+    .parallax-layer {
+      position: absolute;
+      width: 100%;
+    }
   </style>
 </head>
 <body>
 
+  <!-- Navigation -->
   <nav>
     <ul>
       <li><a href="#home">Home</a></li>
       <li><a href="#about">About</a></li>
       <li><a href="#projects">Projects</a></li>
-      <li><a href="#contact">Contact</a></li>
     </ul>
   </nav>
 
-  <section id="home">
-    <h1>Welcome</h1>
-    <p>This is Paulina Quintanilla’s one-page site.</p>
-  </section>
+  <!-- Parallax Background Scene -->
+  <div id="scene">
+    <div data-depth="0.2" class="parallax-layer"><img src="https://picsum.photos/id/1011/1200/800" style="width:100%"></div>
+  </div>
 
-  <section id="about">
-    <h1>About Me</h1>
-    <p>A short bio or professional overview goes here.</p>
-  </section>
+  <!-- Sections -->
+  <div id="home" class="section" style="background-color: rgba(255,255,255,0.7);">Welcome</div>
+  <div id="about" class="section" style="background-color: rgba(230,255,250,0.7);">About Me</div>
+  <div id="projects" class="section" style="background-color: rgba(255,230,240,0.7);">Projects</div>
 
-  <section id="projects">
-    <h1>Projects</h1>
-    <p>List or describe your main projects here.</p>
-  </section>
-
-  <section id="contact">
-    <h1>Contact</h1>
-    <p>Email: your.email@example.com</p>
-  </section>
+  <!-- Activate Parallax -->
+  <script>
+    var scene = document.getElementById('scene');
+    var parallaxInstance = new Parallax(scene);
+  </script>
 
 </body>
 </html>
