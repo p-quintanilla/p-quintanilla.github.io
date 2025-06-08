@@ -1,11 +1,4 @@
----
-permalink: /
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 ![](/_pages/1.png)
 
 I am a **Lecturer (Assistant Professor) of Process Systems Engineering Engineering** in the Department of Chemical Engineering at [Brunel University of London](https://www.brunel.ac.uk/people/paulina-quintanillaperez). I am also an **Early Career Advisory Board** member in the [Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice), a journal of the International Federation of Automatic Control (IFAC), Elsevier. 
