@@ -1,95 +1,89 @@
+---
+layout: none
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Paulina Quintanilla</title>
+  <title>Dr Paulina Quintanilla</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Parallax.js library -->
-  <script src="https://cdn.jsdelivr.net/npm/parallax-js@3.1.0/dist/parallax.min.js"></script>
-
   <style>
-    html, body {
+    html { scroll-behavior: smooth; }
+    body {
       margin: 0;
-      padding: 0;
-      height: 100%;
       font-family: sans-serif;
-      scroll-behavior: smooth;
-      overflow-x: hidden;
     }
-
-    .section {
-      height: 100vh;
-      text-align: center;
-      padding-top: 40vh;
-      font-size: 2em;
-      position: relative;
-    }
-
     nav {
       position: fixed;
       top: 0;
       width: 100%;
-      background-color: rgba(255, 255, 255, 0.9);
-      padding: 10px;
+      background: white;
       z-index: 1000;
+      padding: 10px 20px;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.1);
     }
-
-    nav ul {
-      list-style: none;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      padding: 0;
-      margin: 0;
-    }
-
     nav a {
+      margin: 0 15px;
       text-decoration: none;
       color: #333;
+      font-weight: bold;
     }
-
-    #scene {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      top: 0;
-      left: 0;
-      z-index: -1;
+    section {
+      padding: 100px 20px 60px;
+      min-height: 100vh;
     }
-
-    .parallax-layer {
-      position: absolute;
-      width: 100%;
+    section h1 {
+      margin-top: 0;
     }
   </style>
 </head>
 <body>
 
-  <!-- Navigation -->
   <nav>
-    <ul>
-      <li><a href="#home">Home</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a href="#projects">Projects</a></li>
-    </ul>
+    <a href="#research">Research</a>
+    <a href="#publications">Publications</a>
+    <a href="#awards">Awards</a>
+    <a href="#talks">Talks</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#outreach">Outreach</a>
+    <a href="#software">Software</a>
   </nav>
 
-  <!-- Parallax Background Scene -->
-  <div id="scene">
-    <div data-depth="0.2" class="parallax-layer"><img src="https://picsum.photos/id/1011/1200/800" style="width:100%"></div>
-  </div>
+  <section id="research">
+    <h1>Research</h1>
+    {% include_relative _pages/research.md %}
+  </section>
 
-  <!-- Sections -->
-  <div id="home" class="section" style="background-color: rgba(255,255,255,0.7);">Welcome</div>
-  <div id="about" class="section" style="background-color: rgba(230,255,250,0.7);">About Me</div>
-  <div id="projects" class="section" style="background-color: rgba(255,230,240,0.7);">Projects</div>
+  <section id="publications">
+    <h1>Publications</h1>
+    {% include_relative _pages/publications.md %}
+  </section>
 
-  <!-- Activate Parallax -->
-  <script>
-    var scene = document.getElementById('scene');
-    var parallaxInstance = new Parallax(scene);
-  </script>
+  <section id="awards">
+    <h1>Awards</h1>
+    {% include_relative _pages/awards.md %}
+  </section>
+
+  <section id="talks">
+    <h1>Talks</h1>
+    {% include_relative _pages/talks.md %}
+  </section>
+
+  <section id="teaching">
+    <h1>Teaching</h1>
+    {% include_relative _pages/teaching.md %}
+  </section>
+
+  <section id="outreach">
+    <h1>Outreach</h1>
+    {% include_relative _pages/outreach.md %}
+  </section>
+
+  <section id="software">
+    <h1>Software</h1>
+    {% include_relative _pages/software.md %}
+  </section>
 
 </body>
 </html>
