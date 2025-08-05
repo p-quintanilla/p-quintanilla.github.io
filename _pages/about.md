@@ -16,7 +16,7 @@ I completed my PhD in Earth Science and Engineering at Imperial College London i
 My research interests include the application of computer-aided tools for **modelling, control and optimisation** of a wide range of processes with a sustainable focus:
 ![research interests 2](https://github.com/user-attachments/assets/d4cfb9e5-fd5c-4b3a-80f0-c80500ac7cfb)
 
-If you are interested in joining or working with our group, please email me at paulina.quintanilla@brunel.ac.uk. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).
+If you are interested in joining or working with our group, please email me at p.quintanilla@yucl.ac.uk. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).
 
 
 ## What's on this website:
