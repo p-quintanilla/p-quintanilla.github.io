@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Paulina Quintanilla"
 title_separator          : "-"
 name                     : &name "Dr Paulina Quintanilla"
-description              : &description "Brunel University London"
+description              : &description "University College London"
 url                      : https://p-quintanilla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "p-quintanilla/p-quintanilla.github.io"
@@ -85,14 +85,14 @@ analytics:
 author:
   name             : "Dr Paulina Quintanilla"
   avatar           : "profile-pic.png"
-  bio              : "Lecturer in Chemical Engineering"
+  bio              : "Assistant Professor in Process Systems Engineering"
   location         : "United Kingdom"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en"
-  email            : "paulina.quintanilla@brunel.ac.uk"
+  email            : "p.quintanilla@ucl.ac.uk"
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.brunel.ac.uk/people/paulina-quintanillaperez"
+  uri              : # "https://www.brunel.ac.uk/people/paulina-quintanillaperez"
   bitbucket        :
   codepen          :
   dribbble         :
