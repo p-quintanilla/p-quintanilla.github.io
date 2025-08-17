@@ -30,10 +30,25 @@ a:hover { border-bottom-color: var(--accent); }
 .hero-slide.is-active { opacity: 1; }
 .hero-slide img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
 
-/* Overlayed title/tagline on the image */
+/* Overlayed title/tagline on the image
 .hero-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,.45), rgba(0,0,0,.10) 40%, rgba(0,0,0,0) 70%); display: grid; place-items: center; text-align: center; padding: 2rem; }
 .hero-overlay .lab-title { color: #fff; font-size: clamp(2rem, 5vw, 3.5rem); margin: 0 0 .75rem; letter-spacing: -0.01em; text-shadow: 0 2px 14px rgba(0,0,0,.35); }
-.hero-overlay .lab-tagline { margin: 0; font-size: clamp(1rem, 2.2vw, 1.25rem); color: #f4f4f4; text-shadow: 0 1px 10px rgba(0,0,0,.25); }
+.hero-overlay .lab-tagline { margin: 0; font-size: clamp(1rem, 2.2vw, 1.25rem); color: #f4f4f4; text-shadow: 0 1px 10px rgba(0,0,0,.25); } */
+
+.hero-caption {
+  text-align: center;
+  margin: 2rem auto 0;
+}
+.hero-caption .lab-title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+}
+.hero-caption .lab-tagline {
+  font-size: 1.1rem;
+  color: var(--muted);
+  margin: 0;
+}
 
 /* Dots */
 .hero-dots { position: absolute; left: 50%; transform: translateX(-50%); bottom: 14px; display: flex; gap: .5rem; }

@@ -22,13 +22,13 @@
         {%- endfor -%}
       {%- endif -%}
 
-      <!-- Overlay text on top of the image -->
+      <!-- Overlay text on top of the image
       <div class="hero-overlay">
         <div class="hero-inner">
           <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
           {%- if page.hero_subtitle -%}<p class="lab-tagline">{{ page.hero_subtitle }}</p>{%- endif -%}
         </div>
-      </div>
+      </div> -->
 
       <!-- Dots for navigation -->
       <div class="hero-dots" aria-label="Slide indicators">
@@ -38,6 +38,14 @@
       </div>
     </div>
   </header>
+
+  <!-- Group title/subtitle BELOW the image -->
+<section class="hero-caption container">
+  <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
+  {%- if page.hero_subtitle -%}
+  <p class="lab-tagline">{{ page.hero_subtitle }}</p>
+  {%- endif -%}
+</section>
 
   <!-- LINKS SECTION -->
   <main class="sections container">
