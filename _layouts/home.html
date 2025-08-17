@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {%- if site.stylesheet -%}<link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">{%- endif -%}
+  <link rel="stylesheet" href="{{ "/assets/css/home.css" | relative_url }}">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
+      {%- if page.hero_subtitle -%}
+      <p class="lab-tagline">{{ page.hero_subtitle }}</p>
+      {%- endif -%}
+    </div>
+  </header>
+
+  <main class="sections container">
+    <nav class="cards">
+      {%- assign items = page.links | default: site.data.home.links -%}
+      {%- for item in items -%}
+      <a class="card" href="{{ item.url | relative_url }}">
+        <span class="card-title">{{ item.title }}</span>
+        {%- if item.desc -%}<span class="card-desc">{{ item.desc }}</span>{%- endif -%}
+      </a>
+      {%- endfor -%}
+    </nav>
+  </main>
+
+  <footer class="footer">
+    <p>
+      {{ page.footer_text | default: site.title }}
+      · {{ site.organization | default: "UCL" }}
+      · <a href="{{ "/contact/" | relative_url }}">Contact</a>
+    </p>
+  </footer>
+</body>
+</html>
