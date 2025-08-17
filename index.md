@@ -1,12 +1,13 @@
 ---
 layout: home
 title: "Codes— UCL"
-hero_title: "CODES"
-hero_subtitle: "Control and optimization of dynamic engineering systems"
-footer_text: "Paulina Quintanilla"
 
 hero_images:
   - /images/ucl-1.jpg
+
+hero_title: "CODES"
+hero_subtitle: "Control and optimization of dynamic engineering systems"
+footer_text: "Paulina Quintanilla"
 
 links:
   - { title: "Research",      url: "/research/",     desc: "What we work on" }
