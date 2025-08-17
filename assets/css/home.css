@@ -13,11 +13,7 @@ a:hover { border-bottom-color: var(--accent); }
 
 .container { max-width: var(--mx); margin: 0 auto; padding: 0 1rem; }
 
-.hero { display: grid; place-items: center; min-height: 55vh; text-align: center; }
-.hero-inner { max-width: calc(var(--mx) - 10rem); padding: 3rem 1rem 1rem; }
-.lab-title { font-size: clamp(2rem, 5vw, 3.5rem); margin: 0 0 .75rem; letter-spacing: -0.01em; }
-.lab-tagline { margin: 0; font-size: clamp(1rem, 2.2vw, 1.25rem); color: var(--muted); }
-
+/* --- Cards under the hero --- */
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: var(--gap); margin: 3rem auto; }
 .card { display: grid; gap: .25rem; padding: 1.25rem 1rem; border: 1px solid #e7e7e7; border-radius: 14px; transition: transform .1s ease, box-shadow .1s ease, border-color .1s ease; }
 .card-title { font-weight: 600; }
@@ -27,17 +23,19 @@ a:hover { border-bottom-color: var(--accent); }
 .footer { border-top: 1px solid #eee; margin-top: 3rem; }
 .footer p { margin: 0; padding: 1.25rem; text-align: center; color: var(--muted); font-size: .95rem; }
 
-/* --- Hero slider --- */
-.hero { position: relative; min-height: 60vh; }
+/* --- Hero slider (image-first header) --- */
+.hero { position: relative; width: 100%; }
 .hero-slider { position: relative; height: clamp(340px, 65vh, 720px); overflow: hidden; }
 .hero-slide { position: absolute; inset: 0; opacity: 0; transition: opacity .8s ease; }
 .hero-slide.is-active { opacity: 1; }
 .hero-slide img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
 
+/* Overlayed title/tagline on the image */
 .hero-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,.45), rgba(0,0,0,.10) 40%, rgba(0,0,0,0) 70%); display: grid; place-items: center; text-align: center; padding: 2rem; }
-.hero-overlay .lab-title { color: #fff; text-shadow: 0 2px 14px rgba(0,0,0,.35); }
-.hero-overlay .lab-tagline { color: #f4f4f4; text-shadow: 0 1px 10px rgba(0,0,0,.25); }
+.hero-overlay .lab-title { color: #fff; font-size: clamp(2rem, 5vw, 3.5rem); margin: 0 0 .75rem; letter-spacing: -0.01em; text-shadow: 0 2px 14px rgba(0,0,0,.35); }
+.hero-overlay .lab-tagline { margin: 0; font-size: clamp(1rem, 2.2vw, 1.25rem); color: #f4f4f4; text-shadow: 0 1px 10px rgba(0,0,0,.25); }
 
+/* Dots */
 .hero-dots { position: absolute; left: 50%; transform: translateX(-50%); bottom: 14px; display: flex; gap: .5rem; }
 .hero-dots .dot { width: 10px; height: 10px; border-radius: 999px; border: 1px solid rgba(255,255,255,.9); background: rgba(255,255,255,.3); padding: 0; cursor: pointer; }
 .hero-dots .dot.is-active { background: rgba(255,255,255,.95); }
@@ -46,12 +44,3 @@ a:hover { border-bottom-color: var(--accent); }
 @media (prefers-reduced-motion: reduce) {
   .hero-slide { transition: none; }
 }
-
-.hero { width: 100%; }
-.hero-single, .hero-slide img {
-  display: block;
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
-
