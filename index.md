@@ -5,7 +5,9 @@ hero_title: "CODES"
 hero_subtitle: "Control and optimization of dynamic engineering systems"
 footer_text: "Paulina Quintanilla"
 
-# You can hardcode links here OR use _data/home.yml below.
+hero_images:
+  - /images/ucl-1.jpg
+
 links:
   - { title: "Research",      url: "/research/",     desc: "What we work on" }
   - { title: "People",        url: "/people/",       desc: "The team" }
@@ -16,4 +18,3 @@ links:
   - { title: "Contact",       url: "/contact/",      desc: "Get in touch" }
 ---
 
-![alt text](image-2.png)

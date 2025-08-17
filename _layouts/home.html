@@ -36,5 +36,30 @@
       · <a href="{{ "/contact/" | relative_url }}">Contact</a>
     </p>
   </footer>
+<script src="{{ "/assets/js/hero.js" | relative_url }}" defer></script>
 </body>
 </html>
+<header class="hero">
+  <div class="hero-slider" data-hero-slider>
+    {%- assign imgs = page.hero_images | default: site.hero_images -%}
+    {%- if imgs and imgs.size > 0 -%}
+      {%- for src in imgs -%}
+      <div class="hero-slide{% if forloop.first %} is-active{% endif %}" aria-hidden="{% unless forloop.first %}true{% else %}false{% endunless %}">
+        <img src="{{ src | relative_url }}" alt="" loading="{% if forloop.index > 1 %}lazy{% else %}eager{% endif %}">
+      </div>
+      {%- endfor -%}
+    {%- endif -%}
+    <div class="hero-overlay">
+      <div class="hero-inner">
+        <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
+        {%- if page.hero_subtitle -%}<p class="lab-tagline">{{ page.hero_subtitle }}</p>{%- endif -%}
+      </div>
+    </div>
+    <div class="hero-dots" aria-label="Slide indicators">
+      {%- for src in imgs -%}
+      <button class="dot{% if forloop.first %} is-active{% endif %}" data-goto="{{ forloop.index0 }}" aria-label="Go to slide {{ forloop.index }}"></button>
+      {%- endfor -%}
+    </div>
+  </div>
+</header>
+
