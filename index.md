@@ -18,5 +18,10 @@ links:
   - { title: "Contact",       url: "/contact/",      desc: "Get in touch" }
 
 footer_text: "Paulina Quintanilla"
+
+
+pi_url: "https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about"          # <- your UCL profile
+dept_url: "https://www.ucl.ac.uk/engineering/chemical-engineering"     # <- UCL Chem Eng site
+contact_email: "p.quintanilla@ucl.ac.uk" 
 ---
 

@@ -52,13 +52,21 @@
     </nav>
   </main>
 
-  <footer class="footer">
+    <footer class="footer">
     <p>
-      {{ page.footer_text | default: site.title }}
-      · {{ site.organization | default: "UCL" }}
-      · <a href="{{ "/contact/" | relative_url }}">Contact</a>
+        <a href="{{ page.pi_url | default: site.ucl_profile_url }}" target="_blank" rel="noopener">
+        Paulina Quintanilla
+        </a>
+        ·
+        <a href="{{ page.dept_url | default: site.dept_url }}" target="_blank" rel="noopener">
+        UCL Chemical Engineering
+        </a>
+        ·
+        <a href="mailto:{{ page.contact_email | default: site.contact_email }}">
+        Contact
+        </a>
     </p>
-  </footer>
-  <script src="{{ "/assets/js/hero.js" | relative_url }}" defer></script>
+    </footer>
+
 </body>
 </html>
