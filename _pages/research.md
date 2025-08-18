@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 ![](/_pages/8.png)
