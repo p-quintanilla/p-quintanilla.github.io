@@ -59,3 +59,11 @@ a:hover { border-bottom-color: var(--accent); }
 @media (prefers-reduced-motion: reduce) {
   .hero-slide { transition: none; }
 }
+.top-banner {
+  background: #222;           /* dark background */
+  color: #fff;                /* white text */
+  text-align: center;
+  padding: 0.4rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
