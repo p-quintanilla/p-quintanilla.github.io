@@ -14,10 +14,30 @@ a:hover { border-bottom-color: var(--accent); }
 .container { max-width: var(--mx); margin: 0 auto; padding: 0 1rem; }
 
 /* --- Cards under the hero --- */
-.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: var(--gap); margin: 3rem auto; }
-.card { display: grid; gap: .25rem; padding: 1.25rem 1rem; border: 1px solid #e7e7e7; border-radius: 14px; transition: transform .1s ease, box-shadow .1s ease, border-color .1s ease; }
-.card-title { font-weight: 600; }
-.card-desc { color: var(--muted); font-size: .95rem; }
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); /* was 12rem */
+  gap: 0.75rem;   /* tighter spacing */
+  margin: 2rem auto; /* reduce vertical spacing */
+}
+
+.card {
+  display: grid;
+  gap: .2rem;
+  padding: 0.75rem 0.75rem;  /* was 1.25rem 1rem */
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;       /* slightly smaller radius */
+  transition: transform .1s ease, box-shadow .1s ease, border-color .1s ease;
+}
+.card-title {
+  font-weight: 600;
+  font-size: 1rem;           /* smaller title */
+}
+.card-desc {
+  color: var(--muted);
+  font-size: 0.85rem;        /* smaller description */
+}
+
 .card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,.06); border-color: #ddd; }
 
 .footer { border-top: 1px solid #eee; margin-top: 3rem; }
