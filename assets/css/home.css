@@ -207,8 +207,6 @@ section.section-block { scroll-margin-top: 84px; }
   max-height: 100%;
   object-fit: contain;      /* keep full logo visible */
   object-position: center;
-  margin: 0 auto;
-  display: block;
 }
 @media (max-width: 600px) {
   .hero-logo {
