@@ -38,11 +38,6 @@ a:hover { border-bottom-color: var(--accent); }
   font-size: 0.85rem;        /* smaller description */
 }
 
-.card {
-  border: 1px solid #eee;
-  box-shadow: none;
-}
-
 
 .card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,.06); border-color: #ddd; }
 
