@@ -139,7 +139,7 @@ a:hover { border-bottom-color: var(--accent); }
 
 /* --- Top navigation (sticky, black, large) --- */
 .site-header {
-  position: sticky;       /* keeps it visible while scrolling */
+  position: fixed;       /* keeps it visible while scrolling */
   top: 0;
   z-index: 1000;
   background: #000;       /* black bar */
