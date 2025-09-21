@@ -52,10 +52,25 @@
   <div class="container">
 
     <section id="research" class="section-block">
-      <h2>Research</h2>
-      <p>Short overview of your research areas. Replace this with a brief summary.</p>
-      <p><a href="/research/">Read more →</a></p>
+    <h2>Our Research</h2>
+
+    <div class="research-grid">
+        {% for r in site.data.research %}
+        <article class="research-card">
+        <div class="research-fig">
+            <img src="{{ r.img | relative_url }}" alt="{{ r.title }}">
+        </div>
+        <h3 class="research-title">
+            {% if r.url %}<a href="{{ r.url | relative_url }}">{{ r.title }}</a>{% else %}{{ r.title }}{% endif %}
+        </h3>
+        <p class="research-desc">{{ r.desc }}</p>
+        </article>
+        {% endfor %}
+    </div>
+
+    <p><a href="/research/">Read more →</a></p>
     </section>
+
 
     <section id="people" class="section-block">
       <h2>People</h2>
