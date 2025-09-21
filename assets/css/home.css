@@ -213,3 +213,33 @@ section.section-block { scroll-margin-top: 84px; }
     height: 200px;
   }
 }
+
+.intro-box {
+  background: #f9f9f9;        /* light background */
+  border-radius: 14px;        /* rounded corners */
+  padding: 2rem;              /* spacing inside */
+  margin: 2rem auto;          /* space around */
+  max-width: 900px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* subtle shadow */
+  text-align: center;
+}
+
+.intro-box h2 {
+  font-size: 2rem;            /* bigger heading */
+  margin-bottom: 1rem;
+}
+
+.intro-box p {
+  font-size: 1.25rem;         /* larger text */
+  line-height: 1.6;
+}
+
+.intro-box a {
+  color: #0077cc;             /* light blue links */
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.intro-box a:hover {
+  text-decoration: underline;
+}
