@@ -1,5 +1,5 @@
 :root {
-  --mx: 56rem;            /* content max-width */
+  --mx: 80rem;            /* content max-width */
   --gap: 1.25rem;
   --fg: #111;
   --muted: #555;
@@ -245,4 +245,3 @@ section.section-block { scroll-margin-top: 84px; }
 .hero-logo .container { max-width: var(--mx); margin: 0 auto; }
 .hero-logo img { width: 100%; height: auto; display: block; } */
 
-:root { --mx: 72rem; }   /* was 56rem; pick the width you like (e.g. 68–80rem) */
