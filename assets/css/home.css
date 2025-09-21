@@ -198,14 +198,21 @@ section.section-block { scroll-margin-top: 84px; }
   padding: 0;
 }
 
-/* Logo responsive inside hero */
+/* Logo as full-width banner */
 .hero-logo img {
-  max-height: 70%;               /* scale relative to banner height */
-  max-width: 90%;                /* don’t overflow horizontally */
-  height: auto;
-  width: auto;
+  width: 100%;          /* stretch across the entire container */
+  height: auto;         /* keep aspect ratio */
   display: block;
 }
+
+/* Optional: control max height so it doesn’t get too tall */
+.hero-logo {
+  background: #000;     /* background color if image doesn’t fill */
+  width: 100%;
+  max-height: 250px;    /* adjust depending on your logo design */
+  overflow: hidden;     /* crop if taller */
+}
+
   
 /* On small screens, shrink more */
 @media (max-width: 600px) {
