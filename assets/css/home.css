@@ -287,14 +287,3 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
   .cards { grid-template-columns: 1fr; }
 }
 
-/* 2) Mobile: offset the first hero section by the header height */
-@media (max-width: 720px) {
-  /* adjust this to your actual mobile header height (try 72–96px) */
-  .hero-logo,
-  .hero {            /* if you use the slider as first section */
-    margin-top: 78px;
-  }
-
-  /* and keep anchor jumps clear of the header */
-  section.section-block { scroll-margin-top: 78px; }
-}
