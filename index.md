@@ -2,7 +2,7 @@
 layout: home
 title: "CODES Research Group"
 
-hero_images: /images/CODES_logo.svg
+hero_images: /images/CODES_logo_UCL.svg
 
 # hero_title: "CODES"
 # hero_subtitle: "Control and optimization of dynamic engineering systems"
