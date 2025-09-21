@@ -282,7 +282,7 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
 }
 
 Card grid, if you still use it anywhere
-.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: 0.25 rem; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: 0.5 rem; }
 @media (max-width: 600px) {
   .cards { grid-template-columns: 1fr; }
 }
