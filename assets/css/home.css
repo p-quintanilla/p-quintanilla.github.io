@@ -205,14 +205,6 @@ section.section-block { scroll-margin-top: 84px; }
   display: block;
 }
 
-/* Optional: control max height so it doesn’t get too tall */
-.hero-logo {
-  background: #000;     /* background color if image doesn’t fill */
-  width: 100%;
-  max-height: 250px;    /* adjust depending on your logo design */
-  overflow: hidden;     /* crop if taller */
-}
-
   
 /* On small screens, shrink more */
 @media (max-width: 600px) {
