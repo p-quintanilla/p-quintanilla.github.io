@@ -241,6 +241,8 @@ section.section-block { scroll-margin-top: 84px; }
 .intro-box a:hover {
   text-decoration: underline;
 }
-
+/* 
 .hero-logo .container { max-width: var(--mx); margin: 0 auto; }
-.hero-logo img { width: 100%; height: auto; display: block; }
+.hero-logo img { width: 100%; height: auto; display: block; } */
+
+:root { --mx: 72rem; }   /* was 56rem; pick the width you like (e.g. 68–80rem) */
