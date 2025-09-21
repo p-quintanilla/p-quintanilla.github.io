@@ -186,35 +186,35 @@ section.section-block { scroll-margin-top: 84px; }
   .nav a { font-size: 1rem; }
   section.section-block { scroll-margin-top: 72px; }
 }
-
 /* Full-width hero with centered logo */
 .hero-logo {
-  background: #000;              /* choose your background color */
+  background: #000;              /* background color */
   display: flex;
   justify-content: center;
   align-items: center;
-  width:auto;
-  height: 100%;         /* adjust banner height */
+  width: 100%;                   /* full width */
+  height: 280px;                 /* banner height (adjust as you like) */
   margin: 0;
   padding: 0;
 }
 
-/* Make logo responsive */
-.hero-slide img,
-.hero-single img,
-.logo img {
-  max-width: 100%;     /* never overflow the screen */
-  height: auto;        /* keep proportions */
+/* Logo responsive inside hero */
+.hero-logo img {
+  max-height: 70%;               /* scale relative to banner height */
+  max-width: 90%;                /* don’t overflow horizontally */
+  height: auto;
+  width: auto;
   display: block;
-  margin: 0 auto;
 }
-
-/* Specific rule for smaller screens */
+  
+/* On small screens, shrink more */
 @media (max-width: 600px) {
-  .hero-slide img,
-  .hero-single img,
-  .logo img {
-    max-width: 70%;   /* shrink logo on phones */
+  .hero-logo {
+    height: 180px;               /* shorter banner on mobile */
+  }
+  .hero-logo img {
+    max-height: 60%;
+    max-width: 80%;
   }
 }
 
