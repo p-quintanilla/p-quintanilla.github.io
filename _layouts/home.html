@@ -8,15 +8,21 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   {%- if site.stylesheet -%}<link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">{%- endif -%}
   <link rel="stylesheet" href="{{ "/assets/css/home.css" | relative_url }}">
+
+  <!-- Smooth scrolling for in-page anchors -->
+  <style>
+    html { scroll-behavior: smooth; }
+    /* keep anchored sections from hiding under a fixed header (adjust if your nav height changes) */
+    section.section-block { scroll-margin-top: 80px; }
+  </style>
 </head>
 <body>
-    {% include head.html %}
+  {% include head.html %}
 
-    <!-- Top banner -->
-    <div class="top-banner">
-      <p>This site is in progress (September 2025)</p>
-    </div>
-
+  <!-- Top banner -->
+  <div class="top-banner">
+    <p>This site is in progress (September 2025)</p>
+  </div>
 
   <!-- HERO IMAGE / SLIDER -->
   <header class="hero">
@@ -30,14 +36,6 @@
         {%- endfor -%}
       {%- endif -%}
 
-      <!-- Overlay text on top of the image
-      <div class="hero-overlay">
-        <div class="hero-inner">
-          <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
-          {%- if page.hero_subtitle -%}<p class="lab-tagline">{{ page.hero_subtitle }}</p>{%- endif -%}
-        </div>
-      </div> -->
-
       <!-- Dots for navigation -->
       <div class="hero-dots" aria-label="Slide indicators">
         {%- for src in imgs -%}
@@ -48,49 +46,88 @@
   </header>
 
   <!-- Group title/subtitle BELOW the image -->
-<section class="hero-caption container">
-  <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
-  {%- if page.hero_subtitle -%}
-  <p class="lab-tagline">{{ page.hero_subtitle }}</p>
-  {%- endif -%}
-</section>
+  <section class="hero-caption container">
+    <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
+    {%- if page.hero_subtitle -%}
+    <p class="lab-tagline">{{ page.hero_subtitle }}</p>
+    {%- endif -%}
+  </section>
 
-  <!-- LINKS SECTION -->
+  <!-- LINKS SECTION (cards now scroll to sections on THIS page) -->
   <main class="sections container">
     <nav class="cards">
       {%- assign items = page.links | default: site.data.home.links -%}
       {%- for item in items -%}
-      <a class="card" href="{{ item.url | relative_url }}">
-        <span class="card-title">{{ item.title }}</span>
-        {%- if item.desc -%}<span class="card-desc">{{ item.desc }}</span>{%- endif -%}
-      </a>
+        {%- assign parts = item.url | split:'/' -%}
+        {%- assign anchor = parts[parts.size | minus: 2] -%} {# get last non-empty segment #}
+        <a class="card" href="#{{ anchor }}">
+          <span class="card-title">{{ item.title }}</span>
+          {%- if item.desc -%}<span class="card-desc">{{ item.desc }}</span>{%- endif -%}
+        </a>
       {%- endfor -%}
     </nav>
   </main>
 
-    <footer class="footer">
+  <!-- ONE-PAGE SECTIONS (summaries + 'Read more' to full pages) -->
+  <div class="container">
+
+    <section id="research" class="section-block">
+      <h2>Research</h2>
+      <p>Brief overview of what we work on. (You can replace this paragraph with a short summary.)</p>
+      <p><a href="/research/">Read more →</a></p>
+    </section>
+
+    <section id="people" class="section-block">
+      <h2>People</h2>
+      <p>Meet the team: PI, researchers, students, collaborators.</p>
+      <p><a href="/people/">Read more →</a></p>
+    </section>
+
+    <section id="publications" class="section-block">
+      <h2>Publications</h2>
+      <p>Selected recent papers and preprints.</p>
+      <p><a href="/publications/">Read more →</a></p>
+    </section>
+
+    <section id="software" class="section-block">
+      <h2>Software</h2>
+      <p>Open-source projects and tools from the group.</p>
+      <p><a href="/software/">Read more →</a></p>
+    </section>
+
+    <section id="news" class="section-block">
+      <h2>News</h2>
+      <p>Talks, awards, grants, new papers, and updates.</p>
+      <p><a href="/news/">Read more →</a></p>
+    </section>
+
+    <section id="join" class="section-block">
+      <h2>Join</h2>
+      <p>Open positions and how to apply.</p>
+      <p><a href="/join/">Read more →</a></p>
+    </section>
+
+    <section id="contact" class="section-block">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:{{ page.contact_email | default: site.contact_email }}">{{ page.contact_email | default: site.contact_email }}</a></p>
+      <p>Department: <a href="{{ page.dept_url | default: site.dept_url }}" target="_blank" rel="noopener">UCL Chemical Engineering</a></p>
+      <p>PI: <a href="{{ page.pi_url | default: site.ucl_profile_url }}" target="_blank" rel="noopener">Paulina Quintanilla</a></p>
+    </section>
+
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
     <p>
-        <a href="{{ page.pi_url | default: site.ucl_profile_url }}" target="_blank" rel="noopener">
-        Paulina Quintanilla
-        </a>
-        ·
-        <a href="{{ page.dept_url | default: site.dept_url }}" target="_blank" rel="noopener">
-        UCL Chemical Engineering
-        </a>
-        ·
-        <a href="mailto:{{ page.contact_email | default: site.contact_email }}">
-        Contact
-        </a>
+      <a href="{{ page.pi_url | default: site.ucl_profile_url }}" target="_blank" rel="noopener">Paulina Quintanilla</a>
+      ·
+      <a href="{{ page.dept_url | default: site.dept_url }}" target="_blank" rel="noopener">UCL Chemical Engineering</a>
+      ·
+      <a href="mailto:{{ page.contact_email | default: site.contact_email }}">Contact</a>
     </p>
-    <p> 
-      updated {{ site.time | date: "%B %Y" }} ·
+    <p>Last updated: {{ site.time | date: "%B %Y" }}</p>
+  </footer>
 
-    <!-- Updated last on: <script>document.write(new Date(document.lastModified));</script> -->
-  </p>
-    </footer>
-
-   
-
-
+  <script src="{{ "/assets/js/hero.js" | relative_url }}" defer></script>
 </body>
 </html>

@@ -1,0 +1,97 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {%- if site.stylesheet -%}<link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">{%- endif -%}
+  <link rel="stylesheet" href="{{ "/assets/css/home.css" | relative_url }}">
+</head>
+<body>
+    {% include head.html %}
+
+    <!-- Top banner -->
+    <div class="top-banner">
+      <p>This site is in progress (September 2025)</p>
+    </div>
+
+    
+
+  <!-- HERO IMAGE / SLIDER -->
+  <header class="hero">
+    <div class="hero-slider" data-hero-slider>
+      {%- assign imgs = page.hero_images | default: site.hero_images -%}
+      {%- if imgs and imgs.size > 0 -%}
+        {%- for src in imgs -%}
+        <div class="hero-slide{% if forloop.first %} is-active{% endif %}" aria-hidden="{% unless forloop.first %}true{% else %}false{% endunless %}">
+          <img src="{{ src | relative_url }}" alt="" loading="{% if forloop.index > 1 %}lazy{% else %}eager{% endif %}">
+        </div>
+        {%- endfor -%}
+      {%- endif -%}
+
+      <!-- Overlay text on top of the image
+      <div class="hero-overlay">
+        <div class="hero-inner">
+          <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
+          {%- if page.hero_subtitle -%}<p class="lab-tagline">{{ page.hero_subtitle }}</p>{%- endif -%}
+        </div>
+      </div> -->
+
+      <!-- Dots for navigation -->
+      <div class="hero-dots" aria-label="Slide indicators">
+        {%- for src in imgs -%}
+        <button class="dot{% if forloop.first %} is-active{% endif %}" data-goto="{{ forloop.index0 }}" aria-label="Go to slide {{ forloop.index }}"></button>
+        {%- endfor -%}
+      </div>
+    </div>
+  </header>
+
+  <!-- Group title/subtitle BELOW the image -->
+<section class="hero-caption container">
+  <h1 class="lab-title">{{ page.hero_title | default: site.title }}</h1>
+  {%- if page.hero_subtitle -%}
+  <p class="lab-tagline">{{ page.hero_subtitle }}</p>
+  {%- endif -%}
+</section>
+
+  <!-- LINKS SECTION -->
+  <main class="sections container">
+    <nav class="cards">
+      {%- assign items = page.links | default: site.data.home.links -%}
+      {%- for item in items -%}
+      <a class="card" href="{{ item.url | relative_url }}">
+        <span class="card-title">{{ item.title }}</span>
+        {%- if item.desc -%}<span class="card-desc">{{ item.desc }}</span>{%- endif -%}
+      </a>
+      {%- endfor -%}
+    </nav>
+  </main>
+
+    <footer class="footer">
+    <p>
+        <a href="{{ page.pi_url | default: site.ucl_profile_url }}" target="_blank" rel="noopener">
+        Paulina Quintanilla
+        </a>
+        ·
+        <a href="{{ page.dept_url | default: site.dept_url }}" target="_blank" rel="noopener">
+        UCL Chemical Engineering
+        </a>
+        ·
+        <a href="mailto:{{ page.contact_email | default: site.contact_email }}">
+        Contact
+        </a>
+    </p>
+    <p> 
+      updated {{ site.time | date: "%B %Y" }} ·
+
+    <!-- Updated last on: <script>document.write(new Date(document.lastModified));</script> -->
+  </p>
+    </footer>
+
+   
+
+
+</body>
+</html>
