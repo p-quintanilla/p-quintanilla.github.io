@@ -188,12 +188,4 @@ section.section-block { scroll-margin-top: 84px; }
 }
 
 
-.hero-slide img {
-  width: auto;              /* instead of 100% */
-  height: auto;
-  max-width: auto;
-  max-height: auto;
-  object-fit: contain;      /* keep full logo visible */
-  object-position: center;
-  margin: 0 auto;
-}
+
