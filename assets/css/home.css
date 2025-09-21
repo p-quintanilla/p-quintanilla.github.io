@@ -199,18 +199,22 @@ section.section-block { scroll-margin-top: 84px; }
   padding: 0;
 }
 
-
-.hero-logo img {
- width:  100%;              /* instead of 100% */
-  height: 100%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;      /* keep full logo visible */
-  object-position: center;
+/* Make logo responsive */
+.hero-slide img,
+.hero-single img,
+.logo img {
+  max-width: 100%;     /* never overflow the screen */
+  height: auto;        /* keep proportions */
+  display: block;
+  margin: 0 auto;
 }
+
+/* Specific rule for smaller screens */
 @media (max-width: 600px) {
-  .hero-logo {
-    height: 200px;
+  .hero-slide img,
+  .hero-single img,
+  .logo img {
+    max-width: 70%;   /* shrink logo on phones */
   }
 }
 
@@ -243,3 +247,4 @@ section.section-block { scroll-margin-top: 84px; }
 .intro-box a:hover {
   text-decoration: underline;
 }
+
