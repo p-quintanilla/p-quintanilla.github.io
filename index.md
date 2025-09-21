@@ -2,7 +2,7 @@
 layout: home
 title: "Codes— UCL"
 
-hero_images: /images/ucl-1.jpg
+hero_images: /images/CODES_logo.svg
 
 # hero_title: "CODES"
 # hero_subtitle: "Control and optimization of dynamic engineering systems"
