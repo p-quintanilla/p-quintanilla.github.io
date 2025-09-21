@@ -259,3 +259,15 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
   .card-desc { font-size: 0.8rem; }
   .footer p { padding: 0.75rem; font-size: .85rem; }
 }
+
+/* Header/nav mobile behavior */
+.nav.container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;                 /* allow wrapping */
+}
+@media (max-width: 720px) {
+  .nav.container { gap: 0.75rem; justify-content: center; }
+  .nav a { font-size: 0.95rem; }
+}
