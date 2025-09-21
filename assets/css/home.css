@@ -187,3 +187,27 @@ section.section-block { scroll-margin-top: 84px; }
   section.section-block { scroll-margin-top: 72px; }
 }
 
+/* Full-width hero with centered logo */
+.hero-logo {
+  background: #000;              /* choose your background color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 320px;                 /* adjust banner height */
+  margin: 0;
+  padding: 0;
+}
+
+.hero-logo img {
+  max-height: 70%;               /* keeps logo crisp and proportionate */
+  max-width: 90%;                /* prevents overflow on small screens */
+  width: auto;
+  height: auto;
+  display: block;
+}
+@media (max-width: 600px) {
+  .hero-logo {
+    height: 200px;
+  }
+}

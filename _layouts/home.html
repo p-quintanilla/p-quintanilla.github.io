@@ -22,7 +22,7 @@
   {% include head.html %}
 
   <!-- HERO IMAGE / SLIDER -->
-  <header class="hero">
+  <!-- <header class="hero">
     <div class="hero-slider" data-hero-slider>
       {%- assign imgs = page.hero_images | default: site.hero_images -%}
       {%- if imgs and imgs.size > 0 -%}
@@ -31,7 +31,10 @@
           <img src="{{ src | relative_url }}" alt="" loading="{% if forloop.index > 1 %}lazy{% else %}eager{% endif %}">
         </div>
         {%- endfor -%}
-      {%- endif -%}
+      {%- endif -%} -->
+    <header class="hero hero-logo">
+    <img src="{{ page.hero_images | relative_url }}" alt="CODES Research Group logo">
+    </header>
 
       <!-- Dots for navigation -->
       <div class="hero-dots" aria-label="Slide indicators">
