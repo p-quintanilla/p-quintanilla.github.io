@@ -88,3 +88,51 @@ a:hover { border-bottom-color: var(--accent); }
   font-size: 0.95rem;
   font-weight: 500;
 }
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem 1.25rem;
+  margin-top: 1rem;
+}
+
+.research-card {
+  display: grid;
+  gap: .5rem;
+}
+
+.research-fig {
+  width: 100%;
+  aspect-ratio: 16/9;            /* keeps a nice consistent box */
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.research-fig img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;            /* preserves your illustrations */
+  display: block;
+}
+
+.research-title {
+  font-size: 1.25rem;
+  margin: .25rem 0 0;
+  line-height: 1.2;
+}
+.research-title a { text-decoration: none; border-bottom: 1px solid transparent; }
+.research-title a:hover { border-bottom-color: currentColor; }
+
+.research-desc {
+  margin: 0;
+  color: var(--muted);
+  font-size: .95rem;
+}
+
+/* optional subtle hover lift */
+.research-card:hover .research-fig {
+  box-shadow: 0 6px 18px rgba(0,0,0,.06);
+  transform: translateY(-1px);
+  transition: box-shadow .15s ease, transform .15s ease;
+}

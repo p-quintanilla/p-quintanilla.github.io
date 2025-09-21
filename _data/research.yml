@@ -1,0 +1,29 @@
+- title: Model-based & Economic MPC
+  desc: Nonlinear & economic MPC for transient, multi-objective operation under constraints.
+  img: /images/500x300.png
+  url: /research/#mpc
+
+- title: Gaussian-Process–based Control
+  desc: GP state–space modelling and partially observable GP-NMPC for batch & continuous systems.
+  img: /images/500x300.png
+  url: /research/#gp
+
+- title: Mineral Processing Optimization
+  desc: Control and optimisation of flotation, leaching, and SAG mills with digital twins.
+  img: /images/500x300.png
+  url: /research/#minerals
+
+- title: Direct Air Capture (DAC)
+  desc: Dynamic modelling, PSA scheduling, and control for energy-efficient CO₂ removal.
+  img: /images/500x300.png
+  url: /research/#dac
+
+- title: Energy Systems & Decarbonisation
+  desc: Supervisory control and optimisation for low-carbon integration and flexibility.
+  img: /images/500x300.png
+  url: /research/#energy
+
+- title: Supply Chains & Health Ops
+  desc: Optimisation under uncertainty for critical medical logistics and scheduling.
+  img: /images/500x300.png
+  url: /research/#supply
