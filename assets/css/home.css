@@ -193,7 +193,7 @@ section.section-block { scroll-margin-top: 84px; }
   justify-content: center;
   align-items: center;
   width: 100%;                   /* full width */
-  height: 280px;                 /* banner height (adjust as you like) */
+  height: auto;               
   margin: 0;
   padding: 0;
 }
@@ -205,18 +205,13 @@ section.section-block { scroll-margin-top: 84px; }
   display: block;
 }
 
-  
 /* On small screens, shrink more */
 @media (max-width: 600px) {
-  .hero-logo {
-    height: 180px;               /* shorter banner on mobile */
-  }
-  .hero-logo img {
-    max-height: 60%;
-    max-width: 80%;
-  }
+  .hero-logo { max-height: 150px; } /* limit height on small screens
+  .hero-logo img { object-fit: contain; } /* ensure logo fits well */
 }
 
+/* Introductory box below the hero */
 .intro-box {
   background: #abf9fc95;        /* light background */
   border-radius: 14px;        /* rounded corners */
