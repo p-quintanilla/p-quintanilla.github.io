@@ -9,20 +9,16 @@
   {%- if site.stylesheet -%}<link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">{%- endif -%}
   <link rel="stylesheet" href="{{ "/assets/css/home.css" | relative_url }}">
 
-  <!-- Smooth scrolling for in-page anchors -->
   <style>
     html { scroll-behavior: smooth; }
-    /* keep anchored sections from hiding under a fixed header (adjust if your nav height changes) */
+    /* keep anchored sections from tucking under a fixed header (adjust if your header height changes) */
     section.section-block { scroll-margin-top: 80px; }
+    /* basic active link style for scroll-spy */
+    .nav a.active { text-decoration: underline; }
   </style>
 </head>
 <body>
   {% include head.html %}
-
-  <!-- Top banner -->
-  <div class="top-banner">
-    <p>This site is in progress (September 2025)</p>
-  </div>
 
   <!-- HERO IMAGE / SLIDER -->
   <header class="hero">
@@ -53,51 +49,36 @@
     {%- endif -%}
   </section>
 
-  <!-- LINKS SECTION (cards now scroll to sections on THIS page) -->
-  <main class="sections container">
-    <nav class="cards">
-      {%- assign items = page.links | default: site.data.home.links -%}
-      {%- for item in items -%}
-        {%- assign parts = item.url | split:'/' -%}
-        {%- assign anchor = parts[parts.size | minus: 2] -%} {# get last non-empty segment #}
-        <a class="card" href="#{{ anchor }}">
-          <span class="card-title">{{ item.title }}</span>
-          {%- if item.desc -%}<span class="card-desc">{{ item.desc }}</span>{%- endif -%}
-        </a>
-      {%- endfor -%}
-    </nav>
-  </main>
-
-  <!-- ONE-PAGE SECTIONS (summaries + 'Read more' to full pages) -->
+  <!-- ONE-PAGE SECTIONS -->
   <div class="container">
 
     <section id="research" class="section-block">
       <h2>Research</h2>
-      <p>Brief overview of what we work on. (You can replace this paragraph with a short summary.)</p>
+      <p>Short overview of your research areas. Replace this with a brief summary.</p>
       <p><a href="/research/">Read more →</a></p>
     </section>
 
     <section id="people" class="section-block">
       <h2>People</h2>
-      <p>Meet the team: PI, researchers, students, collaborators.</p>
+      <p>PI, researchers, students, collaborators.</p>
       <p><a href="/people/">Read more →</a></p>
     </section>
 
     <section id="publications" class="section-block">
       <h2>Publications</h2>
-      <p>Selected recent papers and preprints.</p>
+      <p>Recent papers and preprints.</p>
       <p><a href="/publications/">Read more →</a></p>
     </section>
 
     <section id="software" class="section-block">
       <h2>Software</h2>
-      <p>Open-source projects and tools from the group.</p>
+      <p>Open-source projects and tools.</p>
       <p><a href="/software/">Read more →</a></p>
     </section>
 
     <section id="news" class="section-block">
       <h2>News</h2>
-      <p>Talks, awards, grants, new papers, and updates.</p>
+      <p>Talks, awards, grants, new papers.</p>
       <p><a href="/news/">Read more →</a></p>
     </section>
 
@@ -125,9 +106,38 @@
       ·
       <a href="mailto:{{ page.contact_email | default: site.contact_email }}">Contact</a>
     </p>
-    <p>Last updated: {{ site.time | date: "%B %Y" }}</p>
+    <p>updated {{ site.time | date: "%B %Y" }}</p>
   </footer>
 
   <script src="{{ "/assets/js/hero.js" | relative_url }}" defer></script>
+
+  <!-- Scroll-spy: highlight the active nav item while scrolling -->
+  <script>
+    (function () {
+      const sections = ["research","people","publications","software","news","join","contact"]
+        .map(id => document.getElementById(id))
+        .filter(Boolean);
+      const links = Array.from(document.querySelectorAll('.nav a'))
+        .filter(a => a.getAttribute('href') && a.getAttribute('href').startsWith('#'));
+
+      if (!sections.length || !links.length) return;
+
+      const byId = new Map(links.map(a => [a.getAttribute('href').slice(1), a]));
+
+      const io = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          const id = entry.target.id;
+          const link = byId.get(id);
+          if (!link) return;
+          if (entry.isIntersecting) {
+            links.forEach(a => a.classList.remove('active'));
+            link.classList.add('active');
+          }
+        });
+      }, { rootMargin: "-40% 0px -55% 0px", threshold: 0.01 });
+
+      sections.forEach(sec => io.observe(sec));
+    })();
+  </script>
 </body>
 </html>
