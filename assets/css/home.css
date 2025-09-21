@@ -193,7 +193,7 @@ section.section-block { scroll-margin-top: 84px; }
   display: flex;
   justify-content: center;
   align-items: center;
-  width:100%;
+  width:auto;
   height: 100%;         /* adjust banner height */
   margin: 0;
   padding: 0;
