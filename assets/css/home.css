@@ -219,7 +219,7 @@ section.section-block { scroll-margin-top: 84px; }
 }
 
 .intro-box {
-  background: #C3DCD8;        /* light background */
+  background: #5ce1e6;        /* light background */
   border-radius: 14px;        /* rounded corners */
   padding: 2rem;              /* spacing inside */
   margin: 2rem auto;          /* space around */
@@ -239,7 +239,7 @@ section.section-block { scroll-margin-top: 84px; }
 }
 
 .intro-box a {
-  color: #0077cc;             /* light blue links */
+  color: #2c6b6d;             /* light blue links */
   font-weight: 600;
   text-decoration: none;
 }
