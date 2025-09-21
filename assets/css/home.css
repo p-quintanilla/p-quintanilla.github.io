@@ -287,3 +287,16 @@ img, video, svg, canvas { max-width: 100%; height: auto; }
   .cards { grid-template-columns: 1fr; }
 }
 
+/* Base font size (scales with screen width) */
+html {
+  font-size: 16px;   /* default for phones */
+}
+
+@media (min-width: 900px) {
+  html { font-size: 18px; }  /* slightly larger on desktop */
+}
+
+@media (min-width: 1400px) {
+  html { font-size: 19px; }  /* optional: bigger on very large screens */
+}
+
