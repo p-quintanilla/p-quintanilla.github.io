@@ -32,9 +32,15 @@
         </div>
         {%- endfor -%}
       {%- endif -%} -->
-    <header class="hero hero-logo">
+    <!-- <header class="hero hero-logo">
     <img src="{{ page.hero_images | relative_url }}" alt="CODES Research Group logo">
-    </header>
+    </header> -->
+
+    <header class="hero hero-logo">
+  <div class="container">
+    <img src="{{ page.hero_images | relative_url }}" alt="CODES Research Group logo">
+  </div>
+</header>
 
       <!-- Dots for navigation -->
       <div class="hero-dots" aria-label="Slide indicators">
@@ -44,6 +50,8 @@
       </div>
     </div>
   </header>
+
+  
 
   <!-- Group title/subtitle BELOW the image -->
   <!-- <section class="hero-caption container">

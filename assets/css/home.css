@@ -242,3 +242,5 @@ section.section-block { scroll-margin-top: 84px; }
   text-decoration: underline;
 }
 
+.hero-logo .container { max-width: var(--mx); margin: 0 auto; }
+.hero-logo img { width: 100%; height: auto; display: block; }
