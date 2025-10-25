@@ -2,7 +2,7 @@
 layout: home
 title: "Paulina Quintanilla"
 
-hero_images: /images/ucl-1.jpg
+hero_images: /images/ucl-2.jpg
 
 # hero_title: "CODES"
 # hero_subtitle: "Control and optimization of dynamic engineering systems"
