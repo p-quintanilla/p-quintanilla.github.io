@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "CODES Research Group"
+title: "Paulina Quintanilla"
 
-hero_images: /images/CODES_logo_UCL_4.png
+hero_images: /images/ucl-1.jpg
 
 # hero_title: "CODES"
 # hero_subtitle: "Control and optimization of dynamic engineering systems"
