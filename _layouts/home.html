@@ -21,7 +21,7 @@
 
   {% include head.html %}
 
-  <!-- HERO IMAGE / SLIDER
+  <!-- HERO IMAGE / SLIDER -->
   <header class="hero">
     <div class="hero-slider" data-hero-slider>
       {%- assign imgs = page.hero_images | default: site.hero_images -%}
@@ -31,7 +31,7 @@
           <img src="{{ src | relative_url }}" alt="" loading="{% if forloop.index > 1 %}lazy{% else %}eager{% endif %}">
         </div>
         {%- endfor -%}
-      {%- endif -%} -->
+      {%- endif -%}
     <!-- <header class="hero hero-logo">
     <img src="{{ page.hero_images | relative_url }}" alt="CODES Research Group logo">
     </header> -->
@@ -65,14 +65,20 @@
 
 <section class="intro container">
   <div class="intro-box">
-    <p>
-      Welcome to the webpage of the CODES Research Group at 
-    <a href="https://www.ucl.ac.uk/engineering/chemical-engineering" target="_blank" rel="noopener">University College London</a>! 
-    Our team, led by <a href="https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about" target="_blank" rel="noopener">Paulina Quintanilla</a>, 
-    develops advanced methods for dynamic modelling, control, and optimization of complex engineering systems. We integrate physics-based models with data-driven tools such as machine learning and artificial intelligence to design 
-    smart, adaptive solutions for real-world processes. Our work spans multiple domains, from mineral processing to hydrogen and multiscale systems.
-    </p>
-  </div>
+<p>
+    Welcome to our research group, where we develop <strong>dynamic models and model-based control strategies</strong> for the optimization of complex engineering systems. 
+    Our work bridges theory and application — from <strong>supply chain optimization for personalized medical treatments</strong> to 
+    <strong>advanced process control in mineral processing</strong> and <strong>multi-scale modeling of energy systems</strong> that support decarbonization and sustainability.
+  </p>
+
+  <p>
+    A central theme of our research is the <strong>integration of machine learning and physics-based modeling</strong>. 
+    By combining data-driven insights with first-principles understanding, we build hybrid models that are both interpretable and predictive. 
+    This enables us to design <strong>digital twins</strong> — virtual representations of real systems — that evolve with real-time data to 
+    enhance monitoring, control, and optimization. 
+    Our team’s goal is to develop <strong>intelligent, adaptive decision-making tools</strong> that accelerate the transition toward 
+    efficient, resilient, and sustainable industrial processes.
+  </p>
 </section>
 
 
