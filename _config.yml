@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "CODES"
+title                    : "Paulina Quintanilla"
 title_separator          : "-"
 name                     : &name "Dr Paulina Quintanilla"
 description              : &description "University College London"
-url                      : "https://www.codespse.co.uk"   # https://p-quintanilla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://p-quintanilla.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
