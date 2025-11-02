@@ -5,7 +5,7 @@
 - name: Rasa Pourjam
   role: Research Assistant at Imperial College London
   project: "Hierarchical reinforcement learning and model predictive control for battery systems"
-  img: /images/yicong.jpeg
+  img: /images/rasa.jpeg
 
 - name: Agustín Fuenzalida
   role: MSc student at Universidad Técnica Federico Santa María
@@ -25,7 +25,7 @@
 - name: William Davis
   role: PhD student at Brunel University of London
   project: "Global sensitivity analysis with machine learning for blue hydrogen production"
-  img: /images/billy.jpeg
+  img: /images/billy.jpg
 
 - name: Victor Dehon
   role: (former) MSc in Advanced Chemical Engineering at Imperial College London
@@ -35,7 +35,7 @@
 - name: Benjamín Araya
   role: MSc student at Universidad Técnica Federico Santa María
   project: "Soft sensor development for heap leaching control"
-  img: /images/benjamin_araya.jpeg
+  img: /images/benjamin_aeaya.jpeg
 
 - name: Benjamín Olivares
   role: (former) MSc student at Universidad Técnica Federico Santa María
