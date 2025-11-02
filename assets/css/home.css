@@ -351,3 +351,35 @@ html {
 #publications .archive__item-title { font-size: 1rem; margin: 0; }
 #publications .page__meta, 
 #publications .archive__item-excerpt { font-size: .95rem; }
+
+
+/* --- Home page publications section fixes --- */
+#publications .archive__item {
+  border: none;
+  margin-bottom: 0.75rem;
+  padding: 0;
+}
+
+#publications .archive__item-title {
+  font-size: 1rem;             /* smaller font */
+  font-weight: 500;
+  color: #111;
+  margin: 0;
+  line-height: 1.4;
+}
+
+#publications .archive__item-title a {
+  color: #0044cc;              /* light blue link */
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+#publications .archive__item-title a:hover {
+  border-bottom-color: #0044cc;
+}
+
+#publications .archive__item-excerpt {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0.2rem 0 0.6rem;
+}

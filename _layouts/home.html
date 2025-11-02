@@ -104,7 +104,7 @@
 
   {% include base_path %}
   <div class="pub-list">
-    {% for post in site.publications reversed limit:5 %}
+    {% for post in site.publications reversed%}
       {% include archive-single.html %}
     {% endfor %}
   </div>
