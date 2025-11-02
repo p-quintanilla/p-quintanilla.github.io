@@ -110,6 +110,40 @@
   </div>
 </section>
 
+<section id="awards" class="section-block">
+  <h2>Awards</h2>
+
+  <ul class="awards-list">
+    {% assign items = site.data.awards | sort: "date" | reverse %}
+    {% for a in items limit:8 %}
+    <li class="award">
+      <div class="award-icon" aria-hidden="true">
+        {% case a.icon %}
+          {% when "trophy" %}🏆
+          {% when "academic-cap" %}🎓
+          {% when "presentation" %}🖼️
+          {% when "star" %}⭐
+          {% when "sparkles" %}✨
+          {% else %}🏅
+        {% endcase %}
+      </div>
+      <div class="award-body">
+        <div class="award-title">
+          {% if a.url %}<a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>{% else %}{{ a.title }}{% endif %}
+        </div>
+        <div class="award-meta">{{ a.awarder }} · <span class="award-year">{{ a.date | date: "%Y" }}</span></div>
+        {% if a.summary %}<div class="award-summary">{{ a.summary }}</div>{% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <p style="margin-top:.5rem;">
+    <a href="/awards/">View all awards →</a>
+  </p>
+</section>
+
+
 
 <section id="software" class="section-block">
   <h2>Software</h2>
@@ -128,13 +162,6 @@
     </div>
   </div>
 </section>
-
-
-    <section id="awards" class="section-block">
-      <h2>Awards</h2>
-      <p>Awards.</p>
-      <p><a href="/awards/">Read more →</a></p>
-    </section>
 
     <!-- <section id="join" class="section-block">
       <h2>Join</h2>
