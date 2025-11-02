@@ -1,18 +1,21 @@
 :root {
-  --mx: 80rem;            /* content max-width */
+  --mx: 80rem;
   --gap: 1.25rem;
 
-  /* --- DARK THEME COLORS --- */
-  --bg: #0d0d0d;          /* dark background */
-  --fg: #f5f5f5;          /* main text color */
-  --muted: #bbbbbb;       /* muted/secondary text */
-  --accent: #00bcd4;      /* accent (link underline or hover color) */
-
-  --card-bg: #1a1a1a;     /* card/section background */
-  --card-border: #2a2a2a;
-  --nav-bg: #000;          /* header background */
-  --link: #4fc3f7;         /* bright cyan links */
+  /* --- Dark Elegant Palette --- */
+  --bg: #121416;
+  --fg: #f0f2f3;
+  --muted: #a6a9ad;
+  --accent: #6ec6ff;
+  --accent-hover: #8ee1ff;
+  --card-bg: #1b1e22;
+  --card-border: #2a2d31;
+  --nav-bg: #101113;
+  --link: #6ec6ff;
+  --link-hover: #8ee1ff;
+  --alt-section-bg: #171a1d;
 }
+
 
 
 * { box-sizing: border-box; }
@@ -626,19 +629,39 @@ html {
   .person-role { font-size: 0.95rem; }
 }
 
-/* Alternate section background colors for visual separation */
-.section-block:nth-of-type(odd) {
-  background: #0d0d0d; /* main dark */
-}
-
+/* Alternate section shading */
 .section-block:nth-of-type(even) {
-  background: #303030; /* slightly lighter grey */
-}
-
-.section-block {
+  background: var(--alt-section-bg);
   border-radius: 14px;
   padding: 3rem 2rem;
-  margin-bottom: 2rem;
-  box-shadow: 0 0 25px rgba(0,0,0,0.2);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+}
+
+/* Links */
+a {
+  color: var(--link);
+  border-bottom: 1px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+  border-bottom-color: var(--link-hover);
+}
+
+/* Cards / Boxes */
+.card, .research-card, .software-card, .award {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+}
+
+/* Text tones */
+.research-desc, .card-desc, .award-summary, .person-role {
+  color: var(--muted);
+}
+
+/* Smooth section transitions */
+.section-block {
   transition: background 0.3s ease, box-shadow 0.3s ease;
 }
