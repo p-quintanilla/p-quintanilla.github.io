@@ -105,6 +105,7 @@
         </div>
         <div class="person-name">{{ p.name }}</div>
         <div class="person-role">{{ p.role }}</div>
+        <div class="person-project">{% if p.project %}{{ p.project }}{% endif %}</div>
       </a>
     </li>
     {% endfor %}
