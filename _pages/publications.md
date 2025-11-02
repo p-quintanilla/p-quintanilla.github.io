@@ -3,9 +3,6 @@ layout: archive
 permalink: /publications/
 author_profile: false
 ---
-
-![](/_pages/4.png)
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
 {% endif %}
