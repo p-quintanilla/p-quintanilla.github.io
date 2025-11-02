@@ -1,7 +1,10 @@
 <header class="site-header">
   <nav class="nav container">
-    <a class="brand" href="{{ "/" | relative_url }}"> </a>
-
+    <!-- <a class="brand" href="{{ "/" | relative_url }}"> </a> -->
+<a href="/" class="brand">
+    <img src="/images/ucl-logo.png" alt="Logo" class="nav-logo">
+    <span>Paulina Quintanilla</span>
+  </a>
     {% assign on_home = page.layout == "home" %}
     <a href="{% if on_home %}#research{% else %}/research/{% endif %}">Research</a>
     <a href="{% if on_home %}#people{% else %}/people/{% endif %}">People</a>
