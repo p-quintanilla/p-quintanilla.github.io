@@ -93,11 +93,24 @@
     </section>
 
 
-    <section id="people" class="section-block">
-      <h2>People</h2>
-      <p>PI, researchers, students, collaborators.</p>
-      <p><a href="/people/">Read more →</a></p>
-    </section>
+<section id="people" class="section-block">
+  <h2>Our Team</h2>
+
+  <ul class="people-grid">
+    {% for p in site.data.people_home %}
+    <li class="person">
+      <a href="{{ p.url | default: '/people/' }}">
+        <div class="avatar">
+          <img src="{{ p.img | relative_url }}" alt="{{ p.name }}">
+        </div>
+        <div class="person-name">{{ p.name }}</div>
+        <div class="person-role">{{ p.role }}</div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
 
 <section id="publications" class="section-block">
   <h2>Publications</h2>
@@ -137,10 +150,6 @@
     </li>
     {% endfor %}
   </ul>
-
-  <p style="margin-top:.5rem;">
-    <a href="/awards/">View all awards →</a>
-  </p>
 </section>
 
 
