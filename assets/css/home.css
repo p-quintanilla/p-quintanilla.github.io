@@ -1,19 +1,13 @@
 :root {
-  --mx: 80rem;
-  --gap: 1.25rem;
-
-  /* --- Dark Elegant Palette --- */
-  --bg: #121416;
-  --fg: #f0f2f3;
-  --muted: #a6a9ad;
-  --accent: #6ec6ff;
-  --accent-hover: #8ee1ff;
-  --card-bg: #1b1e22;
-  --card-border: #2a2d31;
-  --nav-bg: #101113;
-  --link: #6ec6ff;
-  --link-hover: #8ee1ff;
-  --alt-section-bg: #171a1d;
+  --bg: #1c1f24;
+  --card-bg: #23272e;
+  --fg: #f5f7fa;
+  --muted: #a3b1c2;
+  --accent: #47d1b1;
+  --accent-hover: #66ffe0;
+  --alt-section-bg: #262b31;
+  --card-border: #2f343c;
+  --nav-bg: #1c1f24;
 }
 
 
