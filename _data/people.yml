@@ -2,10 +2,44 @@
   role: Assistant Professor (PI)
   img: /images/profile-pic.png
 
+- name: Rasa Pourjam
+  role: Research Assistant at Imperial College London
+  project: "Hierarchical reinforcement learning and model predictive control for battery systems"
+  img: /images/yicong.jpeg
+
+- name: Agustín Fuenzalida
+  role: MSc student at Universidad Técnica Federico Santa María
+  project: "Data-driven modelling and sensitivity analysis for froth flotation"
+  img: /images/agustin.jpeg
+
 - name: Krissy (Yicong) Wang
   role: MEng student (now PhD candidate at the University of Cambride)
   project: "Gaussian processes for stochastic control of partially observed systems"
   img: /images/yicong.jpeg
 
+- name: Kofo Awodunmi
+  role: PhD student at Brunel University of London
+  project: "Implementation of lab-scale measurements of CO2 capture in pressure swing adsorption systems"
+  img: /images/kofo.jpg
+
+- name: William Davis
+  role: PhD student at Brunel University of London
+  project: "Global sensitivity analysis with machine learning for blue hydrogen production"
+  img: /images/billy.jpeg
+
+- name: Victor Dehon
+  role: (former) MSc in Advanced Chemical Engineering at Imperial College London
+  project: "Probabilistic model predictive control using Gaussian processes"
+  img: /images/victor.jpeg
+
+- name: Benjamín Araya
+  role: MSc student at Universidad Técnica Federico Santa María
+  project: "Soft sensor development for heap leaching control"
+  img: /images/benjamin_araya.jpeg
+
+- name: Benjamín Olivares
+  role: (former) MSc student at Universidad Técnica Federico Santa María
+  project: "Saturation control in heap leaching via model predictive control"
+  img: /images/benjamin_olivares.jpeg
 
 # add more…
