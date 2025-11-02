@@ -429,7 +429,7 @@ html {
 }
 
 #publications .archive__item-title a:hover {
-  border-bottom-color: #0044cc;
+  border-bottom-color: #82aafa;
 }
 
 #publications .archive__item-excerpt {
@@ -632,7 +632,7 @@ html {
 }
 
 .section-block:nth-of-type(even) {
-  background: #181818; /* slightly lighter grey */
+  background: #303030; /* slightly lighter grey */
 }
 
 .section-block {
