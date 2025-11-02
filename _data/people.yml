@@ -1,12 +1,11 @@
 - name: Paulina Quintanilla
   role: Assistant Professor (PI)
   img: /images/profile-pic.png
-  url: /people/#paulina
 
-- name: Yicong Wang
-  role: MEng student (now PhD candidate at Cambridge University)
+- name: Krissy (Yicong) Wang
+  role: MEng student (now PhD candidate at the University of Cambride)
+  project: "Gaussian processes for stochastic control of partially observed systems"
   img: /images/yicong.jpeg
-  url: /people/#yicong
 
 
 # add more…
