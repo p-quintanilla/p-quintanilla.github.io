@@ -99,11 +99,21 @@
       <p><a href="/people/">Read more →</a></p>
     </section>
 
- <section id="publications" class="section-block">
-      <h2>Publications</h2>
-      <p>Recent papers and preprints.</p>
-      <p><a href="/publications/">Read more →</a></p>
-    </section>
+<section id="publications" class="section-block">
+  <h2>Publications</h2>
+
+  {% include base_path %}
+  <div class="pub-list">
+    {% for post in site.publications reversed limit:5 %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+
+  <p style="margin-top: .75rem;">
+    <a href="/publications/">View all publications →</a>
+  </p>
+</section>
+
 
     <section id="software" class="section-block">
       <h2>Software</h2>
