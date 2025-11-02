@@ -383,3 +383,70 @@ html {
   color: #555;
   margin: 0.2rem 0 0.6rem;
 }
+/* Hide screen-reader-only helper text used by the theme */
+.sr-only,
+.screen-reader-text,
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+/* --- Software section styling --- */
+.software-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  background: #f8f9fa;
+  border-radius: 14px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.software-img {
+  flex: 0 0 160px;
+  max-width: 160px;
+  border-radius: 8px;
+}
+
+.software-text {
+  flex: 1;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.software-text a {
+  color: #0077b6;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.software-text a:hover {
+  text-decoration: underline;
+}
+
+.software-screenshot {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 90%;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* Mobile layout */
+@media (max-width: 700px) {
+  .software-card {
+    flex-direction: column;
+    text-align: center;
+  }
+  .software-img {
+    max-width: 120px;
+  }
+}
