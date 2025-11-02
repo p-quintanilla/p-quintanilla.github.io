@@ -2,40 +2,34 @@
   url: https://www.cpact.com/News/id/1383/awards-malcolm-mcivor-prizewinners-2025
   date: '2025-01-01'
   awarder: Centre for Process Analytics and Control Technology (CPACT)
-  icon: trophy
+  icon: star
   summary: Awarded by CPACT for outstanding research contributions in process control and analytics.
 
 - title: MEI Young Person's Award 2021
   url: https://min-eng.blogspot.com/2022/03/mei-young-persons-award-2021-to-paulina.html
   date: '2022-01-01'
   awarder: Minerals Engineering International
-  icon: academic-cap
+  icon: star
   summary: Recognized for contributions to mineral processing control and optimisation.
 
 - title: IChemE Global Awards – Young Researcher Finalist
   date: '2022-01-01'
   awarder: Institute of Chemical Engineers (IChemE)
-  icon: trophy
+  icon: star
   summary: Finalist in the Young Researcher category at the IChemE Global Awards 2022.
 
 - title: 1st Place Best Poster Award
   date: '2022-01-01'
   awarder: Society of Chemical Industry
-  icon: presentation
+  icon: star
   summary: Best poster award at the Society of Chemical Industry’s annual research event.
 
 - title: SCI Scholar 2020
   url: https://www.soci.org/en/news/awards/scholars/2020-paulina-quintanilla
   date: '2020-01-01'
   awarder: Society of Chemical Industry
-  icon: academic-cap
+  icon: star
   summary: Selected as an SCI Scholar for academic excellence and research achievements.
-
-- title: 2nd Place Best Poster Award
-  date: '2019-01-01'
-  awarder: ESE PhD Conference, Imperial College London
-  icon: presentation
-  summary: Awarded for outstanding poster presentation at the ESE PhD Conference.
 
 - title: Award to the Best Chemical Engineering Graduate
   date: '2017-01-01'
@@ -52,5 +46,5 @@
 - title: Honour List for Outstanding Undergraduate Academic Achievement
   date: '2012-01-01'
   awarder: Universidad Técnica Federico Santa María
-  icon: sparkles
+  icon: star
   summary: Recognized on the Honour List for continuous academic distinction (2012–2016).
