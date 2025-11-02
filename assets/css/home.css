@@ -423,7 +423,7 @@ html {
 }
 
 #publications .archive__item-title a {
-  color: #0044cc;              /* light blue link */
+  color: #8ab1fe;              /* light blue link */
   text-decoration: none;
   border-bottom: 1px solid transparent;
 }
@@ -624,4 +624,21 @@ html {
   .avatar { width: 180px; height: 180px; }
   .person-name { font-size: 1.05rem; }
   .person-role { font-size: 0.95rem; }
+}
+
+/* Alternate section background colors for visual separation */
+.section-block:nth-of-type(odd) {
+  background: #0d0d0d; /* main dark */
+}
+
+.section-block:nth-of-type(even) {
+  background: #181818; /* slightly lighter grey */
+}
+
+.section-block {
+  border-radius: 14px;
+  padding: 3rem 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 0 25px rgba(0,0,0,0.2);
+  transition: background 0.3s ease, box-shadow 0.3s ease;
 }
