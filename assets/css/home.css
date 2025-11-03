@@ -1030,17 +1030,50 @@ body {
   .topic-desc { font-size: .96rem; }
 }
 
-.person {
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Centers everything horizontally */
-  justify-content: flex-start;
-  text-align: center;  /* Ensures name and title are centered */
+
+/* 2) Keep the research section constrained and centered */
+#research-topics {
+  max-width: var(--mx);
   margin: 0 auto;
 }
 
-.person-name,
-.person-role {
-  text-align: center;
-  margin: 0.4em 0;
+/* 3) Force 3 parallel cards on desktop, shrink responsively */
+#research-topics .topic-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr)); /* 3 columns */
+  gap: 1.25rem 1.5rem;
+  align-items: stretch;
 }
+
+@media (max-width: 980px) {
+  #research-topics .topic-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)); /* 2 columns */
+  }
+}
+@media (max-width: 640px) {
+  #research-topics .topic-grid {
+    grid-template-columns: 1fr; /* 1 column */
+  }
+}
+
+/* 4) Keep cards tidy and images compact */
+#research-topics .topic-card {
+  display: flex;
+  flex-direction: column;
+}
+
+#research-topics .topic-media {
+  aspect-ratio: 16 / 9;
+  max-height: 220px;             /* prevents tall headers */
+  overflow: hidden;
+}
+
+#research-topics .topic-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Optional: slightly smaller text in cards */
+#research-topics .topic-title { font-size: 1.05rem; }
+#research-topics .topic-desc  { font-size: .95rem; }
