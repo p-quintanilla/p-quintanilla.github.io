@@ -95,18 +95,19 @@
 
 <section id="people" class="section-block">
   <h2>Our Team</h2>
-<ul class="people-grid">
-  {% for person in site.data.people %}
-  <li class="person">
+
+ {% if person.url %}
+  <a href="{{ person.url | relative_url }}">
+{% endif %}
     <div class="avatar">
       <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
     </div>
     <div class="person-name">{{ person.name }}</div>
     <div class="person-role">{{ person.role }}</div>
     <div class="person-project">{% if person.project %}{{ person.project }}{% endif %}</div>
-  </li>
-  {% endfor %}
-</ul>
+{% if person.url %}
+  </a>
+{% endif %}
 </section>
 
 

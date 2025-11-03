@@ -743,7 +743,7 @@ a:hover {
 }
 
 .nav-logo {
-  height: 100%;       /* smaller logo height (was 34px) */
+  height: 32px;       /* smaller logo height (was 34px) */
   width: auto;
   border-radius: 3px;
   vertical-align: middle;
