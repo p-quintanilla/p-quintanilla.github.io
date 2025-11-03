@@ -1045,17 +1045,6 @@ body {
   align-items: stretch;
 }
 
-@media (max-width: 980px) {
-  #research-topics .topic-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr)); /* 2 columns */
-  }
-}
-@media (max-width: 640px) {
-  #research-topics .topic-grid {
-    grid-template-columns: 1fr; /* 1 column */
-  }
-}
-
 /* 4) Keep cards tidy and images compact */
 #research-topics .topic-card {
   display: flex;
@@ -1068,11 +1057,11 @@ body {
   overflow: hidden;
 }
 
-#research-topics .topic-media img {
+/* #research-topics .topic-media img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-}
+} */
 
 /* Optional: slightly smaller text in cards */
 #research-topics .topic-title { font-size: 1.05rem; }
