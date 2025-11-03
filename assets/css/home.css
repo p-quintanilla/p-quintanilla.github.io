@@ -8,7 +8,6 @@
   --alt-section-bg: #262b31;
   --card-border: #2f343c;
   --nav-bg: #1c1f24;
-  --mx: 1100px; /* 1000–1200px is typical */
 }
 
 
@@ -965,7 +964,7 @@ body {
 }
 
 /* --- Image-first research cards --- */
-#research-topics .topic-grid {
+.topic-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1.25rem;
@@ -1053,32 +1052,4 @@ body {
   .topic-title { font-size: 1.15rem; }
 }
 
-@media (max-width: 600px) {
-  .topic-desc { font-size: .96rem; }
-}
 
-/* keep the whole section from spanning the full window */
-#research-topics {
-  max-width: var(--mx);
-  margin: 0 auto;
-}
-
-/* keep the grid compact and centered */
-#research-topics .topic-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 320px)); /* cap each card */
-  justify-content: center;   /* center the columns */
-  gap: 1.25rem 1.5rem;
-}
-
-/* optional: also cap each card, for safety */
-#research-topics .topic-card {
-  max-width: 340px;
-  margin: 0 auto;
-}
-
-/* keep header images from getting tall */
-#research-topics .topic-media {
-  aspect-ratio: 16/9;
-  max-height: 200px;
-}
