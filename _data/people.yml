@@ -6,49 +6,49 @@
 - name: Rasa Pourjam
   role: MSc in Advanced Chemical Engineering at Imperial College London
   project: "Hierarchical reinforcement learning and model predictive control for battery systems"
-  group: Current Students
+  group: Current 
   img: /images/rasa.jpeg
 
 - name: Agustín Fuenzalida
   role: MSc student at Universidad Técnica Federico Santa María
   project: "Data-driven modelling and sensitivity analysis for froth flotation"
   img: /images/agustin.jpeg
-  group: Current Students
+  group: Current 
 
 - name: Krissy (Yicong) Wang
   role: MEng student at Imperial College (now PhD candidate at the University of Cambridge)
   project: "Gaussian processes for stochastic control of partially observed systems"
   img: /images/yicong.jpeg
-  group: Past Students
+  group: Past 
 
 - name: Kofo Awodunmi
   role: PhD student at Brunel University of London
   project: "Implementation of lab-scale measurements of CO2 capture in pressure swing adsorption systems"
   img: /images/kofo.jpg
-  group: Past Students
+  group: Past 
 
 - name: William Davis
   role: PhD student at Brunel University of London
   project: "Global sensitivity analysis with machine learning for blue hydrogen production"
   img: /images/billy.jpg
-  group: Past Students
+  group: Past 
 
 - name: Victor Dehon
   role: MSc in Advanced Chemical Engineering at Imperial College London 2024
   project: "Probabilistic model predictive control using Gaussian processes"
   img: /images/victor.jpeg
-  group: Past Students
+  group: Past 
 
 - name: Benjamín Araya
   role: MSc student at Universidad Técnica Federico Santa María
   project: "Soft sensor development for heap leaching control"
   img: /images/benjamin_aeaya.jpeg
-  group: Current Students
+  group: Current 
 
 - name: Benjamín Olivares
   role: MSc in Chemical Engineering at Universidad Técnica Federico Santa María
   project: "Saturation control in heap leaching via model predictive control"
   img: /images/benjamin_olivares.jpeg
-  group: Past Students
+  group: Past 
 
 # add more…
