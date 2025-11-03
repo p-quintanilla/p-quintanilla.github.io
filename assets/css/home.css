@@ -845,6 +845,8 @@ body {
   .link-pill { width: 40px; height: 40px; }
   .link-pill img { width: 20px; height: 20px; }
 }
+
+
 /* Avatar */
 .avatar {
   width: 260px;
@@ -903,4 +905,44 @@ body {
 @media (max-width: 520px) {
   .link-pill { width: 44px; height: 44px; }
   .link-pill img { width: 22px; height: 22px; }
+}
+
+/* Larger icon buttons */
+.link-pill {
+  width: 60px;   /* was 48px */
+  height: 60px;  /* was 48px */
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.08);
+  box-shadow: 0 8px 22px rgba(0,0,0,.18);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.link-pill:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(0,0,0,.25);
+}
+
+/* Bigger logos inside */
+.link-pill img {
+  width: 32px;   /* was 24px */
+  height: 32px;
+  display: block;
+}
+
+/* Adjust spacing between icons */
+.person-links {
+  margin-top: 0.8rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.9rem;   /* was 0.7rem */
+  flex-wrap: wrap;
+}
+
+/* Mobile: slightly reduce size */
+@media (max-width: 520px) {
+  .link-pill { width: 52px; height: 52px; }
+  .link-pill img { width: 28px; height: 28px; }
 }
