@@ -845,3 +845,62 @@ body {
   .link-pill { width: 40px; height: 40px; }
   .link-pill img { width: 20px; height: 20px; }
 }
+/* Avatar */
+.avatar {
+  width: 260px;
+  height: 260px;
+  margin: 0 auto .75rem;
+  border-radius: 50%;
+  overflow: hidden;
+  background: radial-gradient(100% 100% at 50% 0%, #23282f 0%, #171b20 100%);
+  border: 1px solid rgba(255,255,255,.08);
+  box-shadow: 0 12px 30px rgba(0,0,0,.35);
+}
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Social icons: larger, with white pill background */
+.person-links {
+  margin-top: 0.7rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+}
+
+.link-pill {
+  width: 48px;
+  height: 48px;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: #fff;                          /* ← whiter background */
+  border: 1px solid rgba(0,0,0,.08);
+  box-shadow: 0 8px 22px rgba(0,0,0,.18);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.link-pill:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0,0,0,.24);
+}
+
+.link-pill img {
+  width: 24px;   /* bigger logo */
+  height: 24px;
+  display: block;
+}
+
+/* If your SVGs are monochrome black and you want them white instead, uncomment:
+.link-pill img { filter: invert(1) brightness(1.1); }
+*/
+
+/* Mobile: slightly smaller pills */
+@media (max-width: 520px) {
+  .link-pill { width: 44px; height: 44px; }
+  .link-pill img { width: 22px; height: 22px; }
+}

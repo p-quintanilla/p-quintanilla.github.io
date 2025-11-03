@@ -1,7 +1,7 @@
 - name: Paulina Quintanilla
   role: Assistant Professor
   group: Principal Investigator
-  image: /images/profile-pic.png
+  img: /images/profile-pic.png
   links:
     - platform: email
       url: mailto:p.quintanilla@ucl.ac.uk
