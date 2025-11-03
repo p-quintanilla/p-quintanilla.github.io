@@ -891,11 +891,11 @@ body {
   box-shadow: 0 12px 30px rgba(0,0,0,.24);
 }
 
-.link-pill img {
-  width: 24px;   /* bigger logo */
+/* .link-pill img {
+  width: 24px;   
   height: 24px;
   display: block;
-}
+} */
 
 /* If your SVGs are monochrome black and you want them white instead, uncomment:
 .link-pill img { filter: invert(1) brightness(1.1); }
@@ -907,28 +907,11 @@ body {
   .link-pill img { width: 22px; height: 22px; }
 }
 
-/* Larger icon buttons */
-.link-pill {
-  width: 60px;   /* was 48px */
-  height: 60px;  /* was 48px */
-  border-radius: 999px;
-  display: grid;
-  place-items: center;
-  background: #fff;
-  border: 1px solid rgba(0,0,0,.08);
-  box-shadow: 0 8px 22px rgba(0,0,0,.18);
-  transition: transform .15s ease, box-shadow .15s ease;
-}
-
-.link-pill:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 12px 32px rgba(0,0,0,.25);
-}
 
 /* Bigger logos inside */
 .link-pill img {
-  width: 32px;   /* was 24px */
-  height: 32px;
+  width: 40px;   /* was 24px */
+  height: 40px;
   display: block;
 }
 
