@@ -1,6 +1,7 @@
 - name: Paulina Quintanilla
   role: Assistant Professor
   group: Principal Investigator
+  venue: UCL Chemical Engineering
   img: /images/profile-pic.png
 
 - name: Rasa Pourjam
@@ -34,7 +35,7 @@
   group: Past 
 
 - name: Victor Dehon
-  role: MSc in Advanced Chemical Engineering at Imperial College London 2024
+  role: MSc in Advanced Chemical Engineering at Imperial College London
   project: "Probabilistic model predictive control using Gaussian processes"
   img: /images/victor.jpeg
   group: Past 
