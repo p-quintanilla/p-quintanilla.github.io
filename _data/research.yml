@@ -1,29 +1,59 @@
-- title: Model-based & Economic MPC
-  desc: Nonlinear & economic MPC for transient, multi-objective operation under constraints.
-  img: /images/500x300.png
-  #url: /research/#mpc
+# - title: "Hybrid Modelling"
+#   img: "/images/research/hybrid.jpg"
+#   desc: >
+#     Integration of physics-based and machine-learning models for dynamic
+#     processes, enabling structure discovery, reliable prediction, and
+#     quantified uncertainty.
 
-- title: Gaussian-Process–based Control
-  desc: GP state–space modelling and partially observable GP-NMPC for batch & continuous systems.
-  img: /images/500x300.png
- #url: /research/#gp
+# - title: "Smart Minerals & Manufacturing"
+#   img: "/images/research/minerals.jpg"
+#   desc: >
+#     Model-based optimisation for froth flotation, heap leaching, and SAG mills,
+#     leveraging hybrid models and digital twins to improve sustainability and productivity.
 
-- title: Mineral Processing Optimization
-  desc: Control and optimisation of flotation, leaching, and SAG mills with digital twins.
-  img: /images/500x300.png
- # url: /research/#minerals
+# - title: "Machine learning for Clean Energy Systems"
+#   img: "/images/research/hydrogen-battery.jpg"
+#   desc: >
+#     Machine-learning-assisted global sensitivity analysis for blue hydrogen production,
+#     AI and robotics across the hydrogen lifecycle, and reinforcement learning for battery systems
+#     to accelerate reliable, low-carbon operation.
 
-# - title: Direct Air Capture (DAC)
-#   desc: Dynamic modelling, PSA scheduling, and control for energy-efficient CO₂ removal.
-#   img: /images/500x300.png
-#  # url: /research/#dac
+# - title: "Predictive Control with Machine Learning"
+#   img: "/images/research/mpc.jpg"
+#   desc: >
+#     Nonlinear, stochastic, and economic MPC; online state estimation and adaptive control
+#     for safe, optimal operation under uncertainty.
 
-# - title: Energy Systems & Decarbonisation
-#   desc: Supervisory control and optimisation for low-carbon integration and flexibility.
-#   img: /images/500x300.png
-# #  url: /research/#energy
+# - title: "Digital Twins"
+#   img: "/images/research/digital-twin.jpg"
+#   desc: >
+#     Real-time virtual replicas for monitoring, anomaly detection, what-if
+#     analysis, and predictive control of complex engineering systems.
 
-# - title: Supply Chains & Health Ops
-#   desc: Optimisation under uncertainty for critical medical logistics and scheduling.
-#   img: /images/500x300.png
-#  # url: /research/#supply
+
+
+# - title: "Data-driven Optimisation"
+#   img: "/images/research/rl-gp.jpg"
+#   desc: >
+#     Reinforcement learning, Gaussian-process surrogates, and Bayesian
+#     optimisation for sample-efficient decision-making and exploration–exploitation.
+
+- title: "Predictive Control & Optimisation with Machine Learning"
+  img: "/images/research/rl-battery.jpg"
+  desc: >
+    Nonlinear/economic MPC with state and parameter estimation, Gaussian-process
+    surrogates and reinforcement learning for safe, sample-efficient,
+    performance-driven operation under uncertainty.
+
+- title: "Hybrid Models & Digital Twins"
+  img: "/images/research/rl-battery.jpg"
+  desc: >
+    Physics-informed and machine-learning models combined into reliable virtual replicas for
+    real-time monitoring, anomaly detection, and control of complex processes.
+
+- title: "Sustainable Industrial Systems: Minerals & Clean Energy"
+  img: "/images/research/rl-battery.jpg"
+  desc: >
+    Digita tools application across froth flotation, heap leaching, and SAG mills, and in clean-energy
+    systems including blue hydrogen, battery control (RL-MPC), and AI-assisted lifecycle analysis.
+
