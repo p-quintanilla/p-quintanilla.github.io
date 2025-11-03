@@ -3,7 +3,7 @@
   img: /images/profile-pic.png
 
 - name: Rasa Pourjam
-  role: Research Assistant at Imperial College London
+  role: MSc in Advanced Chemical Engineering at Imperial College London
   project: "Hierarchical reinforcement learning and model predictive control for battery systems"
   img: /images/rasa.jpeg
 
@@ -13,7 +13,7 @@
   img: /images/agustin.jpeg
 
 - name: Krissy (Yicong) Wang
-  role: MEng student (now PhD candidate at the University of Cambride)
+  role: Former MEng student at Imperial College (now PhD candidate at the University of Cambridge)
   project: "Gaussian processes for stochastic control of partially observed systems"
   img: /images/yicong.jpeg
 
@@ -28,7 +28,7 @@
   img: /images/billy.jpg
 
 - name: Victor Dehon
-  role: (former) MSc in Advanced Chemical Engineering at Imperial College London
+  role: MSc in Advanced Chemical Engineering at Imperial College London
   project: "Probabilistic model predictive control using Gaussian processes"
   img: /images/victor.jpeg
 
@@ -38,7 +38,7 @@
   img: /images/benjamin_aeaya.jpeg
 
 - name: Benjamín Olivares
-  role: (former) MSc student at Universidad Técnica Federico Santa María
+  role: MSc in Chemical Engineering at Universidad Técnica Federico Santa María
   project: "Saturation control in heap leaching via model predictive control"
   img: /images/benjamin_olivares.jpeg
 
