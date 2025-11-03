@@ -573,7 +573,7 @@ html {
   margin: 1rem 0 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.5rem;
+  gap: 2rem 3rem; /* 2rem vertical, 3rem horizontal */
   align-items: start;
 }
 
@@ -728,4 +728,84 @@ a:hover {
 /* Make first few stand out (optional) */
 .pub-card:first-of-type {
   border-left: 4px solid var(--accent);
+}
+.nav.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+/* Logo + name block */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 0.3px;
+  opacity: 0.95;
+}
+
+.brand:hover {
+  opacity: 1;
+}
+
+.nav-logo {
+  height: 26px;       /* smaller logo height (was 34px) */
+  width: auto;
+  border-radius: 3px;
+  vertical-align: middle;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.05rem;   /* reduce font size slightly */
+  letter-spacing: 0.2px;
+  opacity: 0.95;
+}
+
+.brand:hover {
+  opacity: 1;
+}
+
+
+.nav-links {
+  display: flex;
+  gap: 1.75rem;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.05rem;
+  opacity: 0.9;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+  opacity: 1;
+  border-bottom: 2px solid var(--accent, #fff);
+}
+.nav.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  height: 70px;   /* or slightly less (was 76px) */
+}
+body {
+  padding-top: 70px;   /* match the header height */
+}
+.nav-links {
+  display: flex;
+  gap: 1.6rem;   /* reduce gap slightly for balance */
+  align-items: center;
 }
