@@ -806,3 +806,42 @@ body {
   gap: 1.6rem;   /* reduce gap slightly for balance */
   align-items: center;
 }
+
+.person-links {
+  margin-top: 0.6rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+/* circular “pills” like Academic-CV */
+.link-pill {
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: rgba(255,255,255,0.06);               /* works on dark */
+  border: 1px solid rgba(255,255,255,0.12);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+  transition: transform .15s ease, background .15s ease, box-shadow .15s ease;
+}
+
+.link-pill:hover {
+  transform: translateY(-2px);
+  background: rgba(255,255,255,0.10);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.35);
+}
+
+.link-pill img {
+  width: 22px;    /* logo size inside the circle */
+  height: 22px;
+  display: block;
+}
+
+/* smaller on phones */
+@media (max-width: 520px) {
+  .link-pill { width: 40px; height: 40px; }
+  .link-pill img { width: 20px; height: 20px; }
+}
