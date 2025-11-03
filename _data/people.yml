@@ -1,7 +1,19 @@
 - name: Paulina Quintanilla
   role: Assistant Professor
   group: Principal Investigator
-  img: /images/profile-pic.png
+  image: /images/profile-pic.png
+  links:
+    - platform: email
+      url: mailto:p.quintanilla@ucl.ac.uk
+    - platform: scholar
+      url: https://scholar.google.com/citations?user=1dp-SB4AAAAJ
+    - platform: orcid
+      url: https://orcid.org/0000-0002-7717-0556
+    - platform: github
+      url: https://github.com/p-quintanilla
+    - platform: linkedin
+      url: https://www.linkedin.com/in/paulinaquintanilla/
+
 
 - name: Rasa Pourjam
   role: MSc in Advanced Chemical Engineering at Imperial College London
