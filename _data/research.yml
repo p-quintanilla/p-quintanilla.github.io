@@ -39,20 +39,20 @@
 #     optimisation for sample-efficient decision-making and exploration–exploitation.
 
 - title: "Predictive Control & Optimisation with Machine Learning"
-  img: "/images/research/rl-battery.jpg"
+  img: "/images/research/rl-battery.png"
   desc: >
     Nonlinear/economic MPC with state and parameter estimation, Gaussian-process
     surrogates and reinforcement learning for safe, sample-efficient,
     performance-driven operation under uncertainty.
 
 - title: "Hybrid Models & Digital Twins"
-  img: "/images/research/rl-battery.jpg"
+  img: "/images/research/rl-battery.png"
   desc: >
     Physics-informed and machine-learning models combined into reliable virtual replicas for
     real-time monitoring, anomaly detection, and control of complex processes.
 
 - title: "Sustainable Industrial Systems: Minerals & Clean Energy"
-  img: "/images/research/rl-battery.jpg"
+  img: "/images/research/rl-battery.png"
   desc: >
     Digita tools application across froth flotation, heap leaching, and SAG mills, and in clean-energy
     systems including blue hydrogen, battery control (RL-MPC), and AI-assisted lifecycle analysis.
