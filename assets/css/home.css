@@ -613,32 +613,6 @@ html {
   transition: transform .12s ease, box-shadow .12s ease;
 }
 
-.person {
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Centers everything horizontally */
-  justify-content: flex-start;
-  text-align: center;  /* Ensures name and title are centered */
-  margin: 0 auto;
-}
-
-.person-name,
-.person-role {
-  text-align: center;
-  margin: 0.4em 0;
-}
-
-
-.person {
-  max-width: 220px;  /* consistent card width */
-}
-@media (max-width: 900px) {
-  .people-grid {
-    gap: 1.5rem;
-  }
-}
-
-
 /* Mobile sizing */
 @media (max-width: 700px) {
   .avatar { width: 180px; height: 180px; }
@@ -964,7 +938,7 @@ body {
 }
 
 /* --- Image-first research cards --- */
-.topic-grid {
+#research-topics .topic-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1.25rem;
@@ -1052,4 +1026,6 @@ body {
   .topic-title { font-size: 1.15rem; }
 }
 
-
+@media (max-width: 600px) {
+  .topic-desc { font-size: .96rem; }
+}
