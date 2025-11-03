@@ -39,7 +39,7 @@
 #     optimisation for sample-efficient decision-making and exploration–exploitation.
 
 - title: "Predictive Control & Optimisation with Machine Learning"
-  img: "/images/research/rl-battery.png"
+  img: "/images/research/gp-mpc.png"
   desc: >
     Nonlinear/economic MPC with state and parameter estimation, Gaussian-process
     surrogates and reinforcement learning for safe, sample-efficient,
