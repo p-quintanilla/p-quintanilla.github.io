@@ -964,7 +964,7 @@ body {
 .topic-media {
   position: relative;
   width: 100%;
-  aspect-ratio: 9/16;                         /* consistent header height */
+  aspect-ratio: 16/9;                         /* consistent header height */
   background: #1b1f24;
 }
 
