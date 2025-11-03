@@ -293,7 +293,7 @@ section.section-block { scroll-margin-top: 84px; }
 /* Introductory box below the hero */
 .intro-box {
   background: #abf9fc95;        /* light background */
-  border-radius: 14px;        /* rounded corners */
+  border-radius: 5px;        /* rounded corners */
   padding: 2rem;              /* spacing inside */
   margin: 2rem auto;          /* space around */
   max-width: auto; /* 900px; */
