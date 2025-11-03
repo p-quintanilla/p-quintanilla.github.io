@@ -501,71 +501,60 @@ html {
     max-width: 120px;
   }
 }
-/* --- Awards: compact card grid --- */
+
+/* --- Awards: clean vertical list --- */
 .awards-list {
   list-style: none;
   padding: 0;
-  margin: 0.75rem 0 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 0.9rem;
+  margin: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem; /* space between items */
 }
 
 .award {
-  display: grid;
-  grid-template-columns: 42px 1fr;
-  gap: 0.6rem 0.8rem;
-  align-items: start;
-  background: #f8f9fb;
-  border: 1px solid #e9edf2;
-  border-radius: 12px;
-  padding: 0.8rem 0.9rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,.04);
-  transition: transform .12s ease, box-shadow .12s ease;
+  display: block;
+  padding-left: 1.8rem;
+  position: relative;
+  border-left: 3px solid var(--accent, #66ccff); /* subtle colored line */
 }
 
-.award:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 6px 16px rgba(0,0,0,.06);
-}
-
-.award-icon {
-  width: 42px;
-  height: 42px;
-  display: grid;
-  place-items: center;
+.award::before {
+  content: "🏆";
+  position: absolute;
+  left: 0;
+  top: 0;
   font-size: 1.2rem;
-  background: #eef6ff;
-  border: 1px solid #dbe8ff;
-  border-radius: 10px;
 }
 
 .award-title {
-  font-weight: 650;
-  line-height: 1.25;
-  margin-top: 1px;
+  font-weight: 600;
+  font-size: 1.1rem;
 }
 
 .award-title a {
-  color: #0a55cc;
+  color: #66ccff; /* accent color for links */
   text-decoration: none;
-  border-bottom: 1px solid transparent;
 }
-.award-title a:hover { border-bottom-color: #0a55cc; }
+
+.award-title a:hover {
+  text-decoration: underline;
+}
 
 .award-meta {
-  grid-column: 2 / -1;
-  color: #66728a;
-  font-size: 0.92rem;
+  color: var(--muted, #aaa);
+  font-size: 0.95rem;
   margin-top: 0.15rem;
 }
 
 .award-summary {
-  grid-column: 2 / -1;
-  color: #444;
+  color: var(--fg, #ddd);
   font-size: 0.95rem;
   margin-top: 0.35rem;
 }
+
+
+
 /* --- People grid (home) --- */
 .people-grid {
   list-style: none;
@@ -754,7 +743,7 @@ a:hover {
 }
 
 .nav-logo {
-  height: 30px;       /* smaller logo height (was 34px) */
+  height: auto;       /* smaller logo height (was 34px) */
   width: auto;
   border-radius: 3px;
   vertical-align: middle;
