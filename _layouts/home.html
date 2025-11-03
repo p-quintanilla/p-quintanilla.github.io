@@ -96,7 +96,7 @@
 <section id="people" class="section-block">
   <h2>Our Team</h2>
 
-  <ul class="people-grid">
+  <!-- <ul class="people-grid">
     {% for p in site.data.people %}
     <li class="person">
         <div class="avatar">
@@ -108,7 +108,35 @@
     </li>
     {% endfor %}
   </ul>
+</section> -->
+
+
+<section id="people" class="section-block">
+  <h2>Our Team</h2>
+
+  {% assign groups = site.data.people | group_by: "group" %}
+  {% for g in groups %}
+    <h3 class="people-subtitle">{{ g.name }}</h3>
+    <ul class="people-grid">
+      {% for person in g.items %}
+        <li class="person">
+          <div class="avatar">
+            <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+          </div>
+          <div class="person-name">{{ person.name }}</div>
+          <div class="person-role">{{ person.role }}</div>
+          {% if person.project %}
+            <div class="person-project">{{ person.project }}</div>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
 </section>
+
+
+
+
 
 
 <section id="publications" class="section-block">

@@ -597,6 +597,15 @@ html {
   margin-top: .2rem;
 }
 
+.people-subtitle {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin: 2.5rem 0 1rem;
+  color: var(--accent, #66ccff);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding-bottom: 0.4rem;
+}
+
 /* Hover/focus lift */
 .person a:hover .avatar,
 .person a:focus .avatar {
@@ -743,7 +752,7 @@ a:hover {
 }
 
 .nav-logo {
-  height: 32px;       /* smaller logo height (was 34px) */
+  height: 36px;       /* smaller logo height (was 34px) */
   width: auto;
   border-radius: 3px;
   vertical-align: middle;
