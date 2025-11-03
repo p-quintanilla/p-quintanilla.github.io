@@ -121,7 +121,7 @@
       {% for person in g.items %}
         <li class="person">
           <div class="avatar">
-            <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+            <img src="{{ person.img | relative_url }}" alt="{{ person.name }}">
           </div>
           <div class="person-name">{{ person.name }}</div>
           <div class="person-role">{{ person.role }}</div>
