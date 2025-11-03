@@ -1065,3 +1065,36 @@ body {
 /* Optional: slightly smaller text in cards */
 #research-topics .topic-title { font-size: 1.05rem; }
 #research-topics .topic-desc  { font-size: .95rem; }
+
+/* --- People grid adjustments --- */
+
+
+.person {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers everything horizontally */
+  justify-content: flex-start;
+  text-align: center;  /* Ensures name and title are centered */
+  margin: 0 auto;
+}
+
+.person-name,
+.person-role {
+  text-align: center;
+  margin: 0.4em 0;
+}
+.people-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2.5rem;  /* space between people, try 3rem if you want looser spacing */
+  margin-top: 2rem;
+}
+.person {
+  max-width: 220px;  /* consistent card width */
+}
+@media (max-width: 900px) {
+  .people-grid {
+    gap: 1.5rem;
+  }
+}
