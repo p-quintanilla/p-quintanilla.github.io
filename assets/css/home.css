@@ -8,6 +8,7 @@
   --alt-section-bg: #262b31;
   --card-border: #2f343c;
   --nav-bg: #1c1f24;
+  --mx: 1100px; /* 1000–1200px is typical */
 }
 
 
@@ -628,13 +629,7 @@ html {
   margin: 0.4em 0;
 }
 
-.people-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 2.5rem;  /* space between people, try 3rem if you want looser spacing */
-  margin-top: 2rem;
-}
+
 .person {
   max-width: 220px;  /* consistent card width */
 }
@@ -1060,4 +1055,30 @@ body {
 
 @media (max-width: 600px) {
   .topic-desc { font-size: .96rem; }
+}
+
+/* keep the whole section from spanning the full window */
+#research-topics {
+  max-width: var(--mx);
+  margin: 0 auto;
+}
+
+/* keep the grid compact and centered */
+#research-topics .topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 320px)); /* cap each card */
+  justify-content: center;   /* center the columns */
+  gap: 1.25rem 1.5rem;
+}
+
+/* optional: also cap each card, for safety */
+#research-topics .topic-card {
+  max-width: 340px;
+  margin: 0 auto;
+}
+
+/* keep header images from getting tall */
+#research-topics .topic-media {
+  aspect-ratio: 16/9;
+  max-height: 200px;
 }
