@@ -1038,25 +1038,24 @@ body {
 }
 
 /* 3) Force 3 parallel cards on desktop, shrink responsively */
+#research-topics .topic-card {
+  display: grid;
+  grid-template-rows: auto 1fr; /* image + body */
+}
+
+
+
 #research-topics .topic-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr)); /* 3 columns */
   gap: 1.25rem 1.5rem;
   align-items: stretch;
 }
-
-/* 4) Keep cards tidy and images compact */
-#research-topics .topic-card {
-  display: flex;
-  flex-direction: column;
+@media (max-width: 1000px) {
+  #research-topics .topic-grid {
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); /* responsive */
+  }
 }
-
-#research-topics .topic-media {
-  aspect-ratio: 16 / 9;
-  max-height: 220px;             /* prevents tall headers */
-  overflow: hidden;
-}
-
 /* #research-topics .topic-media img {
   width: 100%;
   height: 100%;
