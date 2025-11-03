@@ -890,37 +890,44 @@ body {
   transform: translateY(-2px);
   box-shadow: 0 12px 30px rgba(0,0,0,.24);
 }
-
-/* .link-pill img {
-  width: 24px;   
-  height: 24px;
-  display: block;
-} */
-
-/* If your SVGs are monochrome black and you want them white instead, uncomment:
-.link-pill img { filter: invert(1) brightness(1.1); }
-*/
-
-/* Mobile: slightly smaller pills */
-@media (max-width: 520px) {
-  .link-pill { width: 44px; height: 44px; }
-  .link-pill img { width: 22px; height: 22px; }
+/* Sleek transparent icon buttons for dark mode */
+.link-pill {
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: transparent;              /* no background */
+  border: 1px solid rgba(255, 255, 255, 0.25); /* subtle border */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease, background .15s ease;
 }
 
-
-/* Bigger logos inside */
 .link-pill img {
-  width: 40px;   /* was 24px */
-  height: 40px;
-  display: block;
+  width: 30px;                          /* slightly larger */
+  height: 30px;
+  filter: invert(1);                    /* make black icons white */
+  opacity: 0.9;
+  transition: opacity .15s ease, transform .15s ease;
 }
 
-/* Adjust spacing between icons */
+.link-pill:hover {
+  transform: translateY(-3px);
+  border-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  background: rgba(255, 255, 255, 0.1); /* light translucent hover */
+}
+
+.link-pill:hover img {
+  opacity: 1;
+  transform: scale(1.08);
+}
+
 .person-links {
-  margin-top: 0.8rem;
+  margin-top: 1rem;
   display: flex;
   justify-content: center;
-  gap: 0.9rem;   /* was 0.7rem */
+  gap: 1rem;
   flex-wrap: wrap;
 }
 
