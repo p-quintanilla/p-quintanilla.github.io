@@ -197,14 +197,15 @@
 
 <section id="publications" class="section-block">
   <h2>Publications</h2>
-
   {% include base_path %}
   <div class="pub-list">
-    {% for post in site.publications reversed%}
-      {% include archive-single.html %}
+    {% for post in site.publications reversed %}
+      {% include pub-card-with-thumb.html post=post %}
     {% endfor %}
   </div>
 </section>
+
+
 
 <section id="awards" class="section-block">
   <h2>Awards</h2>

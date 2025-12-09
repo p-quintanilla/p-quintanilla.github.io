@@ -1098,3 +1098,100 @@ body {
     gap: 1.5rem;
   }
 }
+
+
+/* --- Publications with thumbnails --- */
+.pub-list {
+  display: grid;
+  gap: 1.2rem;
+}
+
+/* card */
+.pub-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 320px;       /* text | thumbnail (desktop) */
+  gap: 1rem 1.25rem;
+  align-items: start;
+  background: var(--card-bg, #23272e);
+  border: 1px solid var(--card-border, #2f343c);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,.18);
+}
+
+@media (max-width: 900px) {
+  .pub-card { grid-template-columns: 1fr; } /* stack on mobile */
+}
+
+.pub-thumb {
+  order: 2;                                /* keep thumb on the right */
+  border-radius: 10px;
+  overflow: hidden;
+  display: block;
+  height: 100%;
+}
+
+.pub-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;                       /* fill neatly */
+  display: block;
+}
+
+.pub-content {
+  order: 1;
+}
+
+.pub-title {
+  margin: 0 0 .35rem;
+  font-size: 1.15rem;
+  font-weight: 750;
+  line-height: 1.35;
+}
+
+.pub-title a {
+  color: var(--fg, #f5f7fa);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.pub-title a:hover { border-bottom-color: currentColor; }
+
+.pub-authors {
+  color: var(--muted, #a3b1c2);
+  font-size: .98rem;
+  margin: .1rem 0 .2rem;
+}
+
+.pub-meta {
+  color: var(--muted, #a3b1c2);
+  font-size: .85rem;
+  text-transform: none;
+  letter-spacing: .2px;
+}
+.pub-meta span + span::before { content: " · "; opacity:.6; }
+
+.pub-summary {
+  margin: .6rem 0 .7rem;
+  color: var(--fg, #f5f7fa);
+  line-height: 1.55;
+}
+
+/* small pills for links */
+.chip {
+  display: inline-block;
+  padding: .26rem .56rem;
+  border-radius: 999px;
+  font-size: .88rem;
+  color: var(--fg, #f5f7fa);
+  background: rgba(255,255,255,.06);
+  border: 1px solid rgba(255,255,255,.12);
+  text-decoration: none;
+  margin-right: .32rem;
+  transition: transform .12s ease, background .12s ease, border-color .12s ease;
+}
+.chip:hover {
+  transform: translateY(-1px);
+  background: rgba(255,255,255,.12);
+  border-color: rgba(255,255,255,.22);
+}
