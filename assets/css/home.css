@@ -1110,36 +1110,40 @@ body {
 .pub-card {
   position: relative;
   display: grid;
-  grid-template-columns: 1fr 320px;       /* text | thumbnail (desktop) */
-  gap: 1rem 1.25rem;
-  align-items: start;
+  grid-template-columns: minmax(0, 1.7fr) auto; /* text | small thumb */
+  column-gap: 1.3rem;
+  align-items: flex-start;
   background: var(--card-bg, #23272e);
   border: 1px solid var(--card-border, #2f343c);
   border-radius: 12px;
-  padding: 1.1rem 1.2rem;
+  padding: 1.1rem 1.3rem;
   box-shadow: 0 6px 18px rgba(0,0,0,.18);
 }
 
 @media (max-width: 900px) {
-  .pub-card { grid-template-columns: 1fr; } /* stack on mobile */
+  .pub-card {
+    grid-template-columns: 1fr;  /* stack on mobile */
+  }
 }
 
+/* thumbnail on the right, small */
 .pub-thumb {
-  order: 2;                                /* keep thumb on the right */
+  order: 2;                 /* keep thumb on the right */
+  max-width: 220px;         /* << control width */
+  justify-self: end;
   border-radius: 10px;
   overflow: hidden;
-  display: block;
-  height: 100%;
 }
 
 .pub-thumb img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;                       /* fill neatly */
+  height: auto;             /* << don’t stretch vertically */
+  object-fit: cover;
   display: block;
 }
 
-.pub-content {
+/* text column */
+.pub-body {                 /* your HTML uses .pub-body */
   order: 1;
 }
 
@@ -1166,7 +1170,6 @@ body {
 .pub-meta {
   color: var(--muted, #a3b1c2);
   font-size: .85rem;
-  text-transform: none;
   letter-spacing: .2px;
 }
 .pub-meta span + span::before { content: " · "; opacity:.6; }
@@ -1175,23 +1178,4 @@ body {
   margin: .6rem 0 .7rem;
   color: var(--fg, #f5f7fa);
   line-height: 1.55;
-}
-
-/* small pills for links */
-.chip {
-  display: inline-block;
-  padding: .26rem .56rem;
-  border-radius: 999px;
-  font-size: .88rem;
-  color: var(--fg, #f5f7fa);
-  background: rgba(255,255,255,.06);
-  border: 1px solid rgba(255,255,255,.12);
-  text-decoration: none;
-  margin-right: .32rem;
-  transition: transform .12s ease, background .12s ease, border-color .12s ease;
-}
-.chip:hover {
-  transform: translateY(-1px);
-  background: rgba(255,255,255,.12);
-  border-color: rgba(255,255,255,.22);
 }
