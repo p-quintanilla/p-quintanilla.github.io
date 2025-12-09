@@ -195,7 +195,6 @@
   {% include base_path %}
   <div class="pub-list">
     {% for post in site.publications reversed %}
-      {% include archive-single.html %}
       {% include pub-card-with-thumb.html post=post %}
     {% endfor %}
   </div>
