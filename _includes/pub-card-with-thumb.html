@@ -6,10 +6,17 @@
 
 {% include base_path %}
 
-{%- if post.header.teaser -%}
-  {%- capture teaser -%}{{ post.header.teaser }}{%- endcapture -%}
+{%- comment -%}
+  Pick an image in this order:
+  1) post.thumbnail
+  2) post.header.teaser
+{%- endcomment -%}
+{%- if post.thumbnail -%}
+  {%- assign teaser = post.thumbnail -%}
+{%- elsif post.header.teaser -%}
+  {%- assign teaser = post.header.teaser -%}
 {%- else -%}
-  {%- assign teaser = site.teaser -%}
+  {%- assign teaser = nil -%}
 {%- endif -%}
 
 {%- if post.id -%}
@@ -18,18 +25,18 @@
   {%- assign title = post.title -%}
 {%- endif -%}
 
-<div class="pub-card">
-  {%- if teaser -%}
+
   <div class="pub-thumb">
     <img
       src="{% if teaser contains '://' %}
               {{ teaser }}
             {% else %}
-              {{ teaser | prepend: "/images/" | prepend: base_path }}
+              {{ teaser | relative_url }}
             {% endif %}"
       alt="Figure for {{ title | strip }}"
     >
   </div>
+
   {%- endif -%}
 
   <div class="pub-body">
