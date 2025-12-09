@@ -1,0 +1,38 @@
+{%- comment -%}
+Renders one publication with an optional right-aligned thumbnail.
+Expects the same variables Minimal Mistakes passes to archive-single.
+{%- endcomment -%}
+
+<article class="pub-card">
+  {% assign thumb = post.thumbnail | default: page.thumbnail %}
+  {% if thumb %}
+    <a class="pub-thumb" href="{{ post.url | relative_url }}" aria-label="Open {{ post.title }}">
+      <img src="{{ thumb | relative_url }}" alt="{{ post.title | escape }}">
+    </a>
+  {% endif %}
+
+  <div class="pub-content">
+    <h3 class="pub-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h3>
+
+    <div class="pub-authors">{{ post.authors }}</div>
+
+    <div class="pub-meta">
+      {% if post.year %}<span>{{ post.year }}</span>{% endif %}
+      {% if post.venue %}<span>{{ post.venue }}</span>{% endif %}
+    </div>
+
+    {% if post.summary %}
+      <p class="pub-summary">{{ post.summary }}</p>
+    {% endif %}
+
+    <div class="pub-links">
+      {% if post.links.pdf %}<a class="chip" href="{{ post.links.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+      {% if post.links.doi %}<a class="chip" href="{{ post.links.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+      {% if post.links.code %}<a class="chip" href="{{ post.links.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+      {% if post.links.slides %}<a class="chip" href="{{ post.links.slides | relative_url }}" target="_blank" rel="noopener">Slides</a>{% endif %}
+      {% if post.links.video %}<a class="chip" href="{{ post.links.video }}" target="_blank" rel="noopener">Video</a>{% endif %}
+    </div>
+  </div>
+</article>
