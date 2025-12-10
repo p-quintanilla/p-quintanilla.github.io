@@ -1179,6 +1179,7 @@ body {
   color: var(--fg, #f5f7fa);
   line-height: 1.55;
 }
+
 /* --- Better alignment and presentation for publication figures --- */
 .pub-card {
   display: grid;
@@ -1191,7 +1192,6 @@ body {
   padding: 1.2rem 1.5rem;
   box-shadow: 0 6px 18px rgba(0,0,0,.15);
 }
-
 .pub-thumb {
   order: 2;
   justify-self: end;
