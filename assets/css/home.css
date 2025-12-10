@@ -1179,3 +1179,40 @@ body {
   color: var(--fg, #f5f7fa);
   line-height: 1.55;
 }
+/* --- Better alignment and presentation for publication figures --- */
+.pub-card {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center; /* vertically align text and figure */
+  column-gap: 1.5rem;
+  background: var(--card-bg, #23272e);
+  border: 1px solid var(--card-border, #2f343c);
+  border-radius: 12px;
+  padding: 1.2rem 1.5rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,.15);
+}
+
+.pub-thumb {
+  order: 2;
+  justify-self: end;
+  align-self: center;           /* center vertically */
+  max-width: 180px;             /* control width */
+  margin-left: 0.5rem;          /* add breathing space */
+  border-radius: 8px;           /* soften edges */
+  overflow: hidden;
+  background: rgba(255,255,255,0.05);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+
+.pub-thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;          /* keep aspect ratio intact */
+  border-radius: 8px;
+}
+
+.pub-body {
+  order: 1;
+  align-self: start;
+}
