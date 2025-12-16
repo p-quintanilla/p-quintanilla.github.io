@@ -1083,13 +1083,14 @@ body {
   text-align: center;
   margin: 0.4em 0;
 }
-.people-grid {
+
+/* .people-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 2.5rem;  /* space between people, try 3rem if you want looser spacing */
-  margin-top: 2rem;
-}
+  /* margin-top: 2rem;
+} */
 .person {
   max-width: 220px;  /* consistent card width */
 }
@@ -1099,3 +1100,52 @@ body {
   }
 }
 
+/* --- People: clean grid with margins --- */
+#people.section-block{
+  padding: 2.5rem 1.25rem;          /* gives the whole section breathing space */
+}
+
+.people-grid{
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem auto 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 2.25rem;                      /* consistent spacing */
+  align-items: start;
+  max-width: 1200px;                 /* stops it stretching too wide */
+}
+
+/* Each person becomes a neat “card” */
+.person{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0.5rem 0.25rem;
+  margin: 0;                         /* avoid extra odd spacing */
+}
+
+/* Circle size (tweak if you want smaller) */
+.avatar{
+  width: 220px;
+  height: 220px;
+  margin: 0 auto 0.9rem;
+}
+
+/* Typography */
+.person-name{ margin: .1rem 0 .35rem; font-weight: 700; }
+.person-role{ margin: 0 0 .5rem; color: var(--muted); }
+.person-project{
+  margin-top: .2rem;
+  color: var(--muted);
+  font-size: .95rem;
+  line-height: 1.45;
+  max-width: 28ch;                   /* prevents super-wide text blocks */
+}
+
+/* Mobile */
+@media (max-width: 700px){
+  .people-grid{ grid-template-columns: 1fr; max-width: 520px; }
+  .avatar{ width: 170px; height: 170px; }
+}
