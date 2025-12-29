@@ -14,9 +14,14 @@
     - platform: linkedin
       url: https://www.linkedin.com/in/paulinaquintanilla/
 
+- name: Sultan Alhamdan
+  role: MSc in Sustainable Chemical Process Engineering at University College London
+  project: "Machine learning for sustainable process modelling"
+  group: Current 
+  img: /images/Sultan.jpeg
 
 - name: Rasa Pourjam
-  role: MSc in Advanced Chemical Engineering at Imperial College London
+  role: Research assistant at Imperial College London
   project: "Hierarchical reinforcement learning and model predictive control for battery systems"
   group: Current 
   img: /images/rasa.jpeg
