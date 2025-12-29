@@ -1196,3 +1196,51 @@ body {
 .person-bio p:last-child {
   margin-bottom: 0;
 }
+/* --- PI layout (photo left, text right) --- */
+.pi-layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 3rem;
+  align-items: start;
+  margin-top: 2rem;
+}
+
+.pi-photo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pi-content {
+  max-width: 720px;
+}
+
+.pi-content .person-name {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+
+.pi-content .person-role {
+  font-size: 1.05rem;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.person-bio {
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--fg);
+}
+
+/* Mobile fallback */
+@media (max-width: 900px) {
+  .pi-layout {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .pi-content {
+    max-width: 100%;
+  }
+}
