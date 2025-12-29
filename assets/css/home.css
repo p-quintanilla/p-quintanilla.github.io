@@ -1149,3 +1149,35 @@ body {
   .people-grid{ grid-template-columns: 1fr; max-width: 520px; }
   .avatar{ width: 170px; height: 170px; }
 }
+/* --- PI special layout --- */
+.pi-card{
+  display:grid;
+  grid-template-columns: 320px 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  margin: 1.5rem 0 3rem;
+}
+
+.pi-left{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+.pi-right{
+  text-align:left;
+}
+
+.pi-bio{
+  margin: 0.9rem 0 0;
+  color: var(--muted);
+  line-height: 1.65;
+  max-width: 70ch;
+}
+
+/* mobile: stack */
+@media (max-width: 900px){
+  .pi-card{ grid-template-columns: 1fr; text-align:center; }
+  .pi-right{ text-align:center; }
+  .pi-bio{ margin-left:auto; margin-right:auto; }
+}

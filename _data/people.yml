@@ -1,7 +1,35 @@
+# - name: Paulina Quintanilla
+#   role: Assistant Professor
+#   group: Principal Investigator
+#   img: /images/profile-pic.png
+#   links:
+#     - platform: email
+#       url: mailto:p.quintanilla@ucl.ac.uk
+#     - platform: scholar
+#       url: https://scholar.google.com/citations?user=1dp-SB4AAAAJ
+#     - platform: orcid
+#       url: https://orcid.org/0000-0002-7717-0556
+#     - platform: github
+#       url: https://github.com/p-quintanilla
+#     - platform: linkedin
+#       url: https://www.linkedin.com/in/paulinaquintanilla/
+
 - name: Paulina Quintanilla
-  role: Assistant Professor
   group: Principal Investigator
+  role: Assistant Professor
   img: /images/profile-pic.png
+  bio: >
+    I am an Assistant Professor (UK Lecturer) in Process Systems Engineering in the
+    Department of Chemical Engineering at UCL. I am also an Early Career Advisory
+    Board member of *Control Engineering Practice*, a journal of the International
+    Federation of Automatic Control (IFAC).
+
+    I hold a PhD in Earth Science and Engineering from Imperial College London and
+    obtained MEng and MSc degrees in Chemical Engineering from Universidad Técnica
+    Federico Santa María in Valparaíso, Chile. I previously worked as a Postdoctoral
+    Researcher at the Sargent Centre for Process Systems Engineering, Imperial
+    College London, and was appointed Assistant Professor at Brunel University
+    London in 2024.
   links:
     - platform: email
       url: mailto:p.quintanilla@ucl.ac.uk

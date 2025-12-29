@@ -150,7 +150,7 @@
   </ul>
 </section> -->
 
-
+<!-- 
 <section id="people" class="section-block">
   <h2>Our Team</h2>
 
@@ -188,7 +188,95 @@
       {% endfor %}
     </ul>
   {% endfor %}
+</section> -->
+
+
+<section id="people" class="section-block">
+  <h2>Our Team</h2>
+
+  {% assign groups = site.data.people | group_by: "group" %}
+  {% for g in groups %}
+    <h3 class="people-subtitle">{{ g.name }}</h3>
+
+    {% if g.name == "Principal Investigator" %}
+      <!-- PI: special layout -->
+      {% for person in g.items %}
+        <div class="pi-card">
+          <div class="pi-left">
+            <div class="avatar">
+              <img src="{{ person.img | relative_url }}" alt="{{ person.name }}">
+            </div>
+
+            {% if person.links %}
+              <div class="person-links">
+                {% for link in person.links %}
+                  <a class="link-pill" href="{{ link.url }}" target="_blank" rel="noopener" aria-label="{{ link.platform }}">
+                    {% case link.platform %}
+                      {% when "email"    %}<img src="{{ '/assets/icons/email.svg'    | relative_url }}" alt="Email">
+                      {% when "github"   %}<img src="{{ '/assets/icons/github.svg'   | relative_url }}" alt="GitHub">
+                      {% when "linkedin" %}<img src="{{ '/assets/icons/linkedin.svg' | relative_url }}" alt="LinkedIn">
+                      {% when "scholar"  %}<img src="{{ '/assets/icons/scholar.svg'  | relative_url }}" alt="Google Scholar">
+                      {% when "orcid"    %}<img src="{{ '/assets/icons/orcid.svg'    | relative_url }}" alt="ORCID">
+                    {% endcase %}
+                  </a>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="pi-right">
+            <div class="person-name">{{ person.name }}</div>
+            <div class="person-role">{{ person.role }}</div>
+
+            {% if person.bio %}
+              <p class="pi-bio">{{ person.bio }}</p>
+            {% endif %}
+
+            {% if person.project %}
+              <p class="pi-bio"><strong>Focus:</strong> {{ person.project }}</p>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+
+    {% else %}
+      <!-- Everyone else: normal grid -->
+      <ul class="people-grid">
+        {% for person in g.items %}
+          <li class="person">
+            <div class="avatar">
+              <img src="{{ person.img | relative_url }}" alt="{{ person.name }}">
+            </div>
+            <div class="person-name">{{ person.name }}</div>
+            <div class="person-role">{{ person.role }}</div>
+
+            {% if person.project %}
+              <div class="person-project">{{ person.project }}</div>
+            {% endif %}
+
+            {% if person.links %}
+              <div class="person-links">
+                {% for link in person.links %}
+                  <a class="link-pill" href="{{ link.url }}" target="_blank" rel="noopener" aria-label="{{ link.platform }}">
+                    {% case link.platform %}
+                      {% when "email"    %}<img src="{{ '/assets/icons/email.svg'    | relative_url }}" alt="Email">
+                      {% when "github"   %}<img src="{{ '/assets/icons/github.svg'   | relative_url }}" alt="GitHub">
+                      {% when "linkedin" %}<img src="{{ '/assets/icons/linkedin.svg' | relative_url }}" alt="LinkedIn">
+                      {% when "scholar"  %}<img src="{{ '/assets/icons/scholar.svg'  | relative_url }}" alt="Google Scholar">
+                      {% when "orcid"    %}<img src="{{ '/assets/icons/orcid.svg'    | relative_url }}" alt="ORCID">
+                    {% endcase %}
+                  </a>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+  {% endfor %}
 </section>
+
 
 <section id="publications" class="section-block">
   <h2>Publications</h2>
