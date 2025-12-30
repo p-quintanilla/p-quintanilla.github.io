@@ -1255,7 +1255,7 @@ body {
 
 /* Allow PI section to use full page width */
 #people .pi-layout {
-  max-width: 80%;   /* or 100% if you want edge-to-edge */
+  max-width: 1200px;   /* or 100% if you want edge-to-edge */
   margin: 0 auto;
   display: grid;
   grid-template-columns: 320px minmax(0, 1fr);
