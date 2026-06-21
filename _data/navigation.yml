@@ -1,0 +1,24 @@
+# main links links
+main:
+
+  - title: "Research"
+    url: /research/
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Talks"
+    url: /talks/
+    
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Outreach"
+    url: /outreach/
+    
+  - title: "Software"
+    url: /software/
+    
