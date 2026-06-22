@@ -9,14 +9,14 @@ redirect_from:
 
 ![](/_pages/1.png)
 
-I am an **Assistant Professor** (UK Lecturer) in **Process Systems Engineering** in the Department of Chemical Engineering at University College London. I am also an **Early Career Advisory Board** member in the [Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice), a journal of the International Federation of Automatic Control (IFAC), Elsevier. 
+I am an Assistant Professor (UK Lecturer) in Process Systems Engineering in the Department of Chemical Engineering at UCL. I am also an Early Career Advisory Board member in the [Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice) (IFAC) and [Minerals Engineering](https://www.sciencedirect.com/journal/minerals-engineering) journals, and a Scientific Editor in the [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering) journal. 
 
-I completed my PhD in Earth Science and Engineering at Imperial College London in 2023 with the [Advanced Minerals Processing Research Group](https://www.imperial.ac.uk/earth-science/research/research-groups/amprg/). I obtained MEng and MSc degrees in Chemical Engineering from [Universidad Técnica Federico Santa María](https://www.usm.cl) in Valparaíso, Chile. In 2023, I worked as a Postdoctoral Researcher in supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub) in the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/), Department of Chemical Engineering at Imperial College London. I was appointed as an Assistant Professor at Brunel University of London in 2024.
+I completed my PhD in Earth Science and Engineering at Imperial College London in 2023 with the [Advanced Minerals Processing Research Group](https://www.imperial.ac.uk/earth-science/research/research-groups/amprg/). I obtained MEng and MSc degrees in Chemical Engineering from [Universidad Técnica Federico Santa María](https://www.usm.cl) in Valparaíso, Chile. In 2023, I worked as a Postdoctoral Researcher in supply chain optimisation for the [Future Targeted Healthcare Manufacturing Hub](https://www.ucl.ac.uk/biochemical-engineering/research/research-and-training-centres/future-targeted-healthcare-manufacturing-hub) in the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/), Department of Chemical Engineering at Imperial College London. I was appointed Assistant Professor at Brunel University London in 2024.
 
 My research interests include the application of computer-aided tools for **modelling, control and optimisation** of a wide range of processes with a sustainable focus:
 ![research interests 2](https://github.com/user-attachments/assets/d4cfb9e5-fd5c-4b3a-80f0-c80500ac7cfb)
 
-If you are interested in joining or working with our group, please email me at p.quintanilla@yucl.ac.uk. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).
+If you are interested in joining or working with our group, please email me at p.quintanilla@ucl.ac.uk. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).
 
 
 ## What's on this website:
