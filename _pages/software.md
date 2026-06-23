@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /software/
-author_profile: true
+author_profile: false
 ---
 
 ![](/_pages/6.png)

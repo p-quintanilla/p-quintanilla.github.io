@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 <div style="text-align:center; margin-bottom:1em;">
-  <img src="/images/ucl-logo.png" alt="UCL logo" style="height:60px;">
+  <img src="/images/Logo_transparent_background.png" alt="LOOPS logo" style="max-width:420px; width:100%;">
 </div>
 
-<h1 style="margin-bottom:0; text-align:center;">LOOPS</h1>
 <p style="font-size:1.2em; color:#666; margin-top:0; text-align:center;"><strong>L</strong>earning &amp; <strong>O</strong>nline <strong>O</strong>ptimization for <strong>P</strong>rocesses and <strong>S</strong>ystems</p>
 
 <!-- TODO: replace with a UCL campus photo, e.g. images/ucl-building.jpg -->
