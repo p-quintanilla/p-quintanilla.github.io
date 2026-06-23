@@ -1,9 +1,12 @@
 # main links links
 main:
 
+  - title: "Team"
+    url: /team/
+
   - title: "Research"
     url: /research/
-    
+
   - title: "Publications"
     url: /publications/
 
@@ -12,13 +15,9 @@ main:
 
   - title: "Talks"
     url: /talks/
-    
+
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Outreach"
-    url: /outreach/
-    
+
   - title: "Software"
     url: /software/
-    

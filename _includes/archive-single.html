@@ -13,7 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"{% if post.collection == 'publications' %} style="display:flex; gap:1em; align-items:flex-start; flex-wrap:wrap;"{% endif %}>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -24,6 +24,17 @@
           {% endif %}
           alt="">
       </div>
+    {% endif %}
+
+    {% if post.collection == 'publications' %}
+      <div style="flex:0 0 160px;">
+        {% if post.graphical_abstract %}
+          <img src="{{ post.graphical_abstract | prepend: "/images/" | prepend: base_path }}" alt="Graphical abstract" style="width:160px; height:120px; object-fit:contain; border:1px solid #ddd; border-radius:4px;">
+        {% else %}
+          <div style="width:160px; height:120px; border:1px dashed #ccc; border-radius:4px; display:flex; align-items:center; justify-content:center; color:#999; font-size:0.75em; text-align:center; padding:0.5em;">Graphical abstract placeholder</div>
+        {% endif %}
+      </div>
+      <div style="flex:1; min-width:240px;">
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
@@ -58,6 +69,10 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    {% endif %}
+
+    {% if post.collection == 'publications' %}
+      </div>
     {% endif %}
 
   </article>
