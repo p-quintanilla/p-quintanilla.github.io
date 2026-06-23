@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Paulina Quintanilla"
+title                    : "LOOPS"
 title_separator          : "-"
-name                     : &name "Dr Paulina Quintanilla"
-description              : &description "University College London"
+name                     : &name "LOOPS Research Group"
+description              : &description "Learning & Online Optimization for Processes and Systems - University College London"
 url                      : https://p-quintanilla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "p-quintanilla/p-quintanilla.github.io"
