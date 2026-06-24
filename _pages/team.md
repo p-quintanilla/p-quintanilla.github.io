@@ -9,9 +9,9 @@ author_profile: false
 
 <h2>Principal Investigator</h2>
 
-<div style="display:flex; flex-wrap:wrap; gap:2em; align-items:flex-start; margin-bottom:2em;">
-  <div style="flex:0 0 200px;">
-    <img src="/images/team/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:200px; height:200px; object-fit:cover; border-radius:8px;">
+<div style="display:flex; flex-wrap:wrap; gap:2em; align-items:stretch; margin-bottom:2em; padding:1.5em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+  <div style="flex:0 0 200px; text-align:center;">
+    <img src="/images/team/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:200px; height:200px; object-fit:cover; border-radius:50%;">
   </div>
   <div style="flex:1; min-width:260px;">
     <h3 style="margin-top:0;"><a href="/pi/">Dr Paulina Quintanilla</a></h3>
