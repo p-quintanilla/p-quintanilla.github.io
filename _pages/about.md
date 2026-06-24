@@ -40,12 +40,4 @@ redirect_from:
 
 <p>If you are interested in joining or working with our group, please visit our <a href="/team/">Team page</a> or email <a href="mailto:p.quintanilla@ucl.ac.uk">p.quintanilla@ucl.ac.uk</a>. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).</p>
 
-## What's on this website:
-
-1. [Team](/team)
-2. [Research](/research)
-3. [Publications](/publications)
-4. [Talks in conferences and seminars](/talks.html)
-5. [Software: BubbleAnalyser](/software)
-
 **_Thank you for visiting!_**

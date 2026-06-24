@@ -11,12 +11,12 @@ title: "Dr Paulina Quintanilla"
     <p><em>Principal Investigator — Assistant Professor (UK Lecturer) in Process Systems Engineering</em><br>
     Department of Chemical Engineering, University College London (UCL)<br>
     Honorary Lecturer, Sargent Centre for Process Systems Engineering, Imperial College London</p>
-    <p>
-      <a href="https://www.linkedin.com/in/paulinaquintanilla" target="_blank" rel="noopener">LinkedIn</a> ·
-      <a href="https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> ·
-      <a href="https://www.researchgate.net/profile/Paulina-Quintanilla" target="_blank" rel="noopener">ResearchGate</a> ·
-      <a href="https://github.com/p-quintanilla" target="_blank" rel="noopener">GitHub</a> ·
-      <a href="https://orcid.org/0000-0002-7717-0556" target="_blank" rel="noopener">ORCID</a>
+    <p style="font-size:1.3em;">
+      <a href="https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about" target="_blank" rel="noopener" title="UCL Profile"><i class="fas fa-fw fa-university" aria-hidden="true"></i></a>
+      <a href="https://www.linkedin.com/in/paulinaquintanilla" target="_blank" rel="noopener" title="LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
+      <a href="https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
+      <a href="https://orcid.org/0000-0002-7717-0556" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i></a>
+      <a href="https://github.com/p-quintanilla" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
     </p>
   </div>
 </div>
