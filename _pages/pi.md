@@ -4,8 +4,8 @@ title: "Dr Paulina Quintanilla"
 ---
 
 <div style="display:flex; flex-wrap:wrap; gap:2em; align-items:flex-start; margin-bottom:1.5em;">
-  <div style="flex:0 0 200px;">
-    <img src="/images/team/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:200px; height:200px; object-fit:cover; border-radius:8px;">
+  <div style="flex:1 1 200px; max-width:200px;">
+    <img src="/images/team/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:100%; max-width:200px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
   <div style="flex:1; min-width:260px;">
     <p><em>Principal Investigator</em><br> 

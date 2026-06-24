@@ -10,8 +10,8 @@ author_profile: false
 <h2>Principal Investigator</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:2em; align-items:stretch; margin-bottom:2em; padding:1.5em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
-  <div style="flex:0 0 200px; text-align:center;">
-    <img src="/images/team/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:200px; height:200px; object-fit:cover; border-radius:50%;">
+  <div style="flex:1 1 200px; max-width:200px; text-align:center;">
+    <img src="/images/team/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:100%; max-width:200px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:50%;">
   </div>
   <div style="flex:1; min-width:260px;">
     <h3 style="margin-top:0;"><a href="/pi/">Dr Paulina Quintanilla</a></h3>
@@ -34,29 +34,29 @@ author_profile: false
 
 <div style="display:flex; flex-wrap:wrap; gap:1.5em; margin-bottom:2em;">
 
-  <div style="flex:0 0 230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
-    <img src="/images/team/sultan.jpeg" alt="Sultan Alhamdan" style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
+  <div style="flex:1 1 230px; max-width:230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <img src="/images/team/sultan.jpeg" alt="Sultan Alhamdan" style="width:100%; max-width:120px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
     <p style="margin-bottom:0.25em;"><strong>Sultan Alhamdan</strong></p>
     <p style="margin-bottom:0.25em; font-size:0.92em;">MSc student in Sustainable Chemical Process Engineering<br>UCL</p>
     <p style="font-size:0.88em; font-style:italic; color:#6b6483; margin-top:0.5em;">Machine Learning for copper leaching modelling</p>
   </div>
 
-  <div style="flex:0 0 230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
-    <img src="/images/team/rasa.png" alt="Rasa Pourjam" style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
+  <div style="flex:1 1 230px; max-width:230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <img src="/images/team/rasa.png" alt="Rasa Pourjam" style="width:100%; max-width:120px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
     <p style="margin-bottom:0.25em;"><strong>Rasa Pourjam</strong></p>
     <p style="margin-bottom:0.25em; font-size:0.92em;">Research Assistant in Process Systems Engineering<br>Imperial College London</p>
     <p style="font-size:0.88em; font-style:italic; color:#6b6483; margin-top:0.5em;">Hierarchical MPC-reinforcement learning for battery systems</p>
   </div>
 
-  <div style="flex:0 0 230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
-    <img src="/images/team/roberto.jpg" alt="Roberto Aliaga" style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
+  <div style="flex:1 1 230px; max-width:230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <img src="/images/team/roberto.jpg" alt="Roberto Aliaga" style="width:100%; max-width:120px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
     <p style="margin-bottom:0.25em;"><strong>Roberto Aliaga</strong></p>
     <p style="margin-bottom:0.25em; font-size:0.92em;">MSc student in Chemical Engineering<br>Universidad de Chile</p>
     <p style="font-size:0.88em; font-style:italic; color:#6b6483; margin-top:0.5em;">LLM-guided symbolic regression for kinetic discovery</p>
   </div>
 
-  <div style="flex:0 0 230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
-    <img src="/images/team/agustin.jpeg" alt="Agustín Fuenzalida" style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
+  <div style="flex:1 1 230px; max-width:230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <img src="/images/team/agustin.jpeg" alt="Agustín Fuenzalida" style="width:100%; max-width:120px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
     <p style="margin-bottom:0.25em;"><strong>Agustín Fuenzalida</strong></p>
     <p style="margin-bottom:0.25em; font-size:0.92em;">MSc student in Chemical Engineering<br>Universidad Técnica Federico Santa María</p>
     <p style="font-size:0.88em; font-style:italic; color:#6b6483; margin-top:0.5em;">Machine learning for froth flotation optimisation</p>
@@ -70,33 +70,33 @@ author_profile: false
 
 <div style="display:flex; flex-wrap:wrap; gap:1.5em;">
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/yicong.jpeg" alt="Yicong Wang" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
+  <div style="flex:1 1 180px; max-width:180px; text-align:center;">
+    <img src="/images/team/yicong.jpeg" alt="Yicong Wang" style="width:100%; max-width:150px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
     <p><strong>Yicong Wang</strong><br>PhD student<br>University of Cambridge</p>
   </div>
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/kofo.jpg" alt="Kofo Awodun" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
+  <div style="flex:1 1 180px; max-width:180px; text-align:center;">
+    <img src="/images/team/kofo.jpg" alt="Kofo Awodun" style="width:100%; max-width:150px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
     <p><strong>Kofo Awodun</strong><br>PhD student<br>Brunel University of London</p>
   </div>
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/victor.jpeg" alt="Victor Dehon" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
+  <div style="flex:1 1 180px; max-width:180px; text-align:center;">
+    <img src="/images/team/victor.jpeg" alt="Victor Dehon" style="width:100%; max-width:150px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
     <p><strong>Victor Dehon</strong><br>Former MSc student<br>Imperial College London</p>
   </div>
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/billy.jpg" alt="Billy Davies" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
+  <div style="flex:1 1 180px; max-width:180px; text-align:center;">
+    <img src="/images/team/billy.jpg" alt="Billy Davies" style="width:100%; max-width:150px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
     <p><strong>Billy Davies</strong><br>Research Associate<br>Brunel University of London</p>
   </div>
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/benjamin_olivares.jpeg" alt="Benjamin Olivares" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
+  <div style="flex:1 1 180px; max-width:180px; text-align:center;">
+    <img src="/images/team/benjamin_olivares.jpeg" alt="Benjamin Olivares" style="width:100%; max-width:150px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
     <p><strong>Benjamin Olivares</strong><br>Former MSc student<br>Universidad Técnica Federico Santa María</p>
   </div>
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/benjamin_araya.jpeg" alt="Benjamin Araya" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
+  <div style="flex:1 1 180px; max-width:180px; text-align:center;">
+    <img src="/images/team/benjamin_araya.jpeg" alt="Benjamin Araya" style="width:100%; max-width:150px; height:auto; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
     <p><strong>Benjamin Araya</strong><br>Former MSc student<br>Universidad Técnica Federico Santa María</p>
   </div>
 
