@@ -15,7 +15,7 @@ author_profile: false
   </div>
   <div style="flex:1; min-width:260px;">
     <h3 style="margin-top:0;"><a href="/pi/">Dr Paulina Quintanilla</a></h3>
-    <p><em>Principal Investigator — Assistant Professor (UK Lecturer) in Process Systems Engineering</em><br>
+    <p>Assistant Professor in Process Systems Engineering<br>
     Department of Chemical Engineering, University College London (UCL)</p>
     <p style="font-size:1.3em;">
       <a href="https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about" target="_blank" rel="noopener" title="UCL Profile"><i class="fas fa-fw fa-university" aria-hidden="true"></i></a>
@@ -23,8 +23,6 @@ author_profile: false
       <a href="https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
       <a href="https://orcid.org/0000-0002-7717-0556" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i></a>
       <a href="https://github.com/p-quintanilla" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-    </p>
-    <p>PhD in Earth Science and Engineering (Imperial College London); MEng and MSc in Chemical Engineering (Universidad Técnica Federico Santa María, Chile). <a href="/pi/">Read full bio, awards, teaching and funding &rarr;</a></p>
   </div>
 </div>
 
