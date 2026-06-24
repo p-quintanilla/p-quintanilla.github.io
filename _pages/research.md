@@ -90,23 +90,10 @@ We work across three connected research areas, using machine learning, optimisat
 
 <hr>
 
-## Ongoing projects and collaborations
-
-* "**Experimentally-validated dynamic modelling for optimal scheduling of pressure swing adsorption in CO<sub>2</sub> capture**" at Brunel University London as part of the Brunel Research Initiative & Enterprise Fund (BRIEF) 2024/25 (competitive grant).
-
-* "**Gaussian process regression for model predictive control**", Imperial College London.
-
-* "**Grey-box recursive parameter identification of a nonlinear dynamic model for mineral flotation**", Eindhoven University of Technology, The Netherlands.
-
-* "**Laboratory-scale system to control moisture content in column leaching**", Universidad Tecnica Federico Santa Maria, Chile.
-
-* "**[Bubble Analyser](/software) – An open-source software for bubble size analysis**", which has resulted in a published paper. This software was collaboratively developed by Dr Diego Mesa, Dr Francisco Reyes, and Dr Paulina Quintanilla. We are now working with two Imperial MSc students from the Applied Computational Science and Engineering programme on a 2.0 version implementing computer vision and machine learning techniques, including the project "Bubble Analyser - Identification and characterisation of bubbles using Machine Learning".
-
-<hr>
 
 ## Featured case study: dynamic physics-based flotation models for predictive control
 
-_This work, from Dr Paulina Quintanilla's PhD research, is a flagship example of how our Optimisation & Control research is applied to mineral processing._
+_This work is from Paulina Quintanilla's PhD research and is an example of how our modelling and control research is applied to mineral processing._
 
 ### Why do we care about optimising mineral processes?
 
