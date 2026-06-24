@@ -16,7 +16,8 @@ author_profile: false
   <div style="flex:1; min-width:260px;">
     <h3 style="margin-top:0;"><a href="/pi/">Dr Paulina Quintanilla</a></h3>
     <p>Assistant Professor in Process Systems Engineering<br>
-    Department of Chemical Engineering, University College London (UCL)</p>
+    Department of Chemical Engineering<br>
+    University College London (UCL)</p>
     <p style="font-size:1.3em;">
       <a href="https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about" target="_blank" rel="noopener" title="UCL Profile"><i class="fas fa-fw fa-university" aria-hidden="true"></i></a>
       <a href="https://www.linkedin.com/in/paulinaquintanilla" target="_blank" rel="noopener" title="LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
