@@ -28,8 +28,11 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
+/* elegant editorial pairing using system fonts only (no extra network requests) */
+$elegant-serif               : "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : $elegant-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -47,18 +50,18 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #f7f5f2;
+$gray                       : #ffffff;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #faf8f5;
-$background-color           : #faf8f5;
+$body-color                 : #ffffff;
+$background-color           : #ffffff;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #2e2a45;
-$border-color               : #e6e1da;
+$border-color               : #ece8e2;
 
 $primary-color              : #3d3270; // elegant dark purple/blue
 $accent-color                : #c97a3d; // warm burnt-orange accent for hovers/highlights
