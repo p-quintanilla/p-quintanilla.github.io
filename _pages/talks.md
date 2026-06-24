@@ -2,13 +2,14 @@
 permalink: /talks/
 ---
 
-![](/_pages/5.png)
+![](/_pages/6.png)
 
-![](/_pages/photos_conf4.png)
+1.  **Flotation 25'**, Cape Town, South Africa, November 2025. _From data to decisions: Bayesian modelling and global sensitivity analysis for flotation control_
 
-## Speaker:
 1.  **Dynamics and Control of Process Systems (Dycops), including Biosystems**, Bratislava, Slovakia, June 2025. _Stochastic Data-Driven NMPC for Partially Observable Systems Using Gaussian Processes: A Mineral Flotation Case Study_
+   
 1. **Seminario en Pontificia Universidad Católica** (invited), Santiago, Chile, January 2025. _Avances en modelado dinámico y control predictivo para la optimización de procesos_
+   
 1. **European Symposium of Computer-Aided Process Engineering 2024**, Florence, Italy, July 2024. _Experimental Implementation of an Economic Model Predictive Control for Froth Flotation_.
    
 1. **American Institution of Chemical Engineers - Annual Meeting 2023**, Orlando, USA, November 2023. (1)_Design space quantification for processes under disturbance: An application to froth flotation_. and  (2)_Advances in dynamic modelling for model predictive control for froth flotation_.
@@ -44,6 +45,8 @@ permalink: /talks/
 
 
 ## Poster presentations:
+
+1. **European Symposium on Computer Aided Process Engineering (ESCAPE36)** Sheffield, United Kingdom, June 2026. _Hierarchical Model Predictive Control and Reinforcement Learning framework for multi-scale battery systems_ **Presented by Rasa Pourjam**. 
 
 1. **Society of Chemical Industry - Annual General Meeting** (invited), London, United Kingdom, July 2022. _Optimising mineral process systems -- The transition to green energy will need bubbles!_ Received 1st place for **Best Poster Award**. 
 
