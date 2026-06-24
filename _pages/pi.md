@@ -8,7 +8,8 @@ title: "Dr Paulina Quintanilla"
     <img src="/images/team/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:200px; height:200px; object-fit:cover; border-radius:8px;">
   </div>
   <div style="flex:1; min-width:260px;">
-    <p><em>Principal Investigator — Assistant Professor (UK Lecturer) in Process Systems Engineering</em><br>
+    <p><em>Principal Investigator</em><br> 
+    Assistant Professor (UK Lecturer) in Process Systems Engineering<br>
     Department of Chemical Engineering, University College London (UCL)<br>
     Honorary Lecturer, Sargent Centre for Process Systems Engineering, Imperial College London</p>
     <p style="font-size:1.3em;">
@@ -52,8 +53,8 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 
 ## Awards &amp; recognitions
 
+* **Outstanding Research Supervision nominee**, UCL Students’ Union UCL’s Student Choice Awards — 2026
 * **Malcolm McIvor Prize**, Centre for Process Analytics and Control Technology (CPACT) — 2025
-* **Emerging Stars II Nominee**, Chemical Engineering Research and Design (ChERD) Journal, Elsevier — 2025
 * **MEI Young Person's Award 2021**, Minerals Engineering International — 2022
 * **IChemE Global Awards 2022 — Young Researcher finalist**, Institution of Chemical Engineers — 2022
 * **1st Place Best Poster Award**, Society of Chemical Industry — 2022
@@ -72,8 +73,6 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 * **Module leader, Process Systems Engineering**, Department of Chemical Engineering, Brunel University of London — Jan 2024 - Jul 2025
 * **Guest Lecturer, Mining Geology and Engineering**, Imperial College London — Dec 2022
 * **Guest Lecturer, Process Control and Applied Statistics**, Universidad Técnica Federico Santa María — Mar 2018 – Aug 2018
-
-**Teaching assistant** — over 300 hours of student assistance, including Graduate Teaching Assistant at Imperial College London (Feb 2019 – Oct 2022, incl. GTA Coordinator) and Undergraduate Teaching Assistant at Universidad Técnica Federico Santa María (Mar 2012 – Jun 2016).
 
 <hr>
 
