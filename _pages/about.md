@@ -47,9 +47,7 @@ redirect_from:
 1. [Team](/team)
 2. [Research](/research)
 3. [Publications](/publications)
-4. [Awards and external funding](/awards)
-5. [Talks in conferences and seminars](/talks.html)
-6. [Teaching](/teaching.html)
-7. [Software: BubbleAnalyser](/software)
+4. [Talks in conferences and seminars](/talks.html)
+5. [Software: BubbleAnalyser](/software)
 
 **_Thank you for visiting!_**

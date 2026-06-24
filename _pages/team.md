@@ -16,7 +16,7 @@ author_profile: false
     <img src="/images/team/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:200px; height:200px; object-fit:cover; border-radius:8px;">
   </div>
   <div style="flex:1; min-width:260px;">
-    <h3 style="margin-top:0;">Dr Paulina Quintanilla</h3>
+    <h3 style="margin-top:0;"><a href="/pi/">Dr Paulina Quintanilla</a></h3>
     <p><em>Principal Investigator — Assistant Professor (UK Lecturer) in Process Systems Engineering</em><br>
     Department of Chemical Engineering, University College London (UCL)</p>
     <p>
@@ -25,16 +25,9 @@ author_profile: false
       <a href="https://www.researchgate.net/profile/Paulina-Quintanilla" target="_blank" rel="noopener">ResearchGate</a> ·
       <a href="https://github.com/p-quintanilla" target="_blank" rel="noopener">GitHub</a>
     </p>
+    <p>PhD in Earth Science and Engineering (Imperial College London); MEng and MSc in Chemical Engineering (Universidad Técnica Federico Santa María, Chile). <a href="/pi/">Read full bio, awards, teaching and funding &rarr;</a></p>
   </div>
 </div>
-
-<p>Paulina is an Assistant Professor (UK Lecturer) in Process Systems Engineering in the Department of Chemical Engineering at UCL. She is also an Early Career Advisory Board member in the <a href="https://www.sciencedirect.com/journal/control-engineering-practice">Control Engineering Practice</a> (IFAC) and <a href="https://www.sciencedirect.com/journal/minerals-engineering">Minerals Engineering</a> journals, and a Scientific Editor in the <a href="https://www.sciencedirect.com/journal/results-in-engineering">Results in Engineering</a> journal (Elsevier).</p>
-
-<p><strong>Qualifications</strong></p>
-<ul>
-  <li>PhD in Earth Science and Engineering from Imperial College London.</li>
-  <li>MEng and MSc degrees in Chemical Engineering from Universidad Técnica Federico Santa María in Valparaíso, Chile.</li>
-</ul>
 
 <hr>
 
