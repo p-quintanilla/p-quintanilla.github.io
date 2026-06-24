@@ -24,6 +24,9 @@ author_profile: false
       <a href="https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
       <a href="https://orcid.org/0000-0002-7717-0556" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i></a>
       <a href="https://github.com/p-quintanilla" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+    </p>
+  </div>
+</div>
 
 <hr>
 
@@ -31,24 +34,32 @@ author_profile: false
 
 <div style="display:flex; flex-wrap:wrap; gap:1.5em; margin-bottom:2em;">
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/sultan.jpeg" alt="Sultan Alhamdan" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
-    <p><strong>Sultan Alhamdan</strong><br>MSc student in Sustainable Chemical Process Engineering<br>UCL</p>
+  <div style="flex:0 0 230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <img src="/images/team/sultan.jpeg" alt="Sultan Alhamdan" style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
+    <p style="margin-bottom:0.25em;"><strong>Sultan Alhamdan</strong></p>
+    <p style="margin-bottom:0.25em; font-size:0.92em;">MSc student in Sustainable Chemical Process Engineering<br>UCL</p>
+    <p style="font-size:0.88em; font-style:italic; color:#6b6483; margin-top:0.5em;">Machine Learning for copper leaching modelling</p>
   </div>
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/rasa.png" alt="Rasa Pourjam" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
-    <p><strong>Rasa Pourjam</strong><br>Research Assistant in Process Systems Engineering<br>Imperial College London</p>
+  <div style="flex:0 0 230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <img src="/images/team/rasa.png" alt="Rasa Pourjam" style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
+    <p style="margin-bottom:0.25em;"><strong>Rasa Pourjam</strong></p>
+    <p style="margin-bottom:0.25em; font-size:0.92em;">Research Assistant in Process Systems Engineering<br>Imperial College London</p>
+    <p style="font-size:0.88em; font-style:italic; color:#6b6483; margin-top:0.5em;">Hierarchical MPC-reinforcement learning for battery systems</p>
   </div>
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/roberto.jpg" alt="Roberto Aliaga" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
-    <p><strong>Roberto Aliaga</strong><br>MSc student in Chemical Engineering<br>Universidad de Chile</p>
+  <div style="flex:0 0 230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <img src="/images/team/roberto.jpg" alt="Roberto Aliaga" style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
+    <p style="margin-bottom:0.25em;"><strong>Roberto Aliaga</strong></p>
+    <p style="margin-bottom:0.25em; font-size:0.92em;">MSc student in Chemical Engineering<br>Universidad de Chile</p>
+    <p style="font-size:0.88em; font-style:italic; color:#6b6483; margin-top:0.5em;">LLM-guided symbolic regression for kinetic discovery</p>
   </div>
 
-  <div style="flex:0 0 180px; text-align:center;">
-    <img src="/images/team/agustin.jpeg" alt="Agustín Fuenzalida" style="width:150px; height:150px; object-fit:cover; border-radius:8px;">
-    <p><strong>Agustín Fuenzalida</strong><br>MSc student in Chemical Engineering<br>Universidad Técnica Federico Santa María</p>
+  <div style="flex:0 0 230px; text-align:center; padding:1.5em 1em; border:1px solid #ece8e2; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <img src="/images/team/agustin.jpeg" alt="Agustín Fuenzalida" style="width:120px; height:120px; object-fit:cover; border-radius:50%; margin-bottom:0.75em;">
+    <p style="margin-bottom:0.25em;"><strong>Agustín Fuenzalida</strong></p>
+    <p style="margin-bottom:0.25em; font-size:0.92em;">MSc student in Chemical Engineering<br>Universidad Técnica Federico Santa María</p>
+    <p style="font-size:0.88em; font-style:italic; color:#6b6483; margin-top:0.5em;">Machine learning for froth flotation optimisation</p>
   </div>
 
 </div>
