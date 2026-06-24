@@ -13,12 +13,10 @@ redirect_from:
 
 <p style="font-size:1.2em; color:#666; margin-top:0; text-align:center;"><strong>L</strong>earning &amp; <strong>O</strong>nline <strong>O</strong>ptimization for <strong>P</strong>rocesses and <strong>S</strong>ystems</p>
 
-<!-- TODO: replace with a UCL campus photo, e.g. images/ucl-building.jpg -->
 <img src="/images/ucl-building.jpg" alt="UCL" style="width:100%; max-height:380px; object-fit:cover; border-radius:8px; margin-bottom:1.5em;">
 
-<p>We are a research group in the Department of Chemical Engineering at <a href="https://www.ucl.ac.uk">UCL</a>, led by Dr Paulina Quintanilla, and part of the <a href="https://www.imperial.ac.uk/process-systems-engineering/">Sargent Centre for Process Systems Engineering</a>. We develop and apply machine learning, optimisation and control methods to processes and systems with a sustainability focus, spanning three connected areas.</p>
+<p>We are the LOOPS research group — Learning & Online Optimization for Processes and Systems — based in the Department of Chemical Engineering at <a href="https://www.ucl.ac.uk">UCL</a>, and part of the  <a href="https://www.imperial.ac.uk/process-systems-engineering/">Sargent Centre for Process Systems Engineering</a>. We develop machine learning, optimisation and control methods for processes and systems with a sustainability focus.
 
-<!-- TODO: replace with the final "Machine Learning & AI / Optimisation & Control / AI for Science & Materials" figure -->
 <img src="/images/research-areas-figure.png" alt="LOOPS research areas: Machine Learning & AI, Optimisation & Control, AI for Science & Materials" style="max-width:100%; margin-bottom:1.5em;">
 
 <div style="display:flex; flex-wrap:wrap; gap:2em; margin-bottom:1.5em;">
