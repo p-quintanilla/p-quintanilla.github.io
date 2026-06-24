@@ -23,8 +23,6 @@ author_profile: false
       <a href="https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
       <a href="https://orcid.org/0000-0002-7717-0556" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid-square ai-fw" aria-hidden="true"></i></a>
       <a href="https://github.com/p-quintanilla" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-  </div>
-</div>
 
 <hr>
 
