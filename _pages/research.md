@@ -4,9 +4,7 @@ permalink: /research/
 author_profile: false
 ---
 
-![](/_pages/8.png)
-
-We work across three connected research areas, using machine learning, optimisation and control to tackle problems in processes, systems, and materials with a sustainability focus.
+We work across three connected research areas, using machine learning, dynamic modelling, optimisation and control to tackle problems in processes and physical systems.
 
 <hr>
 
@@ -63,7 +61,7 @@ We work across three connected research areas, using machine learning, optimisat
 
 <hr>
 
-## AI for Science &amp; Materials Discovery
+## AI for Science 
 
 <div style="display:flex; flex-wrap:wrap; gap:2em; align-items:flex-start; margin-bottom:1.5em;">
   <div style="flex:1; min-width:280px;">
