@@ -19,10 +19,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0.75em 1em;
+    padding: 0em 1em 1em 0em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -39,26 +36,7 @@
   }
 }
 
-.site-logo {
-  display: flex;
-  align-items: center;
-  flex-shrink: 0;
-  margin-right: 1.5em;
-
-  img {
-    height: 48px;
-    width: auto;
-  }
-}
-
 .masthead__menu {
-  flex: 1;
-  min-width: 0;
-
-  nav {
-    width: 100%;
-    padding-right: 3rem;
-  }
 
   ul {
     margin: 0;
@@ -77,4 +55,10 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+.site-logo {
+  display: block;
+  height: 44px;
+  width: auto;
 }

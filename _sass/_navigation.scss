@@ -205,12 +205,10 @@
   }
 
   .visible-links {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
+    display: table;
 
     li {
-      display: block;
+      display: table-cell;
       vertical-align: middle;
 
       &:first-child {
