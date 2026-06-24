@@ -40,4 +40,3 @@ redirect_from:
 
 <p>If you are interested in joining or working with our group, please visit our <a href="/team/">Team page</a> or email <a href="mailto:p.quintanilla@ucl.ac.uk">p.quintanilla@ucl.ac.uk</a>. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).</p>
 
-**_Thank you for visiting!_**
