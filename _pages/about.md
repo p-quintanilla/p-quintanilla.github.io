@@ -17,7 +17,7 @@ redirect_from:
 
 <p>We are the LOOPS research group — Learning & Online Optimization for Processes and Systems — based in the Department of Chemical Engineering at <a href="https://www.ucl.ac.uk">UCL</a>, and part of the  <a href="https://www.imperial.ac.uk/process-systems-engineering/">Sargent Centre for Process Systems Engineering</a>. We develop machine learning, optimisation and control methods for processes and systems with a sustainability focus.
 
-<img src="/images/research-areas-figure.png" alt="LOOPS research areas: Machine Learning & AI, Optimisation & Control, AI for Science & Materials" style="max-width:100%; margin-bottom:1.5em;">
+<img src="/images/research_topics_together.png" alt="LOOPS research areas: Machine Learning & AI, Optimisation & Control, AI for Science & Materials" style="max-width:100%; margin-bottom:1.5em;">
 
 <div style="display:flex; flex-wrap:wrap; gap:2em; margin-bottom:1.5em;">
 
