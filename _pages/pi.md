@@ -50,15 +50,6 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 
 <hr>
 
-## Editor &amp; reviewer activities
-
-* **Scientific Editor**, Results in Engineering Journal (Elsevier) — 2026 -
-* **Early Career Advisory Board member**, Minerals Engineering (Elsevier) — 2026 -
-* **Early Career Advisory Board member**, Control Engineering Practice (IFAC, Elsevier) — 2025 -
-* Reviewed 20+ technical and conference papers, including for Minerals Engineering, Control Engineering Practice, Journal of Process Control, IFAC, International Journal of Mining Science and Technology, Scientific Reports (Nature Portfolio), and Industrial & Engineering Chemistry Research.
-
-<hr>
-
 ## Awards &amp; recognitions
 
 * **Malcolm McIvor Prize**, Centre for Process Analytics and Control Technology (CPACT) — 2025
@@ -74,20 +65,6 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 
 <hr>
 
-## Research funding
-
-* **YERUN Research Mobility Award**, Young European Research Universities Network — 2025. Collaboration with University of Southern Denmark on biological conversion (biogas) and pyrolysis.
-* **Brunel Research Initiative and Enterprise Fund Award**, Brunel University of London — 2024. Seed grant for experimentally-validated modelling and control for direct air capture.
-* **Modalidad de Estadías Cortas de Investigación**, Universidad Técnica Federico Santa María — 2024. 2-month research visit to Chile.
-* **Imperial College Research Fellowship (ICRF)**, Imperial College London — 2024. *Declined following acceptance of a lectureship at Brunel University of London.*
-* **IOM3 Grants to Support Knowledge Exchange**, Institute of Materials, Minerals and Mining — 2023
-* **SCI Messel Scholarship**, Society of Chemical Industry — 2020
-* **Mining Club Award**, Institute of Materials, Minerals and Mining — 2020
-* **Imperial College Trust Bursary**, Imperial College London — 2019
-* **IOM3 Travel Bursary**, Institute of Materials, Minerals and Mining — 2019
-
-<hr>
-
 ## Teaching experience
 
 * **Module leader, Mining and Mineral Processing**, Department of Chemical Engineering, UCL — Oct 2025 -
@@ -97,43 +74,6 @@ Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled
 * **Guest Lecturer, Process Control and Applied Statistics**, Universidad Técnica Federico Santa María — Mar 2018 – Aug 2018
 
 **Teaching assistant** — over 300 hours of student assistance, including Graduate Teaching Assistant at Imperial College London (Feb 2019 – Oct 2022, incl. GTA Coordinator) and Undergraduate Teaching Assistant at Universidad Técnica Federico Santa María (Mar 2012 – Jun 2016).
-
-<hr>
-
-## Student supervision
-
-* Co-supervisor of three MSc projects, Universidad Técnica Federico Santa María — Dec 2024 - (José Miranda, Francisco Zúñiga, Agustín Fuenzalida)
-* Co-supervisor, MSc in Advanced Chemical Engineering with PSE, Imperial College London — Nov 2024 – Sept 2025 (Rasa Pourjam)
-* Co-supervisor, MEng project, Imperial College London — Jan 2024 – Jun 2025 (Yicong Wang)
-* Co-supervisor, MSc project, Universidad Técnica Federico Santa María — Mar 2024 – Jan 2025 (Benjamín Olivares)
-* External assessor of 6 MSc projects, Imperial College London — Sept 2024
-* Co-supervisor, MSc in Advanced Chemical Engineering with PSE, Imperial College London — Oct 2023 – Sept 2024 (Victor Dehon)
-* Co-supervisor of two MSc theses, Universidad Técnica Federico Santa María — Mar 2023 – Feb 2024 (Cristóbal Mancilla, Benjamín Araya)
-* Co-supervisor, MSc project, Universidad Técnica Federico Santa María — Mar 2023 – Apr 2024 (Felipe Moreno)
-* Co-supervisor, MSc in Applied Computational Science, Imperial College London — Oct 2022 – Sept 2023 (Peng Zhang, Bubble Analyser)
-* External viva assessor, Centre for Environmental Policy, Imperial College London — June 2023
-* Co-supervisor of two final-year BEng theses, Universidad Técnica Federico Santa María — Mar 2018 – Aug 2018 (Félix González, Javier Barros)
-
-<hr>
-
-## Public engagement and outreach
-
-* STEM week for Y9–Y13 at West London High Schools, Brunel University of London — Nov 2024
-* Speaker, International Day of Women and Girls in Science — Nov 2023
-* Panellist, Women in Process Systems Engineering – Breaking Barriers, Sargent Centre — June 2023
-* Speaker, Inspiring Chemical Engineering – How to stand out, IChemE — Feb 2023
-* STEM for Britain finalist 2022 (Engineering category), Houses of Parliament — March 2022
-* Volunteer, Exhibition Road Imperial Festival, Imperial College London — 2019
-
-<hr>
-
-## Learned society memberships
-
-* Senior Member, International Association for Carbon Capture — Sept 2024 -
-* Member, Institute of Materials, Minerals and Mining (IOM3) — Apr 2023 -
-* Member, American Institute of Chemical Engineers — 2023
-* Affiliate Member, Institution of Chemical Engineers (IChemE) — Jan 2021 -
-* Scholar, Society of Chemical Industry — 2020 - 2022
 
 <hr>
 
