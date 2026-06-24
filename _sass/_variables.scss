@@ -47,24 +47,25 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #fefefe;
+$gray                       : #f7f5f2;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fefefe;
-$background-color           : #fefefe;
+$body-color                 : #faf8f5;
+$background-color           : #faf8f5;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
-$text-color                 : #3f5b68;
-$border-color               : #fefefe; // mix(#fff, $background-color, 20%);
+$text-color                 : #2e2a45;
+$border-color               : #e6e1da;
 
-$primary-color              : #D2B48C; // #dc8282;
+$primary-color              : #3d3270; // elegant dark purple/blue
+$accent-color                : #c97a3d; // warm burnt-orange accent for hovers/highlights
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #2c7e99;
+$info-color                 : #3d3270;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -94,7 +95,7 @@ $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : $accent-color;
 
 // $link-color                 : mix(#000, $info-color, 15%) !default;
 // $link-color-hover           : mix(#000, $link-color, 25%) !default;
