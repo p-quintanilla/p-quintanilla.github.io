@@ -26,9 +26,8 @@ We work across three connected research areas, using machine learning, dynamic m
       <li>AI-assisted model discovery</li>
     </ul>
   </div>
-  <div style="flex:0 0 320px;">
-    <!-- TODO: add a figure summarising Machine Learning & AI research, e.g. images/research/ml-ai.png -->
-    <img src="/images/research/ml-ai.png" alt="Machine Learning & AI research summary" style="width:100%; border-radius:8px;">
+  <div style="flex:0 0 480px;">
+    <img src="/images/topic_1.png" alt="Machine Learning & AI research summary" style="width:100%; border-radius:8px;">
   </div>
 </div>
 
@@ -53,9 +52,8 @@ We work across three connected research areas, using machine learning, dynamic m
       <li>Autonomous process operation</li>
     </ul>
   </div>
-  <div style="flex:0 0 320px;">
-    <!-- TODO: add a figure summarising Optimisation & Control research, e.g. images/research/optimisation-control.png -->
-    <img src="/images/research/optimisation-control.png" alt="Optimisation & Control research summary" style="width:100%; border-radius:8px;">
+  <div style="flex:0 0 480px;">
+    <img src="/images/topic_2.png" alt="Optimisation & Control research summary" style="width:100%; border-radius:8px;">
   </div>
 </div>
 
@@ -80,9 +78,8 @@ We work across three connected research areas, using machine learning, dynamic m
       <li>Sustainable materials and technologies</li>
     </ul>
   </div>
-  <div style="flex:0 0 320px;">
-    <!-- TODO: add a figure summarising AI for Science & Materials Discovery research, e.g. images/research/ai-science.png -->
-    <img src="/images/research/ai-science.png" alt="AI for Science & Materials Discovery research summary" style="width:100%; border-radius:8px;">
+  <div style="flex:0 0 480px;">
+    <img src="/images/topic_3.png" alt="AI for Science & Materials Discovery research summary" style="width:100%; border-radius:8px;">
   </div>
 </div>
 
