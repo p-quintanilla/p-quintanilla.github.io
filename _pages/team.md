@@ -5,8 +5,6 @@ author_profile: false
 
 ![](/_pages/Team.png)
 
-<p>We are the <strong>LOOPS</strong> research group — <strong>L</strong>earning &amp; <strong>O</strong>nline <strong>O</strong>ptimization for <strong>P</strong>rocesses and <strong>S</strong>ystems — based in the Department of Chemical Engineering at UCL, and part of the <a href="https://www.imperial.ac.uk/process-systems-engineering/">Sargent Centre for Process Systems Engineering</a>. We develop machine learning, optimisation and control methods for processes and systems with a sustainability focus.</p>
-
 <hr>
 
 <h2>Principal Investigator</h2>
