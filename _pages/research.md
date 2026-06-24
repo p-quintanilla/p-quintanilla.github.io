@@ -4,6 +4,8 @@ permalink: /research/
 author_profile: false
 ---
 
+![](/_pages/8.png)
+
 We work across three connected research areas, using machine learning, dynamic modelling, optimisation and control to tackle problems in processes and physical systems.
 
 <hr>
