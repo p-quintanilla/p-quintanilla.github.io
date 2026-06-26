@@ -43,7 +43,7 @@ redirect_from:
     <p style="margin:0 0 0.5em;">We are looking for outstanding postdoctoral researchers interested in applying for the <strong>MSCA Postdoctoral Fellowship</strong> (deadline: <strong>9 September 2026</strong>) to join us at UCL Department of Chemical Engineering.</p>
     <p style="margin:0 0 0.5em;">If your research interests align with our areas and you are considering applying for an MSCA Fellowship, I'd be happy to discuss potential project ideas and support a competitive application.</p>
     <p style="margin:0 0 0.5em;">Please get in touch by email with your CV if you are interested: <a href="mailto:p.quintanilla@ucl.ac.uk">p.quintanilla@ucl.ac.uk</a></p>
-    <p style="margin:0;">If you are interested in joining or working with our group more generally, please visit our <a href="/team/">Team page</a> or email <a href="mailto:p.quintanilla@ucl.ac.uk">p.quintanilla@ucl.ac.uk</a>. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).</p>
+    <p style="margin:0;">If you are interested in joining or working with our group more generally, please email <a href="mailto:p.quintanilla@ucl.ac.uk">p.quintanilla@ucl.ac.uk</a>. It would be helpful if you could attach your CV, links to your LinkedIn or Google Scholar profiles (if you have them).</p>
   </div>
 </div>
 
