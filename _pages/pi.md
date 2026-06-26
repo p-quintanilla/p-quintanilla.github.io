@@ -28,11 +28,11 @@ title: "Dr Paulina Quintanilla"
 
 ## Qualifications
 
-**PhD in Earth Science and Engineering** — Feb 2023<br>
+**PhD in Earth Science and Engineering** — 2023<br>
 Department of Earth Science and Engineering, Imperial College London<br>
 Thesis: *Dynamic physics-based flotation models for effective predictive control*
 
-**MEng and MSc in Chemical Engineering** — Jan 2017<br>
+**MEng and MSc in Chemical Engineering** — 2017<br>
 Department of Chemical Engineering, Universidad Técnica Federico Santa María, Valparaíso, Chile<br>
 Thesis: *Analysis of the effect of pressure and porosity on diffusion-controlled leaching*
 
