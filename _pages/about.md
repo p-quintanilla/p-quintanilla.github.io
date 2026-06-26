@@ -13,7 +13,20 @@ redirect_from:
 
 <p style="font-size:1.2em; color:#666; margin-top:0; text-align:center;"><strong>L</strong>earning &amp; <strong>O</strong>nline <strong>O</strong>ptimization for <strong>P</strong>rocesses and <strong>S</strong>ystems</p>
 
-<img src="/images/ucl-building.jpg" alt="UCL" style="width:100%; max-height:380px; object-fit:cover; border-radius:8px; margin-bottom:1.5em;">
+<div style="margin-bottom:1.5em;">
+
+  <div style="display:flex; flex-wrap:wrap; gap:1em; align-items:flex-start; padding:1.25em 1.5em; border:1px solid #ece8e2; border-left:4px solid #c97a3d; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.06); background:#fffaf5;">
+    <div style="flex:0 0 auto; font-weight:bold; color:#c97a3d; text-transform:uppercase; font-size:0.85em; letter-spacing:0.04em; padding-top:0.2em;">News</div>
+    <div style="flex:1; min-width:240px;">
+      <p style="margin:0 0 0.5em;">We are looking for outstanding postdoctoral researchers interested in applying for the <strong>MSCA Postdoctoral Fellowship</strong> (deadline: <strong>9 September 2026</strong>) to join us at UCL Department of Chemical Engineering.</p>
+      <p style="margin:0 0 0.5em;">If your research interests align with our areas and you are considering applying for an MSCA Fellowship, I'd be happy to discuss potential project ideas and support a competitive application.</p>
+      <p style="margin:0;">Please get in touch by email with your CV if you are interested: <a href="mailto:p.quintanilla@ucl.ac.uk">p.quintanilla@ucl.ac.uk</a></p>
+    </div>
+  </div>
+
+</div>
+
+<img src="/images/ucl-building.jpg" alt="UCL" style="width:100%; height:clamp(220px, 36vw, 480px); object-fit:cover; object-position:center; border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.12); margin-bottom:1.5em;">
 
 <p>We are the LOOPS research group — Learning & Online Optimization for Processes and Systems — based in the Department of Chemical Engineering at <a href="https://www.ucl.ac.uk">UCL</a>, and part of the  <a href="https://www.imperial.ac.uk/process-systems-engineering/">Sargent Centre for Process Systems Engineering</a>. We develop machine learning, optimisation and control methods for processes and systems with a sustainability focus.
 
