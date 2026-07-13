@@ -102,8 +102,8 @@ sections:
       offset: 0
       order: desc
     design:
-      view: card
-      columns: '1'
+      view: compact
+      columns: '2'
 
   - block: collection
     content:
