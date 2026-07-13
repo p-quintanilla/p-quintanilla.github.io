@@ -6,6 +6,8 @@ role: Research Assistant
 organizations:
   - name: Imperial College London
     url: 'https://www.imperial.ac.uk'
+  - name: Hierarchical MPC–reinforcement learning for battery systems
+    url: ''
 bio: Research Assistant in Process Systems Engineering at Imperial College London.
 social: []
 user_groups:
