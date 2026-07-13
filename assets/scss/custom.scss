@@ -1,9 +1,9 @@
-/* Import Montserrat from Google Fonts (closest to Futura) */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+/* Import Jost — geometric sans-serif, very close to Futura */
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700;800&display=swap');
 
-/* Apply Montserrat site-wide */
+/* Apply Jost site-wide */
 body, .navbar, h1, h2, h3, h4, h5, h6, p, a, li, td, th, .btn {
-  font-family: 'Montserrat', sans-serif !important;
+  font-family: 'Jost', sans-serif !important;
 }
 
 /* Bold, larger navbar links */

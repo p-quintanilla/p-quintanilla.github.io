@@ -28,17 +28,20 @@ sections:
       show_role: true
       show_social: false
 
-  - block: people
+  - block: markdown
     content:
       title: Alumni
-      user_groups:
-        - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
+      text: |
+        | Name | Role | Institution |
+        |------|------|-------------|
+        | Yicong Wang | PhD student | University of Cambridge |
+        | Kofo Awodun | PhD student | Brunel University of London |
+        | Victor Dehon | Former MSc student | Imperial College London |
+        | Billy Davies | Research Associate | Brunel University of London |
+        | Benjamin Olivares | Former MSc student | Universidad Técnica Federico Santa María |
+        | Benjamin Araya | Former MSc student | Universidad Técnica Federico Santa María |
     design:
-      show_interests: false
-      show_role: true
-      show_social: false
+      columns: '1'
 
   - block: markdown
     content:
