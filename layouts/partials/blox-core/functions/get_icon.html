@@ -1,0 +1,4 @@
+{{/* Override: use icon_arrow.png as the site favicon */}}
+{{ $icon := resources.GetMatch "media/icon_arrow.png" }}
+{{ $icon_resized := $icon.Fill (printf "%sx%s Center" (string .) (string .)) }}
+{{ return $icon_resized }}
