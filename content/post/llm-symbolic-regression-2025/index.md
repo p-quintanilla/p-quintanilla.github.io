@@ -1,7 +1,7 @@
 ---
-title: "LLM-guided symbolic regression for kinetic model discovery"
+title: "Talk at the 9th Machine Learning and AI in (Bio)Chemical Engineering Conference, Cambridge"
 date: 2026-07-09
-summary: "Can Large Language Models accelerate scientific model discovery? We presented our latest work on LLM-guided symbolic regression at the 9th Machine Learning and AI in (Bio)Chemical Engineering Conference in Cambridge."
+summary: "Paulina presented our work on LLM-guided symbolic regression for kinetic model discovery at the 9th ML and AI in (Bio)Chemical Engineering Conference in Cambridge."
 tags: ["conference", "AI for Science", "symbolic regression", "LLMs"]
 ---
 
