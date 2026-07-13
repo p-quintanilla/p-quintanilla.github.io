@@ -4,6 +4,6 @@ date: 2023-02-10
 authors: ["Quintanilla P", "Navia D", "Moreno F", "Neethling SJ", "Brito-Parada PR"]
 publication: "*MethodsX*"
 publication_types: ['article-journal']
-url_pdf: ''
+url_pdf: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC9988547/'
 url_source: 'https://www.sciencedirect.com/science/article/pii/S2215016123000845'
 ---

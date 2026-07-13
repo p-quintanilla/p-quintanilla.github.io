@@ -4,6 +4,6 @@ date: 2023-11-22
 authors: ["Quintanilla P", "Navia D", "Neethling SJ", "Brito-Parada PR"]
 publication: "*IFAC-PapersOnLine*"
 publication_types: ['article-journal']
-url_pdf: ''
+url_pdf: 'https://bura.brunel.ac.uk/handle/2438/28886'
 url_source: 'https://www.sciencedirect.com/science/article/pii/S240589632301604X'
 ---

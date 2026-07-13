@@ -4,6 +4,6 @@ date: 2024-05-07
 authors: ["González RA", "Quintanilla P"]
 publication: "*IEEE CoDIT 2024*"
 publication_types: ['article-journal']
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2405.04275'
 url_source: 'https://ieeexplore.ieee.org/document/10708161'
 ---
