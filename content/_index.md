@@ -92,6 +92,21 @@ sections:
 
   - block: collection
     content:
+      title: Latest News
+      subtitle: ''
+      text: ''
+      count: 3
+      filters:
+        folders:
+          - post
+      offset: 0
+      order: desc
+    design:
+      view: card
+      columns: '1'
+
+  - block: collection
+    content:
       title: Latest Publications
       text: ''
       count: 5
