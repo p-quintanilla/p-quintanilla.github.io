@@ -9,9 +9,9 @@ sections:
       slides:
         - title: ''
           content: |
-            <img src="/media/logo_orange.png" alt="LOOPS" style="max-width:420px;width:80%;height:auto;margin:0 auto 1rem;display:block;filter:drop-shadow(0 4px 20px rgba(0,0,0,0.5));">
-            <p style="font-size:clamp(1rem,2.2vw,1.4rem);opacity:0.9;margin:0;">Learning and Optimization Of Process Systems</p>
-            <p style="font-size:clamp(0.85rem,1.5vw,1.05rem);opacity:0.7;margin:0.4rem 0 0;">UCL Department of Chemical Engineering</p>
+            <img src="/media/logo_orange.png" alt="LOOPS" style="max-width:460px;width:80%;height:auto;margin:0 auto 1.2rem;display:block;filter:drop-shadow(0 4px 24px rgba(0,0,0,0.6));">
+            <p style="font-size:clamp(1.3rem,3vw,2rem);color:#ffffff;font-weight:600;margin:0 0 0.4rem;text-shadow:0 2px 12px rgba(0,0,0,0.6);">Learning and Optimization Of Process Systems</p>
+            <p style="font-size:clamp(1rem,2vw,1.4rem);color:#ffffff;font-weight:400;margin:0;text-shadow:0 2px 8px rgba(0,0,0,0.5);">UCL Department of Chemical Engineering</p>
           align: center
           background:
             image:

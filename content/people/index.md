@@ -32,14 +32,45 @@ sections:
     content:
       title: Alumni
       text: |
-        | Name | Role | Institution |
-        |------|------|-------------|
-        | Yicong Wang | PhD student | University of Cambridge |
-        | Kofo Awodun | PhD student | Brunel University of London |
-        | Victor Dehon | Former MSc student | Imperial College London |
-        | Billy Davies | Research Associate | Brunel University of London |
-        | Benjamin Olivares | Former MSc student | Universidad Técnica Federico Santa María |
-        | Benjamin Araya | Former MSc student | Universidad Técnica Federico Santa María |
+        <div style="display:flex;flex-wrap:wrap;gap:1.5em;margin-top:1em;">
+
+          <div style="text-align:center;width:150px;">
+            <img src="/media/avatar-yicong.jpeg" style="width:110px;height:110px;object-fit:cover;border-radius:50%;margin-bottom:0.5em;">
+            <p style="margin:0;font-weight:600;">Yicong Wang</p>
+            <p style="margin:0;font-size:0.85em;color:#666;">PhD student<br>University of Cambridge</p>
+          </div>
+
+          <div style="text-align:center;width:150px;">
+            <img src="/media/avatar-kofo.jpg" style="width:110px;height:110px;object-fit:cover;border-radius:50%;margin-bottom:0.5em;">
+            <p style="margin:0;font-weight:600;">Kofo Awodun</p>
+            <p style="margin:0;font-size:0.85em;color:#666;">PhD student<br>Brunel University of London</p>
+          </div>
+
+          <div style="text-align:center;width:150px;">
+            <img src="/media/avatar-victor.jpeg" style="width:110px;height:110px;object-fit:cover;border-radius:50%;margin-bottom:0.5em;">
+            <p style="margin:0;font-weight:600;">Victor Dehon</p>
+            <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>Imperial College London</p>
+          </div>
+
+          <div style="text-align:center;width:150px;">
+            <img src="/media/avatar-billy.jpg" style="width:110px;height:110px;object-fit:cover;border-radius:50%;margin-bottom:0.5em;">
+            <p style="margin:0;font-weight:600;">Billy Davies</p>
+            <p style="margin:0;font-size:0.85em;color:#666;">Research Associate<br>Brunel University of London</p>
+          </div>
+
+          <div style="text-align:center;width:150px;">
+            <img src="/media/avatar-benjamin-o.jpeg" style="width:110px;height:110px;object-fit:cover;border-radius:50%;margin-bottom:0.5em;">
+            <p style="margin:0;font-weight:600;">Benjamin Olivares</p>
+            <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>Univ. Técnica Federico Santa María</p>
+          </div>
+
+          <div style="text-align:center;width:150px;">
+            <img src="/media/avatar-benjamin-a.jpeg" style="width:110px;height:110px;object-fit:cover;border-radius:50%;margin-bottom:0.5em;">
+            <p style="margin:0;font-weight:600;">Benjamin Araya</p>
+            <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>Univ. Técnica Federico Santa María</p>
+          </div>
+
+        </div>
     design:
       columns: '1'
 
