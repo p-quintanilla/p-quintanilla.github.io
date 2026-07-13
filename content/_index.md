@@ -69,9 +69,9 @@ sections:
       title: Our Research
       subtitle: ''
       text: |
-        <div style="display:flex; flex-wrap:wrap; gap:2.5em; align-items:flex-start;">
+        <div style="display:flex; flex-wrap:wrap; gap:2.5em; align-items:center;">
           <div style="flex:3; min-width:260px;">
-            <p>We are the <strong>LOOPS research group</strong> — Learning and Optimisation Of Process Systems — based in the Department of Chemical Engineering at <a href="https://www.ucl.ac.uk">UCL</a>, and part of the <a href="https://www.imperial.ac.uk/process-systems-engineering/">Sargent Centre for Process Systems Engineering</a>. We develop machine learning, optimisation and control methods for processes and systems with a sustainability focus.</p>
+            <p>We are the <strong>LOOPS research group</strong> — Learning and Optimisation Of Process Systems — based in the Department of Chemical Engineering at <a href="https://www.ucl.ac.uk">UCL</a>, and part of the <a href="https://www.imperial.ac.uk/process-systems-engineering/">Sargent Centre for Process Systems Engineering</a>. We develop machine learning, optimisation and control methods for processes and physical systems. Current projects include hierarchical MPC–RL control, LLM-guided symbolic regression, physics-based modelling for froth flotation control, and more.</p>
           </div>
           <div style="flex:1; min-width:180px; max-width:220px; text-align:center;">
             <a href="/author/paulina-quintanilla/">
