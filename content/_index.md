@@ -70,19 +70,23 @@ sections:
       subtitle: ''
       text: |
         <div style="display:flex; flex-wrap:wrap; gap:2.5em; align-items:center;">
-          <div style="flex:1; min-width:180px; max-width:220px; text-align:center;">
-            <a href="/author/paulina-quintanilla/">
-              <img src="/media/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:140px;height:140px;object-fit:cover;border-radius:50%;margin-bottom:0.6em;box-shadow:0 4px 12px rgba(0,0,0,0.15);">
-            </a>
-            <p style="margin:0 0 0.2em;font-weight:700;"><a href="/author/paulina-quintanilla/">Dr Paulina Quintanilla</a></p>
-            <p style="margin:0 0 0.6em;font-size:0.88em;color:#666;">Principal Investigator<br>UCL Chemical Engineering</p>
-            <p style="font-size:1.2em;margin:0;line-height:2;">
-              <a href="mailto:p.quintanilla@ucl.ac.uk" title="Email"><i class="fas fa-envelope"></i></a>&nbsp;
-              <a href="https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about" target="_blank" title="UCL Profile"><i class="fas fa-university"></i></a>&nbsp;
-              <a href="https://www.linkedin.com/in/paulinaquintanilla" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>&nbsp;
-              <a href="https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
-              <a href="https://orcid.org/0000-0002-7717-0556" target="_blank" title="ORCID"><i class="ai ai-orcid"></i></a>
-            </p>
+          <div style="flex:1; min-width:220px; max-width:280px;">
+            <div style="display:flex; align-items:center; gap:1em;">
+              <a href="/author/paulina-quintanilla/" style="flex-shrink:0;">
+                <img src="/media/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:90px;height:90px;object-fit:cover;border-radius:50%;box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+              </a>
+              <div>
+                <p style="margin:0 0 0.15em;font-weight:700;"><a href="/author/paulina-quintanilla/">Dr Paulina Quintanilla</a></p>
+                <p style="margin:0 0 0.5em;font-size:0.85em;color:#666;">Principal Investigator<br>UCL Chemical Engineering</p>
+                <p style="font-size:1.1em;margin:0;line-height:2;">
+                  <a href="mailto:p.quintanilla@ucl.ac.uk" title="Email"><i class="fas fa-envelope"></i></a>&nbsp;
+                  <a href="https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about" target="_blank" title="UCL Profile"><i class="fas fa-university"></i></a>&nbsp;
+                  <a href="https://www.linkedin.com/in/paulinaquintanilla" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>&nbsp;
+                  <a href="https://scholar.google.com/citations?user=1dp-SB4AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>&nbsp;
+                  <a href="https://orcid.org/0000-0002-7717-0556" target="_blank" title="ORCID"><i class="ai ai-orcid"></i></a>
+                </p>
+              </div>
+            </div>
           </div>
           <div style="flex:3; min-width:260px;">
             <p>We are the <strong>LOOPS research group</strong> — Learning and Optimisation Of Process Systems — based in the Department of Chemical Engineering at <a href="https://www.ucl.ac.uk">UCL</a>, and part of the <a href="https://www.imperial.ac.uk/process-systems-engineering/">Sargent Centre for Process Systems Engineering</a>. We develop machine learning, optimisation and control methods for processes and physical systems. Current projects include hierarchical MPC–RL control, LLM-guided symbolic regression, physics-based modelling for froth flotation control, stochastic MPC, and more.</p>
