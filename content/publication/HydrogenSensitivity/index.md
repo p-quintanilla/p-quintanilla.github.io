@@ -1,7 +1,7 @@
 ---
 title: "Global sensitivity analysis of blue hydrogen production: A comparative study using machine learning"
 date: 2025-09-01
-authors: ["paulina-quintanilla"]
+authors: ["Davis W", "Quintanilla P", "Yang Y", "Masoudi-Soltani S"]
 publication: "*International Journal of Hydrogen Energy*"
 publication_types: ['article-journal']
 url_pdf: ''

@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of Changes in Feed Particle Size within an Economic Model Predictive Control Strategy for Froth Flotation"
 date: 2023-11-22
-authors: ["paulina-quintanilla"]
+authors: ["Quintanilla P", "Navia D", "Neethling SJ", "Brito-Parada PR"]
 publication: "*IFAC-PapersOnLine*"
 publication_types: ['article-journal']
 url_pdf: ''

@@ -1,7 +1,7 @@
 ---
 title: "Economic model predictive control for a rougher froth flotation cell using physics-based models"
 date: 2023-03-12
-authors: ["paulina-quintanilla"]
+authors: ["Quintanilla P", "Navia D", "Neethling SJ", "Brito-Parada PR"]
 publication: "*Minerals Engineering*"
 publication_types: ['article-journal']
 url_pdf: ''

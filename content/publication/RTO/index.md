@@ -1,7 +1,7 @@
 ---
 title: "On dealing with measured disturbances in the modifier adaptation method for real-time optimization"
 date: 2019-09-02
-authors: ["paulina-quintanilla"]
+authors: ["Navia D", "Puen A", "Quintanilla P", "Briceño L", "Bergh L"]
 publication: "*Computers & Chemical Engineering*"
 publication_types: ['article-journal']
 url_pdf: ''

@@ -1,7 +1,7 @@
 ---
 title: "Grey-box Recursive Parameter Identification of a Nonlinear Dynamic Model for Mineral Flotation"
 date: 2024-05-07
-authors: ["paulina-quintanilla"]
+authors: ["González RA", "Quintanilla P"]
 publication: "*IEEE CoDIT 2024*"
 publication_types: ['article-journal']
 url_pdf: ''

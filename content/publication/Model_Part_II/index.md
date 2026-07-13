@@ -1,7 +1,7 @@
 ---
 title: "A dynamic flotation model for predictive control incorporating froth physics. Part II: Model calibration and validation"
 date: 2021-11-01
-authors: ["paulina-quintanilla"]
+authors: ["Quintanilla P", "Neethling SJ", "Mesa D", "Navia D", "Brito-Parada PR"]
 publication: "*Minerals Engineering*"
 publication_types: ['article-journal']
 url_pdf: ''

@@ -1,7 +1,7 @@
 ---
 title: "Probabilistic model predictive control for mineral flotation using Gaussian processes"
 date: 2025-06-01
-authors: ["paulina-quintanilla"]
+authors: ["Dehon V", "Del Rio Chanona A", "Quintanilla P"]
 publication: "*European Symposium on Computer-Aided Process Engineering (ESCAPE-35)*"
 publication_types: ['article-journal']
 url_pdf: ''

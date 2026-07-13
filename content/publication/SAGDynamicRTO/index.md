@@ -1,7 +1,7 @@
 ---
 title: "Dynamic real-time optimization to mitigate critical state effects in expert-controlled SAG mills"
 date: 2025-08-01
-authors: ["paulina-quintanilla"]
+authors: ["Mancilla C", "Bruna R", "Quintanilla P", "Navia D"]
 publication: "*Control Engineering Practice*"
 publication_types: ['article-journal']
 url_pdf: ''

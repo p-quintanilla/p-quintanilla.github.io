@@ -1,7 +1,7 @@
 ---
 title: "Saturation regulation in heap leaching: A nonlinear model predictive control approach"
 date: 2025-08-15
-authors: ["paulina-quintanilla"]
+authors: ["Olivares B", "Araya B", "Quintanilla P", "Navia D"]
 publication: "*Minerals Engineering*"
 publication_types: ['article-journal']
 url_pdf: ''

@@ -1,7 +1,7 @@
 ---
 title: "Bubble Analyser — An open-source software for bubble size measurement using image analysis"
 date: 2022-03-07
-authors: ["paulina-quintanilla"]
+authors: ["Mesa D", "Quintanilla P", "Reyes F"]
 publication: "*Minerals Engineering*"
 publication_types: ['article-journal']
 url_pdf: ''
