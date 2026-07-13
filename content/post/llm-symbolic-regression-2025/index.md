@@ -1,6 +1,6 @@
 ---
 title: "LLM-guided symbolic regression for kinetic model discovery"
-date: 2025-03-01
+date: 2026-07-09
 summary: "Can Large Language Models accelerate scientific model discovery? We presented our latest work on LLM-guided symbolic regression at the 9th Machine Learning and AI in (Bio)Chemical Engineering Conference in Cambridge."
 tags: ["conference", "AI for Science", "symbolic regression", "LLMs"]
 ---
@@ -20,4 +20,4 @@ I presented this (ongoing) work at the 9th Machine Learning and AI in (Bio)Chemi
 
 Huge kudos to our brilliant Roberto Aliaga Medina, who has done all of this while still finishing his MSc in Chile and working with us in parallel!
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7480957345636909058" height="1321" width="504" frameborder="0" allowfullscreen="" title="Embedded post" style="max-width:100%;border-radius:8px;"></iframe>
+🔗 [View full post on LinkedIn](https://www.linkedin.com/posts/paulinaquintanilla_aiforscience-largelanguagemodels-scientificmachinelearning-ugcPost-7480957345636909058-PHJ7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABVxaAABUyjSi_mbKwqgIF2F8ffBOna0wIA)
