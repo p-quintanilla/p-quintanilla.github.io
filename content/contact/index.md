@@ -11,8 +11,7 @@ sections:
         **Dr Paulina Quintanilla**  
         Assistant Professor in Process Systems Engineering  
         Department of Chemical Engineering  
-        University College London (UCL)  
-        Torrington Place, London WC1E 7JE, UK
+        University College London (UCL)
 
         📧 [p.quintanilla@ucl.ac.uk](mailto:p.quintanilla@ucl.ac.uk)  
         🌐 [UCL Profile](https://profiles.ucl.ac.uk/103850-paulina-quintanilla/about)
