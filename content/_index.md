@@ -47,10 +47,10 @@ sections:
           align: center
           background:
             image:
-              filename: ucl-building.jpg
+              filename: ucl-join.jpg
               filters:
-                brightness: 0.3
-            position: top
+                brightness: 0.4
+            position: center
             color: '#1a1030'
           link:
             icon: envelope
