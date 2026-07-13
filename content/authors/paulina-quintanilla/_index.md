@@ -27,10 +27,8 @@ education:
   courses:
     - course: PhD in Earth Science and Engineering
       institution: Imperial College London
-      year: 2023
     - course: MEng & MSc in Chemical Engineering
       institution: Universidad Técnica Federico Santa María, Chile
-      year: 2017
 
 social:
   - icon: envelope
@@ -69,3 +67,11 @@ Paulina is an Assistant Professor (UK Lecturer) in Process Systems Engineering i
 - 1st Place Best Poster Award, Society of Chemical Industry — 2022
 - SCI Scholar 2020, Society of Chemical Industry — 2020
 - Award to the Best Chemical Engineering Graduate, Nacional Engineering College, Chile — 2017
+
+**Teaching**
+
+- Module leader, Mining and Mineral Processing, UCL — Oct 2025–present
+- Module leader, Fluid Mechanics, Brunel University of London — Oct 2024–Jul 2025
+- Module leader, Process Systems Engineering, Brunel University of London — Jan 2024–Jul 2025
+- Guest Lecturer, Mining Geology and Engineering, Imperial College London — Dec 2022
+- Guest Lecturer, Process Control and Applied Statistics, Universidad Técnica Federico Santa María — Mar 2018–Aug 2018

@@ -1,0 +1,26 @@
+/* Import Montserrat from Google Fonts (closest to Futura) */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+
+/* Apply Montserrat site-wide */
+body, .navbar, h1, h2, h3, h4, h5, h6, p, a, li, td, th, .btn {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+/* Bold, larger navbar links */
+.navbar-nav .nav-link {
+  font-weight: 700 !important;
+  font-size: 1.05rem !important;
+  letter-spacing: 0.03em !important;
+}
+
+/* Slightly larger navbar brand */
+.navbar-brand {
+  font-weight: 800 !important;
+  font-size: 1.2rem !important;
+}
+
+/* Logo height in navbar */
+.navbar-brand img {
+  height: 44px !important;
+  width: auto !important;
+}
