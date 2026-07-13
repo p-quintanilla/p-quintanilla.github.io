@@ -5,6 +5,6 @@ summary: "We are excited to launch the official website of the LOOPS research gr
 tags: ["group"]
 ---
 
-Welcome to the LOOPS group website! We are the **Learning and Optimization Of Process Systems** research group, based in the Department of Chemical Engineering at University College London.
+Welcome to the LOOPS group website! We are the **Learning and Optimisation Of Process Systems** research group, based in the Department of Chemical Engineering at University College London.
 
 Stay tuned for news on publications, team updates, and opportunities to join us.
