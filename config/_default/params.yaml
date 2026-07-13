@@ -1,25 +1,16 @@
-# SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
-
 appearance:
   theme_day: minimal
   theme_night:
   font: native
   font_size: L
 
-# SEO
-
 marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'LOOPS Research Group'
+    description: 'Learning and Optimization Of Process Systems — UCL Department of Chemical Engineering'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -29,50 +20,38 @@ marketing:
     google: ''
     baidu: ''
 
-# Site header
-
 header:
   navbar:
     enable: true
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
-    highlight_active_link: false
-
-# Site footer
+    highlight_active_link: true
+    logo:
+      filename: logo_purple.png
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} LOOPS Research Group, UCL Department of Chemical Engineering'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-# Localization
+      enable: false
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 2006'
   time_format: '3:04 PM'
-  address_format: en-us
-
-# Site features
+  address_format: en-gb
 
 features:
   syntax_highlighter:
     enable: false
-    extra_languages:
-      - r
-      - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/p-quintanilla/p-quintanilla.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -80,29 +59,12 @@ features:
     shape: circle
   comment:
     provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
   search:
     provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
-
-# Extensions
 
 extensions:
   decap_cms:
@@ -110,8 +72,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-
-# Citation style
 
 publications:
   date_format: January 2006

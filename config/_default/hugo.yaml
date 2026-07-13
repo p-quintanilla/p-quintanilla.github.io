@@ -1,23 +1,10 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
-
-############################
-## LANGUAGE
-############################
+title: LOOPS Research Group
+baseURL: 'https://p-quintanilla.github.io/'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-############################
-## ADVANCED
-############################
 
 enableGitInfo: false
 summaryLength: 30
@@ -38,7 +25,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 80
   anchor: smart
 timeout: 600000
 taxonomies:

@@ -1,0 +1,9 @@
+---
+title: "Stochastic data-driven NMPC for partially observable systems using Gaussian processes: a mineral flotation case study"
+date: 2025-06-01
+authors: ["paulina-quintanilla"]
+publication: "*14th IFAC Symposium on Dynamics and Control of Process Systems (DYCOPS)*"
+publication_types: ['article-journal']
+url_pdf: ''
+url_source: 'https://doi.org/10.1016/j.ifacol.2025.07.130'
+---
