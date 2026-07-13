@@ -72,7 +72,7 @@ sections:
         <div style="display:flex; flex-wrap:wrap; gap:2.5em; align-items:center;">
           <div style="flex:1; min-width:180px; max-width:220px; text-align:center;">
             <a href="/author/dr-paulina-quintanilla/">
-              <img src="/media/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:140px;height:140px;object-fit:cover;border-radius:50%;margin-bottom:0.6em;box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+              <img src="/media/paulina.jpg" alt="Dr Paulina Quintanilla" style="width:140px;height:140px;object-fit:cover;border-radius:50%;display:block;margin:0 auto 0.6em;box-shadow:0 4px 12px rgba(0,0,0,0.15);">
             </a>
             <p style="margin:0 0 0.2em;font-weight:700;"><a href="/author/dr-paulina-quintanilla/">Dr Paulina Quintanilla</a></p>
             <p style="margin:0 0 0.6em;font-size:0.88em;color:#666;">Principal Investigator<br>UCL Chemical Engineering</p>
