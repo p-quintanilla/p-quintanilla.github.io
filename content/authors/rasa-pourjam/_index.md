@@ -9,13 +9,20 @@ organizations:
   - name: Hierarchical Model Predictive Control - Reinforcement Learning for Battery Systems
     url: ''
 bio: Former Research Assistant in the LOOPS group, now Machine Learning Engineer at Solve Chemistry.
+interests:
+  - Process Control
+  - Reinforcement Learning (RL)
+  - Model Discovery
 education:
   courses:
     - course: Master's degree in Chemical Engineering
       institution: Imperial College London
     - course: Bachelor's degree in Chemical Engineering
       institution: University of Tehran
-social: []
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/rasa-pourjam/'
 user_groups:
   - Researchers
 ---
