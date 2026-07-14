@@ -2,7 +2,7 @@
 title: Roberto Aliaga
 first_name: Roberto
 last_name: Aliaga
-role: MSc student at Universidad de Chile
+role: Researcher
 organizations:
   - name: Universidad de Chile
     url: 'https://www.uchile.cl'
@@ -13,4 +13,6 @@ social: []
 user_groups:
   - Researchers
 ---
+Roberto is an MSc student at Universidad de Chile.
+
 **Project:** LLM-guided symbolic regression for kinetic discovery
