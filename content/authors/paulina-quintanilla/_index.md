@@ -81,4 +81,5 @@ Paulina is an Assistant Professor (UK Lecturer) in Process Systems Engineering i
 - 🎨 Painting
 - 💃 Dancing to Latin American music
 - ⚽ Football
+- 📚 Reading
 - ☕ Drinking coffee in quantities well beyond any safe operating limit
