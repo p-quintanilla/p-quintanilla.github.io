@@ -11,7 +11,7 @@ organizations:
 bio: Former Research Assistant in the LOOPS group, now Machine Learning Engineer at Solve Chemistry.
 education:
   courses:
-    - course: Master's degree
+    - course: Master's degree in Chemical Engineering
       institution: Imperial College London
     - course: Bachelor's degree in Chemical Engineering
       institution: University of Tehran
