@@ -5,7 +5,7 @@ last_name: Quintanilla
 
 superuser: true
 
-role: Principal Investigator
+role: Assistant Professor in Process Systems Engineering
 
 organizations:
   - name: University College London
