@@ -75,3 +75,9 @@ Paulina is an Assistant Professor (UK Lecturer) in Process Systems Engineering i
 - Module leader, Process Systems Engineering, Brunel University of London — Jan 2024–Jul 2025
 - Guest Lecturer, Mining Geology and Engineering, Imperial College London — Dec 2022
 - Guest Lecturer, Process Control and Applied Statistics, Universidad Técnica Federico Santa María — Mar 2018–Aug 2018
+
+**✨ Favourite Activities**
+
+- 🎨 Painting
+- 💃 Dancing to Latin American music
+- ☕ Drinking coffee in quantities well beyond any safe operating limit

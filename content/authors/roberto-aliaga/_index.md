@@ -11,6 +11,6 @@ organizations:
 bio: MSc student in Chemical Engineering at Universidad de Chile.
 social: []
 user_groups:
-  - Current Members
+  - MSc Students
 ---
 **Project:** LLM-guided symbolic regression for kinetic discovery

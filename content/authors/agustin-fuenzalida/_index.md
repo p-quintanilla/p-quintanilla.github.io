@@ -11,6 +11,6 @@ organizations:
 bio: MSc student in Chemical Engineering at Universidad Técnica Federico Santa María.
 social: []
 user_groups:
-  - Current Members
+  - MSc Students
 ---
 **Project:** Machine learning for froth flotation optimisation

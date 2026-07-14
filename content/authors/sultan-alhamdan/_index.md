@@ -11,6 +11,6 @@ organizations:
 bio: MSc student in Sustainable Chemical Process Engineering at UCL.
 social: []
 user_groups:
-  - Current Members
+  - MSc Students
 ---
 **Project:** Machine learning for copper leaching modelling

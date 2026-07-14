@@ -18,9 +18,21 @@ sections:
 
   - block: people
     content:
-      title: Current Members
+      title: Researchers
       user_groups:
-        - Current Members
+        - Researchers
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: false
+
+  - block: people
+    content:
+      title: MSc Students
+      user_groups:
+        - MSc Students
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -33,6 +45,14 @@ sections:
       title: Alumni
       text: |
         <div style="display:flex;flex-wrap:wrap;gap:1.5em;margin-top:1em;">
+
+          <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
+            <img src="/media/avatar-rasa.png" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
+            <div>
+              <p style="margin:0;font-weight:600;"><a href="/author/rasa-pourjam/">Rasa Pourjam</a></p>
+              <p style="margin:0;font-size:0.85em;color:#666;">Machine Learning Engineer<br>Solve Chemistry</p>
+            </div>
+          </div>
 
           <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
             <img src="/media/avatar-yicong.jpeg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
