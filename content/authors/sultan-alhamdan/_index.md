@@ -2,7 +2,7 @@
 title: Sultan Alhamdan
 first_name: Sultan
 last_name: Alhamdan
-role: MSc Student
+role: MSc student at UCL
 organizations:
   - name: University College London
     url: 'https://www.ucl.ac.uk'
@@ -11,6 +11,6 @@ organizations:
 bio: MSc student in Sustainable Chemical Process Engineering at UCL.
 social: []
 user_groups:
-  - MSc Students
+  - Current Students
 ---
 **Project:** Machine learning for copper leaching modelling

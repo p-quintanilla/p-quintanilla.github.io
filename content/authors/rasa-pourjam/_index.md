@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: 'https://www.linkedin.com/in/rasa-pourjam/'
 user_groups:
-  - Researchers
+  - Visiting Students and Researchers
 ---
 Rasa was a Research Assistant focused on developing hierarchical control systems that combine reinforcement learning and model predictive control for process engineering applications. He completed his Master's degree at Imperial College London and earned his Bachelor's degree in Chemical Engineering from the University of Tehran. He currently works as a Machine Learning Engineer at Solve Chemistry, where he works on model discovery and AI-driven research tools.
 

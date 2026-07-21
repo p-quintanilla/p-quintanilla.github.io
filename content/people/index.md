@@ -18,9 +18,9 @@ sections:
 
   - block: people
     content:
-      title: Researchers
+      title: Current Students
       user_groups:
-        - Researchers
+        - Current Students
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -30,9 +30,9 @@ sections:
 
   - block: people
     content:
-      title: MSc Students
+      title: Visiting Students and Researchers
       user_groups:
-        - MSc Students
+        - Visiting Students and Researchers
       sort_by: Params.last_name
       sort_ascending: true
     design:

@@ -2,7 +2,7 @@
 title: Roberto Aliaga
 first_name: Roberto
 last_name: Aliaga
-role: Researcher
+role: MSc student at Universidad de Chile
 organizations:
   - name: Universidad de Chile
     url: 'https://www.uchile.cl'
@@ -11,7 +11,7 @@ organizations:
 bio: MSc student in Chemical Engineering at Universidad de Chile.
 social: []
 user_groups:
-  - Researchers
+  - Visiting Students and Researchers
 ---
 Roberto is an MSc student at Universidad de Chile.
 
