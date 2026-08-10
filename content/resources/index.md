@@ -40,11 +40,15 @@ sections:
 
         <div class="res-nav">
           <a href="#python">🐍 Python</a>
+          <a href="#maths">🧮 Maths Foundations</a>
+          <a href="#ml">🧠 ML &amp; Deep Learning</a>
           <a href="#dynamic-modelling">🌀 Dynamic Modelling</a>
           <a href="#optimization">📈 Optimisation &amp; Design Opt.</a>
           <a href="#mpc">🎛️ Model Predictive Control</a>
           <a href="#rl">🤖 Reinforcement Learning</a>
           <a href="#bayes-opt">🎯 Bayesian Optimisation</a>
+          <a href="#sciml">🔬 Physics-Informed ML</a>
+          <a href="#tools">🛠️ Research Tools &amp; Writing</a>
         </div>
         </div>
     design:
@@ -92,6 +96,78 @@ sections:
           </div>
         </div>
 
+        <div class="res-section" id="maths">
+          <div class="res-head">
+            <span class="res-emoji">🧮</span>
+            <h3>Maths Foundations</h3>
+            <span class="res-sub">Linear algebra, calculus, probability and statistics — the bedrock for everything else.</span>
+          </div>
+          <div class="res-grid">
+            <div class="res-card">
+              <h4><span class="res-tag books">Books</span></h4>
+              <ul class="res-list">
+                <li><a href="https://hefferon.net/linearalgebra/">Linear Algebra</a><span class="by">Jim Hefferon — award-winning free undergraduate text</span></li>
+                <li><a href="https://www.openintro.org/book/os/">OpenIntro Statistics</a><span class="by">Diez, Çetinkaya-Rundel &amp; Barr — free, widely used</span></li>
+                <li><a href="https://greenteapress.com/wp/think-stats-2e/">Think Stats</a><span class="by">Allen B. Downey — statistics with Python</span></li>
+              </ul>
+            </div>
+            <div class="res-card">
+              <h4><span class="res-tag videos">YouTube</span></h4>
+              <ul class="res-list">
+                <li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of Linear Algebra</a><span class="by">3Blue1Brown — visual, intuition-first</span></li>
+                <li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">Essence of Calculus</a><span class="by">3Blue1Brown — the ideas behind the maths</span></li>
+                <li><a href="https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8">MIT 18.06 Linear Algebra</a><span class="by">Gilbert Strang — the legendary full course</span></li>
+                <li><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9">Statistics Fundamentals</a><span class="by">StatQuest (Josh Starmer) — stats made simple</span></li>
+              </ul>
+            </div>
+            <div class="res-card">
+              <h4><span class="res-tag sites">Websites</span></h4>
+              <ul class="res-list">
+                <li><a href="https://seeing-theory.brown.edu/">Seeing Theory</a><span class="by">Brown University — visual intro to probability &amp; statistics</span></li>
+                <li><a href="https://immersivemath.com/ila/">Immersive Linear Algebra</a><span class="by">Linear algebra with fully interactive figures</span></li>
+                <li><a href="https://www.khanacademy.org/math">Khan Academy — Maths</a><span class="by">Free courses across all of mathematics</span></li>
+                <li><a href="https://tutorial.math.lamar.edu/">Paul's Online Math Notes</a><span class="by">Clear notes &amp; worked examples (algebra → calculus)</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="res-section" id="ml">
+          <div class="res-head">
+            <span class="res-emoji">🧠</span>
+            <h3>Machine Learning &amp; Deep Learning</h3>
+            <span class="res-sub">The foundations that reinforcement learning and Bayesian optimisation build on.</span>
+          </div>
+          <div class="res-grid">
+            <div class="res-card">
+              <h4><span class="res-tag books">Books</span></h4>
+              <ul class="res-list">
+                <li><a href="https://mml-book.github.io/">Mathematics for Machine Learning</a><span class="by">Deisenroth, Faisal &amp; Ong — free PDF, the maths behind ML</span></li>
+                <li><a href="https://www.statlearning.com/">An Introduction to Statistical Learning</a><span class="by">James, Witten, Hastie &amp; Tibshirani — free PDF (Python &amp; R)</span></li>
+                <li><a href="https://d2l.ai/">Dive into Deep Learning</a><span class="by">Interactive book with code, maths and discussion</span></li>
+                <li><a href="https://udlbook.github.io/udlbook/">Understanding Deep Learning</a><span class="by">Simon J. D. Prince — free PDF (MIT Press)</span></li>
+              </ul>
+            </div>
+            <div class="res-card">
+              <h4><span class="res-tag videos">YouTube</span></h4>
+              <ul class="res-list">
+                <li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU">Stanford CS229: Machine Learning</a><span class="by">Andrew Ng — the classic full ML course</span></li>
+                <li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Neural Networks</a><span class="by">3Blue1Brown — visual intro to how neural nets work</span></li>
+                <li><a href="https://www.youtube.com/@statquest/playlists">Machine Learning</a><span class="by">StatQuest — concepts clearly explained, step by step</span></li>
+              </ul>
+            </div>
+            <div class="res-card">
+              <h4><span class="res-tag sites">Websites</span></h4>
+              <ul class="res-list">
+                <li><a href="https://course.fast.ai/">fast.ai — Practical Deep Learning</a><span class="by">Top-down, hands-on deep learning for coders</span></li>
+                <li><a href="https://developers.google.com/machine-learning/crash-course">Google ML Crash Course</a><span class="by">Fast, practical, with interactive exercises</span></li>
+                <li><a href="https://introtodeeplearning.com/">MIT 6.S191: Intro to Deep Learning</a><span class="by">MIT's introductory course — slides + labs</span></li>
+                <li><a href="https://huggingface.co/learn">Hugging Face — Learn</a><span class="by">Free courses: NLP, deep RL and more</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
         <div class="res-section" id="dynamic-modelling">
           <div class="res-head">
             <span class="res-emoji">🌀</span>
@@ -104,7 +180,6 @@ sections:
               <ul class="res-list">
                 <li><a href="https://databookuw.com/">Data-Driven Science &amp; Engineering</a><span class="by">Brunton &amp; Kutz — free PDF + code + videos</span></li>
                 <li><a href="https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf">Differential Equations for Engineers</a><span class="by">Jeffrey R. Chasnov — free textbook (HKUST)</span></li>
-                <li><a href="https://apmonitor.com/pdc/">Process Dynamics &amp; Control</a><span class="by">APMonitor — course notes, code and examples</span></li>
               </ul>
             </div>
             <div class="res-card">
@@ -255,6 +330,72 @@ sections:
                 <li><a href="https://botorch.org/">BoTorch</a><span class="by">Bayesian optimisation in PyTorch</span></li>
                 <li><a href="https://gpytorch.ai/">GPyTorch</a><span class="by">Scalable Gaussian processes</span></li>
                 <li><a href="https://ax.dev/">Ax</a><span class="by">Adaptive experimentation platform (Meta)</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="res-section" id="sciml">
+          <div class="res-head">
+            <span class="res-emoji">🔬</span>
+            <h3>Physics-Informed &amp; Scientific ML</h3>
+            <span class="res-sub">Embedding physical laws and domain knowledge into machine-learning models.</span>
+          </div>
+          <div class="res-grid">
+            <div class="res-card">
+              <h4><span class="res-tag books">Books</span></h4>
+              <ul class="res-list">
+                <li><a href="https://www.physicsbaseddeeplearning.org/">Physics-based Deep Learning</a><span class="by">Thuerey et al. — free digital book with runnable notebooks</span></li>
+                <li><a href="https://book.sciml.ai/">Parallel Computing &amp; Scientific ML</a><span class="by">Chris Rackauckas — MIT 18.337 lecture notes</span></li>
+                <li><a href="https://databookuw.com/">Data-Driven Science &amp; Engineering</a><span class="by">Brunton &amp; Kutz — data-driven models of physical systems</span></li>
+              </ul>
+            </div>
+            <div class="res-card">
+              <h4><span class="res-tag videos">YouTube</span></h4>
+              <ul class="res-list">
+                <li><a href="https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa">Physics-Informed Machine Learning</a><span class="by">Steve Brunton — clear, engineering-focused playlist</span></li>
+                <li><a href="https://www.youtube.com/watch?v=vAilgoY1rPk">Machine Learning for Scientific Discovery</a><span class="by">Steve Brunton — overview talk with examples</span></li>
+              </ul>
+            </div>
+            <div class="res-card">
+              <h4><span class="res-tag sites">Websites</span></h4>
+              <ul class="res-list">
+                <li><a href="https://sciml.ai/">SciML.ai</a><span class="by">Open-source scientific machine-learning ecosystem</span></li>
+                <li><a href="https://deepxde.readthedocs.io/">DeepXDE</a><span class="by">Library for PINNs and differential equations</span></li>
+                <li><a href="https://pysindy.readthedocs.io/">PySINDy</a><span class="by">Discover governing equations directly from data</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="res-section" id="tools">
+          <div class="res-head">
+            <span class="res-emoji">🛠️</span>
+            <h3>Research Tools &amp; Scientific Writing</h3>
+            <span class="res-sub">The practical toolkit for doing and sharing research — version control, reproducibility and writing.</span>
+          </div>
+          <div class="res-grid">
+            <div class="res-card">
+              <h4><span class="res-tag books">Guides</span></h4>
+              <ul class="res-list">
+                <li><a href="https://git-scm.com/book">Pro Git</a><span class="by">Chacon &amp; Straub — the definitive free Git book</span></li>
+                <li><a href="https://book.the-turing-way.org/">The Turing Way</a><span class="by">Handbook for reproducible, ethical research</span></li>
+                <li><a href="https://missing.csail.mit.edu/">The Missing Semester of Your CS Education</a><span class="by">MIT — the shell, Git and tools they don't teach you</span></li>
+              </ul>
+            </div>
+            <div class="res-card">
+              <h4><span class="res-tag videos">Interactive &amp; Video</span></h4>
+              <ul class="res-list">
+                <li><a href="https://learngitbranching.js.org/">Learn Git Branching</a><span class="by">Interactive, visual Git practice in your browser</span></li>
+                <li><a href="https://www.youtube.com/watch?v=RGOj5yH7evk">Git &amp; GitHub for Beginners</a><span class="by">freeCodeCamp — beginner-friendly crash course</span></li>
+              </ul>
+            </div>
+            <div class="res-card">
+              <h4><span class="res-tag sites">Tools &amp; Websites</span></h4>
+              <ul class="res-list">
+                <li><a href="https://software-carpentry.org/lessons/">Software Carpentry</a><span class="by">Shell, Git &amp; Python lessons for researchers</span></li>
+                <li><a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">Overleaf — Learn LaTeX</a><span class="by">Write papers in LaTeX, online, in 30 minutes</span></li>
+                <li><a href="https://skills.github.com/">GitHub Skills</a><span class="by">Hands-on, interactive GitHub courses</span></li>
               </ul>
             </div>
           </div>
