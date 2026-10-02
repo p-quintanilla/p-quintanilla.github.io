@@ -1,5 +1,6 @@
 ---
 title: Research
+summary: "Machine learning, optimisation and control, and AI for science for processes and physical systems at the LOOPS research group, UCL Chemical Engineering."
 date: 2025-08-01
 type: landing
 

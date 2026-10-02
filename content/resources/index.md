@@ -1,5 +1,6 @@
 ---
 title: Resources
+summary: "A curated collection of free books, video courses and websites for learning Python, machine learning, optimisation, model predictive control, reinforcement learning and Bayesian optimisation."
 date: 2025-08-01
 type: landing
 

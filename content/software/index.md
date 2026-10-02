@@ -1,5 +1,6 @@
 ---
 title: Software
+summary: "Open-source software from the LOOPS research group, including Bubble Analyser for bubble size measurement from images."
 date: 2025-08-01
 type: landing
 

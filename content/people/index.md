@@ -1,5 +1,6 @@
 ---
 title: Team
+summary: "Meet the LOOPS research group at UCL Chemical Engineering, and find out about opportunities for PhD students, postdocs and visiting researchers."
 date: 2025-08-01
 type: landing
 

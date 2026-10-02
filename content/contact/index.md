@@ -1,5 +1,6 @@
 ---
 title: Contact
+summary: "Contact the LOOPS research group, led by Dr Paulina Quintanilla, at the UCL Department of Chemical Engineering."
 date: 2025-08-01
 type: landing
 
