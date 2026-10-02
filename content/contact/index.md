@@ -19,8 +19,6 @@ sections:
         ---
 
         If you are interested in joining or working with our group, please email with your CV and links to your LinkedIn or Google Scholar profiles.
-
-        We are currently looking for outstanding postdoctoral researchers interested in applying for the **MSCA Postdoctoral Fellowship** (deadline: **9 September 2026**).
     design:
       columns: '1'
 ---

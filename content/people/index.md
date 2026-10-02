@@ -111,8 +111,6 @@ sections:
       title: Join Us
       text: |
         We are always looking for motivated researchers. If you are interested in joining or working with our group, please email [p.quintanilla@ucl.ac.uk](mailto:p.quintanilla@ucl.ac.uk) with your CV and links to your LinkedIn or Google Scholar profiles.
-
-        We are currently looking for outstanding postdoctoral researchers interested in applying for the **MSCA Postdoctoral Fellowship** (deadline: **9 September 2026**). Please get in touch if your research interests align with our areas.
     design:
       columns: '1'
 ---
