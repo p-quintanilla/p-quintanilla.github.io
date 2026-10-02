@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: 'https://www.linkedin.com/in/sultan-alhamdan'
 user_groups:
-  - Current Students
+  - Alumni
 ---
 Sultan is an MSc Chemical Engineering student at UCL, where his research develops physics-guided machine learning surrogates for real-time irrigation control of copper heap leaching. He holds a bachelor's degree in chemical engineering from the University of Manchester and brings a decade of experience in the energy sector, spanning across refinery process engineering, chemicals trading, merger and acquisition (M&A) of energy assets, and low carbon energy solutions (LC H2 and NH3).
 

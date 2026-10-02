@@ -18,9 +18,9 @@ sections:
 
   - block: people
     content:
-      title: Current Students
+      title: Current PhD Students
       user_groups:
-        - Current Students
+        - Current PhD Students
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -85,6 +85,14 @@ sections:
               <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>Univ. Técnica Federico Santa María</p>
             </div>
           </div>
+
+          <a href="/author/sultan-alhamdan/" style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;color:inherit;text-decoration:none;">
+            <img src="/media/avatar-sultan.jpg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
+            <div>
+              <p style="margin:0;font-weight:600;">Sultan Alhamdan</p>
+              <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>University College London</p>
+            </div>
+          </a>
 
           <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
             <img src="/media/avatar-benjamin-a.jpeg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
