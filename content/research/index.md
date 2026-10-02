@@ -22,7 +22,7 @@ sections:
             <p>A particular focus is the integration of domain knowledge into machine learning, ensuring that AI systems remain interpretable, robust, and reliable when applied to complex real-world problems.</p>
             <p><strong>Research topics:</strong> Physics-informed machine learning · Hybrid modelling and digital twins · Gaussian processes · Scientific machine learning · Bayesian optimisation · Reinforcement learning · Explainable AI · AI-assisted model discovery</p>
             <details style="margin-top:1em;">
-              <summary style="cursor:pointer; font-weight:700;">Related publications (8)</summary>
+              <summary style="cursor:pointer; font-weight:700;">Related publications</summary>
               <ul style="margin-top:0.5em; font-size:0.92em;">
                 <li><a href="/publication/dasyr-llm/">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a> (2026, <em>arXiv preprint</em>)</li>
                 <li><a href="/publication/bayesianflotation2026/">From data to decisions: Bayesian modelling and global sensitivity analysis for flotation control</a> (2026, <em>arXiv preprint</em>)</li>
@@ -55,7 +55,7 @@ sections:
             <p>Our research spans real-time optimisation, model predictive control, stochastic optimisation, and digital twins. We combine mathematical models, machine learning, and feedback control to create closed-loop systems that adapt to changing conditions.</p>
             <p><strong>Research topics:</strong> Model predictive control (MPC) · Economic and stochastic MPC · Real-time optimisation · Dynamic modelling · Digital twins · State estimation · Decision-making under uncertainty · Autonomous process operation</p>
             <details style="margin-top:1em;">
-              <summary style="cursor:pointer; font-weight:700;">Related publications (18)</summary>
+              <summary style="cursor:pointer; font-weight:700;">Related publications</summary>
               <ul style="margin-top:0.5em; font-size:0.92em;">
                 <li><a href="/publication/centralisedempc/">Centralised economic model predictive control of froth flotation banks with experimental implementation</a> (2025, <em>Chemical Engineering Research and Design</em>)</li>
                 <li><a href="/publication/leaching_nmpc/">Saturation regulation in heap leaching: A nonlinear model predictive control approach</a> (2025, <em>Minerals Engineering</em>)</li>
@@ -92,7 +92,7 @@ sections:
             <p>Our vision is to move beyond using AI solely for prediction and towards AI systems that actively support scientific reasoning, hypothesis generation, experiment design, and knowledge discovery.</p>
             <p><strong>Research topics:</strong> AI for Science · Autonomous discovery systems · Materials informatics · Scientific knowledge extraction · Optimal experimental design · Closed-loop experimentation · Scientific foundation models · Sustainable materials and technologies</p>
             <details style="margin-top:1em;">
-              <summary style="cursor:pointer; font-weight:700;">Related publications (4)</summary>
+              <summary style="cursor:pointer; font-weight:700;">Related publications</summary>
               <ul style="margin-top:0.5em; font-size:0.92em;">
                 <li><a href="/publication/dasyr-llm/">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a> (2026, <em>arXiv preprint</em>)</li>
                 <li><a href="/publication/bayesianflotation2026/">From data to decisions: Bayesian modelling and global sensitivity analysis for flotation control</a> (2026, <em>arXiv preprint</em>)</li>
