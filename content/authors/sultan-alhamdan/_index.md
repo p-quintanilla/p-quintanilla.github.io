@@ -2,7 +2,7 @@
 title: Sultan Alhamdan
 first_name: Sultan
 last_name: Alhamdan
-role: MSc student at UCL
+role: MSc 2025/26 at UCL
 organizations:
   - name: University College London
     url: 'https://www.ucl.ac.uk'

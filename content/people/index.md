@@ -38,7 +38,7 @@ sections:
     design:
       show_interests: false
       show_role: true
-      show_social: false
+      show_social: true
 
   - block: markdown
     content:
@@ -47,10 +47,22 @@ sections:
         <div style="display:flex;flex-wrap:wrap;gap:1.5em;margin-top:1em;">
 
           <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
-            <img src="/media/avatar-yicong.jpeg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
+            <a href="/author/sultan-alhamdan/" style="flex-shrink:0;"><img src="/media/avatar-sultan.jpg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;"></a>
             <div>
-              <p style="margin:0;font-weight:600;">Yicong Wang</p>
-              <p style="margin:0;font-size:0.85em;color:#666;">PhD student<br>University of Cambridge</p>
+              <p style="margin:0;font-weight:600;"><a href="/author/sultan-alhamdan/" style="color:inherit;">Sultan Alhamdan</a></p>
+              <p style="margin:0;font-size:0.85em;color:#666;">MSc 2025/26<br>University College London</p>
+              <p style="margin:0.2em 0 0;font-size:0.9em;">
+                <a href="mailto:sultan.alhamdan.25@ucl.ac.uk" aria-label="Email"><i class="fas fa-envelope"></i></a>&nbsp;
+                <a href="https://www.linkedin.com/in/sultan-alhamdan" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+              </p>
+            </div>
+          </div>
+
+          <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
+            <img src="/media/avatar-benjamin-a.jpeg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
+            <div>
+              <p style="margin:0;font-weight:600;">Benjamin Araya</p>
+              <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>Univ. Técnica Federico Santa María</p>
             </div>
           </div>
 
@@ -63,18 +75,18 @@ sections:
           </div>
 
           <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
-            <img src="/media/avatar-victor.jpeg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
-            <div>
-              <p style="margin:0;font-weight:600;">Victor Dehon</p>
-              <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>Imperial College London</p>
-            </div>
-          </div>
-
-          <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
             <img src="/media/avatar-billy.jpg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
             <div>
               <p style="margin:0;font-weight:600;">Billy Davies</p>
               <p style="margin:0;font-size:0.85em;color:#666;">Research Associate<br>Brunel University of London</p>
+            </div>
+          </div>
+
+          <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
+            <img src="/media/avatar-victor.jpeg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
+            <div>
+              <p style="margin:0;font-weight:600;">Victor Dehon</p>
+              <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>Imperial College London</p>
             </div>
           </div>
 
@@ -86,19 +98,11 @@ sections:
             </div>
           </div>
 
-          <a href="/author/sultan-alhamdan/" style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;color:inherit;text-decoration:none;">
-            <img src="/media/avatar-sultan.jpg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
-            <div>
-              <p style="margin:0;font-weight:600;">Sultan Alhamdan</p>
-              <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>University College London</p>
-            </div>
-          </a>
-
           <div style="display:flex;align-items:center;gap:0.8em;min-width:220px;max-width:300px;">
-            <img src="/media/avatar-benjamin-a.jpeg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
+            <img src="/media/avatar-yicong.jpeg" style="width:70px;height:70px;object-fit:cover;border-radius:50%;flex-shrink:0;">
             <div>
-              <p style="margin:0;font-weight:600;">Benjamin Araya</p>
-              <p style="margin:0;font-size:0.85em;color:#666;">Former MSc student<br>Univ. Técnica Federico Santa María</p>
+              <p style="margin:0;font-weight:600;">Yicong Wang</p>
+              <p style="margin:0;font-size:0.85em;color:#666;">PhD student<br>University of Cambridge</p>
             </div>
           </div>
 
