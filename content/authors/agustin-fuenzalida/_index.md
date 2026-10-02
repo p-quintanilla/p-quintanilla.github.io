@@ -1,5 +1,7 @@
 ---
 title: Agustín Fuenzalida
+# Short name shown in publication author lists
+linkTitle: Fuenzalida A
 first_name: Agustín
 last_name: Fuenzalida
 role: MSc student at Universidad Técnica Federico Santa María

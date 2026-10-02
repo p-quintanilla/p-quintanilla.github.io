@@ -1,5 +1,7 @@
 ---
 title: Billy Davies
+# Short name shown in publication author lists
+linkTitle: Davies W
 first_name: Billy
 last_name: Davies
 role: Research Associate

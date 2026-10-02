@@ -18,7 +18,7 @@ sections:
 
         ---
 
-        If you are interested in joining or working with our group, please email with your CV and links to your LinkedIn or Google Scholar profiles.
+        Interested in joining or working with our group? See [opportunities for PhD students, postdocs and visitors](/people/#join-us).
     design:
       columns: '1'
 ---

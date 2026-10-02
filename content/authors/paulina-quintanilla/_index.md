@@ -1,5 +1,7 @@
 ---
 title: Dr Paulina Quintanilla
+# Short name shown in publication author lists
+linkTitle: Quintanilla P
 first_name: Paulina
 last_name: Quintanilla
 

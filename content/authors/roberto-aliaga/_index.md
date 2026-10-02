@@ -1,5 +1,7 @@
 ---
 title: Roberto Aliaga
+# Short name shown in publication author lists
+linkTitle: Aliaga Medina R
 first_name: Roberto
 last_name: Aliaga
 role: MSc student at Universidad de Chile

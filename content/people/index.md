@@ -111,10 +111,19 @@ sections:
       columns: '1'
 
   - block: markdown
+    id: join-us
     content:
       title: Join Us
       text: |
-        We are always looking for motivated researchers. If you are interested in joining or working with our group, please email [p.quintanilla@ucl.ac.uk](mailto:p.quintanilla@ucl.ac.uk) with your CV and links to your LinkedIn or Google Scholar profiles.
+        We are always looking for motivated researchers with a background in chemical engineering, mathematics, physics, computer science or a related field, and an interest in machine learning, optimisation or control.
+
+        **PhD students.** PhD positions are funded through UCL and UK research council studentships when available, external scholarships (such as government scholarship schemes in your home country), or self-funding. Funded positions are announced on our [News](/post/) page.
+
+        **Postdoctoral researchers.** We are happy to support strong candidates applying for independent fellowships, such as the Marie Skłodowska-Curie Postdoctoral Fellowships, Royal Academy of Engineering Research Fellowships, Royal Commission for the Exhibition of 1851 Research Fellowships and Leverhulme Trust Early Career Fellowships. Please get in touch well before the deadline so we can develop a proposal together.
+
+        **MSc and visiting students.** UCL MSc students can carry out their research project with us, and we welcome visiting students and researchers from other institutions.
+
+        **How to apply.** Email [p.quintanilla@ucl.ac.uk](mailto:p.quintanilla@ucl.ac.uk) with your CV, a short paragraph on your research interests and which of our [research areas](/research/) they relate to, and links to your Google Scholar, LinkedIn or GitHub profiles.
     design:
       columns: '1'
 ---
