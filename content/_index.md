@@ -31,9 +31,9 @@ sections:
           align: center
           background:
             image:
-              filename: research_topics_together.png
+              filename: research-background.jpg
               filters:
-                brightness: 0.3
+                brightness: 0.7
             position: center
             color: '#0e0c1a'
           link:
