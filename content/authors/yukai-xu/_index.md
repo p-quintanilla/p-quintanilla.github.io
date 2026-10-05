@@ -19,7 +19,13 @@ education:
       institution: University College London
     - course: MSci Mathematics (2022-2026)
       institution: King's College London
-social: []
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/%E9%92%B0%E5%87%AF-%E5%BE%90-168236441/'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/Jianbing-Xu'
 user_groups:
   - Current PhD Students
 ---

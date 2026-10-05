@@ -1,5 +1,7 @@
 ---
 title: Rasa Pourjam
+# Short name shown in publication author lists
+linkTitle: Pourjam R
 first_name: Rasa
 last_name: Pourjam
 role: Researcher

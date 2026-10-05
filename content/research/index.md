@@ -25,6 +25,7 @@ sections:
             <details style="margin-top:1em;">
               <summary style="cursor:pointer; font-weight:700;">Related publications</summary>
               <ul style="margin-top:0.5em; font-size:0.92em;">
+                <li><a href="/publication/mpc-rl-battery/">Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems</a> (2026, <em>arXiv preprint</em>)</li>
                 <li><a href="/publication/dasyr-llm/">DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</a> (2026, <em>arXiv preprint</em>)</li>
                 <li><a href="/publication/bayesianflotation2026/">From data to decisions: Bayesian modelling and global sensitivity analysis for flotation control</a> (2026, <em>arXiv preprint</em>)</li>
                 <li><a href="/publication/hydrogensensitivity/">Global sensitivity analysis of blue hydrogen production: A comparative study using machine learning</a> (2025, <em>International Journal of Hydrogen Energy</em>)</li>
@@ -58,6 +59,7 @@ sections:
             <details style="margin-top:1em;">
               <summary style="cursor:pointer; font-weight:700;">Related publications</summary>
               <ul style="margin-top:0.5em; font-size:0.92em;">
+                <li><a href="/publication/mpc-rl-battery/">Hierarchical Control via MPC-RL for Multi-Timescale Battery Systems</a> (2026, <em>arXiv preprint</em>)</li>
                 <li><a href="/publication/centralisedempc/">Centralised economic model predictive control of froth flotation banks with experimental implementation</a> (2025, <em>Chemical Engineering Research and Design</em>)</li>
                 <li><a href="/publication/leaching_nmpc/">Saturation regulation in heap leaching: A nonlinear model predictive control approach</a> (2025, <em>Minerals Engineering</em>)</li>
                 <li><a href="/publication/sagdynamicrto/">Dynamic real-time optimization to mitigate critical state effects in expert-controlled SAG mills</a> (2025, <em>Control Engineering Practice</em>)</li>
