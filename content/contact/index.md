@@ -20,6 +20,8 @@ sections:
         ---
 
         Interested in joining or working with our group? See [opportunities for PhD students, postdocs and visitors](/people/#join-us).
+
+        **Please note:** we do not currently have any paid research internships, research assistant positions or PhD scholarships available. Thank you for your understanding. Any future openings will be announced on our [News](/post/) page.
     design:
       columns: '1'
 ---

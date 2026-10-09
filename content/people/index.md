@@ -116,9 +116,11 @@ sections:
     content:
       title: Join Us
       text: |
-        We are always looking for motivated researchers with a background in chemical engineering, mathematics, physics, computer science or a related field, and an interest in machine learning, optimisation or control.
+        We are always glad to hear from motivated researchers with a background in chemical engineering, mathematics, physics, computer science or a related field, and an interest in machine learning, optimisation or control.
 
-        **PhD students.** PhD positions are funded through UCL and UK research council studentships when available, external scholarships (such as government scholarship schemes in your home country), or self-funding. Funded positions are announced on our [News](/post/) page.
+        **Please note:** we do not currently have any paid research internships, research assistant positions or PhD scholarships available. Thank you for your understanding. Any future openings will be announced on our [News](/post/) page.
+
+        **PhD students.** Although we have no PhD scholarships to offer at the moment, we welcome enquiries from applicants who hold, or are applying for, external scholarships (such as government scholarship schemes in your home country) or who are self-funded.
 
         **Postdoctoral researchers.** We are happy to support strong candidates applying for independent fellowships, such as the Marie Skłodowska-Curie Postdoctoral Fellowships, Royal Academy of Engineering Research Fellowships, Royal Commission for the Exhibition of 1851 Research Fellowships and Leverhulme Trust Early Career Fellowships. Please get in touch well before the deadline so we can develop a proposal together.
 
