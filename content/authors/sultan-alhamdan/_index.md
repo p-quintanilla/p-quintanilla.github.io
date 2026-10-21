@@ -1,5 +1,7 @@
 ---
 title: Sultan Alhamdan
+# Short name shown in publication author lists
+linkTitle: Alhamdan S
 first_name: Sultan
 last_name: Alhamdan
 role: MSc 2025/26 at UCL
