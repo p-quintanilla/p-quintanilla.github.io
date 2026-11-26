@@ -20,6 +20,9 @@ education:
     - course: MSci Mathematics (2022-2026)
       institution: King's College London
 social:
+  - icon: university
+    icon_pack: fas
+    link: 'https://profiles.ucl.ac.uk/110135-yukai-xu/about'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/%E9%92%B0%E5%87%AF-%E5%BE%90-168236441/'
